@@ -4,260 +4,6 @@
     <display-name lang="en">[Sky] TNT Sports 1 HD</display-name>
     <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png"/>
   </channel>
-  <programme start="20250420040000 +0000" stop="20250420060000 +0000" channel="I1241.82450.schedulesdirect.org">
-    <title lang="en">Live: A-League Women</title>
-    <sub-title lang="en">Live: Wellington P W v Western U W</sub-title>
-    <desc lang="en">Wellington Phoenix Women v Western United Women (Kick-off 5.00am). Coverage of the match from Jerry Collins Stadium in Porirua, New Zealand</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/ad8729a5-8ae5-50aa-9e5c-e11ea0878520.jpg"/>
-    <episode-num system="xmltv_ns">2023.136.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420060000 +0000" stop="20250420063000 +0000" channel="I1241.82450.schedulesdirect.org">
-    <title lang="en">The WRC Magazine</title>
-    <sub-title lang="en">Rally Islas Canarias</sub-title>
-    <desc lang="en">The latest news and action from the World Rally Championship and Rally Islas Canarias</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/df2db5b0-bf4a-53dd-979b-7e4b2ebaa2e6.jpg"/>
-    <episode-num system="xmltv_ns">2024.3.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420063000 +0000" stop="20250420070000 +0000" channel="I1241.82450.schedulesdirect.org">
-    <title lang="en">Premier League Stories</title>
-    <desc lang="en">A look at the career of former Liverpool star Philippe Coutinho</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/94c52413-c481-5313-8bfb-5c42cc150f85.jpg"/>
-    <episode-num system="xmltv_ns">2023.36.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420070000 +0000" stop="20250420090000 +0000" channel="I1241.82450.schedulesdirect.org">
-    <title lang="en">Live: Isuzu UTE A-League</title>
-    <sub-title lang="en">Live: CC Mariners v Macarthur</sub-title>
-    <desc lang="en">Central Coast Mariners v Macarthur FC (Kick-off 8.00am). Coverage of the Australian top-flight match from Industree Group Stadium in Gosford, New South Wales</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/f1ff0836-ef6c-52c4-b611-9b2e34bfdf4a.jpg"/>
-    <episode-num system="xmltv_ns">2023.156.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420090000 +0000" stop="20250420120000 +0000" channel="I1241.82450.schedulesdirect.org">
-    <title lang="en">Live AFL</title>
-    <sub-title lang="en">Live AFL: Western Bulldogs v St Kilda</sub-title>
-    <desc lang="en">Western Bulldogs v St Kilda Saints (Bounce-up 10.20am). Coverage of the match from Marvel Stadium in Melbourne</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/6fa3421f-3914-5262-9940-8b45270e83ce.jpg"/>
-    <episode-num system="xmltv_ns">2024.52.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420120000 +0000" stop="20250420123000 +0000" channel="I1241.82450.schedulesdirect.org">
-    <title lang="en">The WRC Magazine</title>
-    <sub-title lang="en">Rally Islas Canarias</sub-title>
-    <desc lang="en">The latest news and action from the World Rally Championship and Rally Islas Canarias</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/df2db5b0-bf4a-53dd-979b-7e4b2ebaa2e6.jpg"/>
-    <episode-num system="xmltv_ns">2024.3.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420123000 +0000" stop="20250420133000 +0000" channel="I1241.82450.schedulesdirect.org">
-    <title lang="en">Gallagher Premiership Rugby Union</title>
-    <sub-title lang="en">Saracens v Gloucester Rugby</sub-title>
-    <desc lang="en">Saracens v Gloucester Rugby</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/9d5c3348-c76f-53ac-88b9-b9c3e944c3a4.jpg"/>
-    <episode-num system="xmltv_ns">2023.68.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420133000 +0000" stop="20250420161500 +0000" channel="I1241.82450.schedulesdirect.org">
-    <title lang="en">Live Gallagher Premiership Rugby Union</title>
-    <sub-title lang="en">Live: Bristol Bears v Leicester T</sub-title>
-    <desc lang="en">Bristol Bears v Leicester Tigers (Kick-off 3.00pm). Coverage of the match from Ashton Gate</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/e702a91d-3d40-59b9-9fd0-096c01ad84d4.jpg"/>
-    <episode-num system="xmltv_ns">2023.69.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420161500 +0000" stop="20250420170000 +0000" channel="I1241.82450.schedulesdirect.org">
-    <title lang="en">The Rugby Review</title>
-    <sub-title lang="en">Matchweek 14</sub-title>
-    <desc lang="en">A look back at matchweek 14 of Gallagher Premiership Rugby, including Saracens v Gloucester Rugby, Bristol Bears v Leicester Tigers and Exeter Chiefs v Bath Rugby</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/5512cbb8-0024-5595-83af-2448f88e0a07.jpg"/>
-    <episode-num system="xmltv_ns">2023.13.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420170000 +0000" stop="20250420173000 +0000" channel="I1241.82450.schedulesdirect.org">
-    <title lang="en">UEFA Champions League Magazine</title>
-    <desc lang="en">Arsenal's Gabriel Martinelli reflects on how rejection in his younger years helped him find his home in North London. And, PSG defender Marquinhos talks about his rise to the top</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/a1d83c92-4983-5e77-9520-3ea1d40a34f3.jpg"/>
-    <episode-num system="xmltv_ns">2023.28.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420173000 +0000" stop="20250420183000 +0000" channel="I1241.82450.schedulesdirect.org">
-    <title lang="en">UEFA Europa League &amp; Conference League Highlights Show</title>
-    <desc lang="en">All the best action from the quarter-final second-leg ties, including Manchester United v Lyon, and Eintracht Frankfurt v Tottenham Hotspur</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/c11b6051-88e8-5403-b65b-7f3d283c290e.jpg"/>
-    <episode-num system="xmltv_ns">2023.15.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420183000 +0000" stop="20250420204500 +0000" channel="I1241.82450.schedulesdirect.org">
-    <title lang="en">Live: Serie A</title>
-    <sub-title lang="en">Live: AC Milan v Atalanta</sub-title>
-    <desc lang="en">AC Milan v Atalanta (Kick-off 7.45pm). Coverage of the Italian top-flight match from San Siro</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/4a97cb4b-9552-58e1-a27d-4754388caf72.jpg"/>
-    <episode-num system="xmltv_ns">2023.67.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420204500 +0000" stop="20250420214500 +0000" channel="I1241.82450.schedulesdirect.org">
-    <title lang="en">Isuzu UTE A-League</title>
-    <sub-title lang="en">Sydney FC v Newcastle Jets</sub-title>
-    <desc lang="en">Sydney FC v Newcastle Jets</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/a9cf0d84-24bf-55e6-83ee-cf4d72caa678.jpg"/>
-    <episode-num system="xmltv_ns">2023.155.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420214500 +0000" stop="20250420224500 +0000" channel="I1241.82450.schedulesdirect.org">
-    <title lang="en">Isuzu UTE A-League</title>
-    <sub-title lang="en">Central Coast Mariners v Macarthur</sub-title>
-    <desc lang="en">Central Coast Mariners v Macarthur FC</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/92a5e6cf-3580-5cfe-8c36-2b8b4e95bfb8.jpg"/>
-    <episode-num system="xmltv_ns">2023.156.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420224500 +0000" stop="20250420230000 +0000" channel="I1241.82450.schedulesdirect.org">
-    <title lang="en">TNT Sports Cricket Reload</title>
-    <sub-title lang="en">New Zealand v Pakistan-2nd ODI 2025</sub-title>
-    <desc lang="en">A look back at New Zealand v Pakistan in the second ODI of the series</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/3808d47f-f696-51e7-8939-b1dd996e4abf.jpg"/>
-    <episode-num system="xmltv_ns">2022.244.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420230000 +0000" stop="20250421021500 +0000" channel="I1241.82450.schedulesdirect.org">
-    <title lang="en">Live MLB</title>
-    <sub-title lang="en">Live MLB: Padres @ Astros</sub-title>
-    <desc lang="en">Houston Astros v San Diego Padres (Start-time 12.10am). Coverage of the inter-league match from Daikin Park</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/34e48fc1-0bc3-5612-8fcd-8f26c4d43ca2.jpg"/>
-    <episode-num system="xmltv_ns">2024.53.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250421021500 +0000" stop="20250421024500 +0000" channel="I1241.82450.schedulesdirect.org">
-    <title lang="en">MLB Plays of the Week</title>
-    <desc lang="en">A look at the most exciting plays from the past week's matches</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/1a2f92fc-4600-5238-82b6-fbd222f630e5.jpg"/>
-    <episode-num system="xmltv_ns">2024.2.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250421024500 +0000" stop="20250421030000 +0000" channel="I1241.82450.schedulesdirect.org">
-    <title lang="en">TNT Sports Reload</title>
-    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more</desc>
-    <icon src="https://tv.assets.pressassociation.io/819f4a42-886a-584f-b9cc-c5412ddd1498.jpg"/>
-    <episode-num system="xmltv_ns">2024.15.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250421030000 +0000" stop="20250421040000 +0000" channel="I1241.82450.schedulesdirect.org">
-    <title lang="en">Women's Cycling World Tour</title>
-    <sub-title lang="en">Amstel Gold</sub-title>
-    <desc lang="en">Action from the 2025 Amstel Gold</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/73c63c56-f309-5ee0-aaef-f53f5ad17943.jpg"/>
-    <episode-num system="xmltv_ns">2024.8.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250421040000 +0000" stop="20250421050000 +0000" channel="I1241.82450.schedulesdirect.org">
-    <title lang="en">Men's Cycling World Tour</title>
-    <sub-title lang="en">Amstel Gold</sub-title>
-    <desc lang="en">Action from the 2025 Amstel Gold</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/fb461510-ae58-5081-87a3-d37beca14b90.jpg"/>
-    <episode-num system="xmltv_ns">2024.41.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
   <programme start="20250421050000 +0000" stop="20250421080000 +0000" channel="I1241.82450.schedulesdirect.org">
     <title lang="en">Live AFL</title>
     <sub-title lang="en">Live AFL: Geelong Cats v Hawthorn</sub-title>
@@ -1713,67 +1459,35 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <channel id="I1246.82451.schedulesdirect.org">
-    <display-name lang="en">[Sky] TNT Sports 2 HD</display-name>
-    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png"/>
-  </channel>
-  <programme start="20250420050000 +0000" stop="20250420080000 +0000" channel="I1246.82451.schedulesdirect.org">
-    <title lang="en">Live AFL</title>
-    <sub-title lang="en">Live AFL: Sydney S v P Adelaide</sub-title>
-    <desc lang="en">Sydney Swans v Port Adelaide Power (Bounce-up 6.20am). Coverage of the match from Sydney Cricket Ground</desc>
+  <programme start="20250427043000 +0000" stop="20250427050000 +0000" channel="I1241.82450.schedulesdirect.org">
+    <title lang="en">World Rally Championship</title>
+    <desc lang="en">Action from the second day of the Islas Canarias</desc>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/b1b177f3-68ef-5b98-8dfa-d2130f9d16eb.jpg"/>
-    <episode-num system="xmltv_ns">2024.51.</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/2be381d9-5ae9-5a4a-9e90-80671752bc82.jpg"/>
+    <episode-num system="xmltv_ns">2024.1.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20250427050000 +0000" stop="20250427053000 +0000" channel="I1241.82450.schedulesdirect.org">
+    <title lang="en">UEFA Champions League - Classics</title>
+    <sub-title lang="en">PSG v Barcelona 2014/15</sub-title>
+    <desc lang="en">We revisit the 2014/15 UEFA Champions League quarter-final first leg between PSG and Barcelona at the Parc des Princes. PSG had been unbeaten at home in Europe for nine years</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/a42504c0-59bb-5483-a663-e02d388a580d.jpg"/>
+    <episode-num system="xmltv_ns">.93.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250420080000 +0000" stop="20250420090000 +0000" channel="I1246.82451.schedulesdirect.org">
-    <title lang="en">UEFA Women's Champions League</title>
-    <sub-title lang="en">Arsenal Women v Lyon Women</sub-title>
-    <desc lang="en">Arsenal Women v Lyon Women</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/dfd04359-f833-556f-a62b-417478ee6f08.jpg"/>
-    <episode-num system="xmltv_ns">2023.15.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420090000 +0000" stop="20250420100000 +0000" channel="I1246.82451.schedulesdirect.org">
-    <title lang="en">Gallagher Premiership Rugby Union</title>
-    <sub-title lang="en">Harlequins v Sale Sharks</sub-title>
-    <desc lang="en">Harlequins v Sale Sharks</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/b4018344-a4ee-52c9-a64a-2db4821e81ea.jpg"/>
-    <episode-num system="xmltv_ns">2023.67.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420100000 +0000" stop="20250420110000 +0000" channel="I1246.82451.schedulesdirect.org">
+  <programme start="20250427053000 +0000" stop="20250427063000 +0000" channel="I1241.82450.schedulesdirect.org">
     <title lang="en">The Ultimate Cycling Show</title>
-    <desc lang="en">Orla and Adam are joined by Jip van den Bos &amp; Luke Durbridge to look back at Paris Roubaix where rider safety became a concern</desc>
+    <desc lang="en">Orla Chennaoui and Adam Blythe are joined by the stars of cycling as they guide you through everything you need to know about bike racing on the track, road and in the mountains</desc>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/4b3b85a9-7ab3-530d-a971-ca51e215017c.jpg"/>
-    <episode-num system="xmltv_ns">2024.7.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420110000 +0000" stop="20250420123000 +0000" channel="I1246.82451.schedulesdirect.org">
-    <title lang="en">Live: Women's Cycling World Tour</title>
-    <sub-title lang="en">Amstel Gold</sub-title>
-    <desc lang="en">The Amstel Gold. Coverage of the one-day race in Limburg, Netherlands</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/fbce4e26-a519-5484-b96a-ff98041af0b2.jpg"/>
     <episode-num system="xmltv_ns">2024.8.</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -1781,75 +1495,124 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250420123000 +0000" stop="20250420153000 +0000" channel="I1246.82451.schedulesdirect.org">
-    <title lang="en">Live: Men's Cycling World Tour</title>
-    <sub-title lang="en">Amstel Gold</sub-title>
-    <desc lang="en">The Amstel Gold. Coverage of the one-day race in Limburg, Netherlands</desc>
+  <programme start="20250427063000 +0000" stop="20250427093000 +0000" channel="I1241.82450.schedulesdirect.org">
+    <title lang="en">Live AFL</title>
+    <sub-title lang="en">Live AFL: Hawthorn v WC Eagles</sub-title>
+    <desc lang="en">Hawthorn Hawks v West Coast Eagles (Bounce-up 7.40am). Coverage of the match from Marvel Stadium in Melbourne</desc>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/4cadf826-a1b5-5bd0-a238-7e5fffe0c16a.jpg"/>
-    <episode-num system="xmltv_ns">2024.41.</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/d9c32453-cfc2-5f39-8167-2d3f5d91151e.jpg"/>
+    <episode-num system="xmltv_ns">2024.62.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250420153000 +0000" stop="20250420183000 +0000" channel="I1246.82451.schedulesdirect.org">
-    <title lang="en">Live UEFA Women's Champions League</title>
-    <sub-title lang="en">Live: Barcelona Women v Chelsea Women</sub-title>
-    <desc lang="en">Barcelona Women v Chelsea Women (Kick-off 5.00pm). Coverage of the semi-final first-leg tie from Estadi Johan Cruyff</desc>
+  <programme start="20250427093000 +0000" stop="20250427111500 +0000" channel="I1241.82450.schedulesdirect.org">
+    <title lang="en">Live World Rally Championship</title>
+    <sub-title lang="en">Live WRC: Rally Islas Canarias</sub-title>
+    <desc lang="en">The Rally Islas Canarias. Coverage of Special Stages 16 and 17 from the fourth round of the season in Gran Canaria</desc>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/d7ab96af-b2c4-5e4c-9ceb-1bbbc673c492.jpg"/>
-    <episode-num system="xmltv_ns">2023.16.</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/0cb46f69-d9e8-5006-9216-ff9670d934ff.jpg"/>
+    <episode-num system="xmltv_ns">2024.20.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250420183000 +0000" stop="20250420190000 +0000" channel="I1246.82451.schedulesdirect.org">
-    <title lang="en">NBA Action</title>
-    <desc lang="en">A round-up of the latest action from the NBA</desc>
+  <programme start="20250427111500 +0000" stop="20250427121500 +0000" channel="I1241.82450.schedulesdirect.org">
+    <title lang="en">Serie A</title>
+    <sub-title lang="en">69</sub-title>
+    <desc lang="en">Football from Italy's top division</desc>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/a096de76-4913-5a78-b76a-8d6e85ce760f.jpg"/>
-    <episode-num system="xmltv_ns">2023.25.</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/8d6ce588-f413-52f0-a098-27e4bec99101.jpg"/>
+    <episode-num system="xmltv_ns">2023.68.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250420190000 +0000" stop="20250420193000 +0000" channel="I1246.82451.schedulesdirect.org">
-    <title lang="en">NBA on Fire</title>
-    <desc lang="en">The latest news from the world of the NBA</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/832b3932-de1f-5991-bc4f-ea8bbffd1aaa.jpg"/>
-    <episode-num system="xmltv_ns">2023.24.</episode-num>
+  <programme start="20250427121500 +0000" stop="20250427123000 +0000" channel="I1241.82450.schedulesdirect.org">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more</desc>
+    <icon src="https://tv.assets.pressassociation.io/819f4a42-886a-584f-b9cc-c5412ddd1498.jpg"/>
+    <episode-num system="xmltv_ns">2024.16.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250420193000 +0000" stop="20250420220000 +0000" channel="I1246.82451.schedulesdirect.org">
-    <title lang="en">Live NBA</title>
-    <sub-title lang="en">Live NBA: Magic @ Celtics</sub-title>
-    <desc lang="en">Boston Celtics v Orlando Magic (Tip-off 8.30pm). Coverage of game one from the first round of the Eastern Conference play-offs from TD Garden</desc>
+  <programme start="20250427123000 +0000" stop="20250427133000 +0000" channel="I1241.82450.schedulesdirect.org">
+    <title lang="en">MLB Highlights</title>
+    <desc lang="en">Action from Major League Baseball</desc>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/2fd30a95-c5a6-5890-b3e9-867a524982f5.jpg"/>
-    <episode-num system="xmltv_ns">2023.269.</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/1a52f67b-d77f-5fed-9111-fb74969e0f8c.jpg"/>
+    <episode-num system="xmltv_ns">2024.30.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20250427133000 +0000" stop="20250427161500 +0000" channel="I1241.82450.schedulesdirect.org">
+    <title lang="en">Live Gallagher Premiership Rugby Union</title>
+    <sub-title lang="en">Live: Gloucester Rugby v Exeter C</sub-title>
+    <desc lang="en">Gloucester Rugby v Exeter Chiefs (Kick-off 3.00pm). Coverage of the match from Kingsholm Stadium</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/ad8a0466-b324-5bab-9040-6162cac7940b.jpg"/>
+    <episode-num system="xmltv_ns">2023.74.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250420220000 +0000" stop="20250420230000 +0000" channel="I1246.82451.schedulesdirect.org">
-    <title lang="en">Gallagher Premiership Rugby Union</title>
-    <sub-title lang="en">Bristol Bears v Leicester Tigers</sub-title>
-    <desc lang="en">Bristol Bears v Leicester Tigers</desc>
+  <programme start="20250427161500 +0000" stop="20250427170000 +0000" channel="I1241.82450.schedulesdirect.org">
+    <title lang="en">The Rugby Review</title>
+    <sub-title lang="en">Matchweek 15</sub-title>
+    <desc lang="en">A look back at matchweek 15 of Gallagher Premiership, including Sale Sharks v Saracens, Bath Rugby v Newcastle Falcons and Gloucester Rugby v Exeter Chiefs</desc>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/7700f57c-3797-5bf8-a2f8-24ec845c5ff6.jpg"/>
+    <icon src="https://tv.assets.pressassociation.io/5512cbb8-0024-5595-83af-2448f88e0a07.jpg"/>
+    <episode-num system="xmltv_ns">2023.14.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427170000 +0000" stop="20250427180000 +0000" channel="I1241.82450.schedulesdirect.org">
+    <title lang="en">Serie A</title>
+    <sub-title lang="en">69</sub-title>
+    <desc lang="en">Football from Italy's top division</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/8d6ce588-f413-52f0-a098-27e4bec99101.jpg"/>
+    <episode-num system="xmltv_ns">2023.68.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427180000 +0000" stop="20250427183000 +0000" channel="I1241.82450.schedulesdirect.org">
+    <title lang="en">Match Officials Mic'd Up</title>
+    <desc lang="en">PGMOL Chief Refereeing Officer Howard Webb joins Michael Owen in the studio to provide context and explanation behind refereeing decisions from the season so far</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/4ee8a01c-5600-5970-9ac5-5c26bd1d87f3.jpg"/>
+    <episode-num system="xmltv_ns">2023.7.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427183000 +0000" stop="20250427204500 +0000" channel="I1241.82450.schedulesdirect.org">
+    <title lang="en">Live: Serie A</title>
+    <sub-title lang="en">70</sub-title>
+    <desc lang="en">Football from Italy's top division (Kick-off TBA)</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/fbf7fe39-1fe4-569f-8053-7c672de485b5.jpg"/>
     <episode-num system="xmltv_ns">2023.69.</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -1857,68 +1620,60 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250420230000 +0000" stop="20250421003000 +0000" channel="I1246.82451.schedulesdirect.org">
-    <title lang="en">Ultimate Pool</title>
-    <sub-title lang="en">Group 15 Champions League</sub-title>
-    <desc lang="en">Action from Group 15 of the Champions League</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/c9493185-ecca-50f5-a10e-a06feac0f946.jpg"/>
-    <episode-num system="xmltv_ns">2024.14.</episode-num>
+  <programme start="20250427204500 +0000" stop="20250427210000 +0000" channel="I1241.82450.schedulesdirect.org">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more</desc>
+    <icon src="https://tv.assets.pressassociation.io/819f4a42-886a-584f-b9cc-c5412ddd1498.jpg"/>
+    <episode-num system="xmltv_ns">2024.16.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250421003000 +0000" stop="20250421010000 +0000" channel="I1246.82451.schedulesdirect.org">
-    <title lang="en">NBA Action</title>
-    <desc lang="en">A round-up of the latest action from the NBA</desc>
+  <programme start="20250427210000 +0000" stop="20250428000000 +0000" channel="I1241.82450.schedulesdirect.org">
+    <title lang="en">UFC</title>
+    <sub-title lang="en">UFC Fight Night</sub-title>
+    <desc lang="en">Ian Machado Garry v Carlos Prates</desc>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/a096de76-4913-5a78-b76a-8d6e85ce760f.jpg"/>
-    <episode-num system="xmltv_ns">2023.25.</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/c2106785-07e0-5166-ae5c-ae449b4e1b4f.jpg"/>
+    <episode-num system="xmltv_ns">2024.31.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250421010000 +0000" stop="20250421013000 +0000" channel="I1246.82451.schedulesdirect.org">
-    <title lang="en">NBA on Fire</title>
-    <desc lang="en">The latest news from the world of the NBA</desc>
+  <programme start="20250428000000 +0000" stop="20250428013000 +0000" channel="I1241.82450.schedulesdirect.org">
+    <title lang="en">NBA</title>
+    <sub-title lang="en">276</sub-title>
+    <desc lang="en">Action from a play-off match</desc>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/832b3932-de1f-5991-bc4f-ea8bbffd1aaa.jpg"/>
-    <episode-num system="xmltv_ns">2023.24.</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/7a004cd8-54c9-537f-9fc1-a17ac424fdb2.jpg"/>
+    <episode-num system="xmltv_ns">2023.275.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250421013000 +0000" stop="20250421040000 +0000" channel="I1246.82451.schedulesdirect.org">
+  <programme start="20250428013000 +0000" stop="20250428040000 +0000" channel="I1241.82450.schedulesdirect.org">
     <title lang="en">Live NBA</title>
-    <sub-title lang="en">Live NBA: Warriors @ Rockets</sub-title>
-    <desc lang="en">Houston Rockets v Golden State Warriors (Tip-off 2.30am). Coverage of game one of the first round of the Western Conference play-offs from Toyota Center</desc>
+    <sub-title lang="en">278</sub-title>
+    <desc lang="en">Coverage of a play-off match (Tip-off TBA)</desc>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/2fd30a95-c5a6-5890-b3e9-867a524982f5.jpg"/>
-    <episode-num system="xmltv_ns">2023.268.</episode-num>
+    <episode-num system="xmltv_ns">2023.277.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250421040000 +0000" stop="20250421050000 +0000" channel="I1246.82451.schedulesdirect.org">
-    <title lang="en">Inside the NBA</title>
-    <desc lang="en">Post-game analysis of tonight's NBA matches</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/10a2e708-8f29-59e9-9ec5-4d0cb881cc29.jpg"/>
-    <episode-num system="xmltv_ns">2023.36.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
+  <channel id="I1246.82451.schedulesdirect.org">
+    <display-name lang="en">[Sky] TNT Sports 2 HD</display-name>
+    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png"/>
+  </channel>
   <programme start="20250421050000 +0000" stop="20250421060000 +0000" channel="I1246.82451.schedulesdirect.org">
     <title lang="en">Serie A</title>
     <sub-title lang="en">AC Milan v Atalanta</sub-title>
@@ -3623,140 +3378,153 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <channel id="I1248.95772.schedulesdirect.org">
-    <display-name lang="en">[Sky] TNT Sports 3 HD</display-name>
-    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png"/>
-  </channel>
-  <programme start="20250420050000 +0000" stop="20250420070000 +0000" channel="I1248.95772.schedulesdirect.org">
-    <title lang="en">Live: Isuzu UTE A-League</title>
-    <sub-title lang="en">Live: Sydney FC v Newcastle Jets</sub-title>
-    <desc lang="en">Sydney FC v Newcastle Jets (Kick-off 6.00am). Coverage of the Australian top-flight match from Allianz Stadium in Sydney</desc>
+  <programme start="20250427030000 +0000" stop="20250427060000 +0000" channel="I1246.82451.schedulesdirect.org">
+    <title lang="en">Live AFL</title>
+    <sub-title lang="en">Live AFL: Gold Coast S v Sydney S</sub-title>
+    <desc lang="en">Gold Coast Suns v Sydney Swans (Bounce-up 4.10am). Coverage of the match from People First Stadium on the Gold Coast</desc>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/267b07f3-4b47-577c-b98a-8b31356f4ad2.jpg"/>
-    <episode-num system="xmltv_ns">2023.155.</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/d9c32453-cfc2-5f39-8167-2d3f5d91151e.jpg"/>
+    <episode-num system="xmltv_ns">2024.60.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250420070000 +0000" stop="20250420090000 +0000" channel="I1248.95772.schedulesdirect.org">
-    <title lang="en">Snooker World Championship</title>
-    <desc lang="en">Action from the first day of the tournament</desc>
+  <programme start="20250427060000 +0000" stop="20250427063000 +0000" channel="I1246.82451.schedulesdirect.org">
+    <title lang="en">World Rally Championship</title>
+    <desc lang="en">Action from the second day of the Islas Canarias</desc>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/6432e0d8-835c-5c8f-8b32-fe378d1d429f.jpg"/>
-    <episode-num system="xmltv_ns">2024.144.</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/2be381d9-5ae9-5a4a-9e90-80671752bc82.jpg"/>
+    <episode-num system="xmltv_ns">2024.1.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
   </programme>
-  <programme start="20250420090000 +0000" stop="20250420120000 +0000" channel="I1248.95772.schedulesdirect.org">
+  <programme start="20250427063000 +0000" stop="20250427073000 +0000" channel="I1246.82451.schedulesdirect.org">
+    <title lang="en">Live Red Bull MotoGP Rookies Cup</title>
+    <sub-title lang="en">Race 2-Jerez, Spain</sub-title>
+    <desc lang="en">The Grand Prix of Spain. Coverage of the second race from the first round of the season, which takes place at Circuito de Jerez - Ángel Nieto</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/22a83fbc-71e8-5553-b098-30a977bd7416.jpg"/>
+    <episode-num system="xmltv_ns">2024.1.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427073000 +0000" stop="20250427080000 +0000" channel="I1246.82451.schedulesdirect.org">
+    <title lang="en">Live MotoGP</title>
+    <sub-title lang="en">Live MotoGP: Spain Warm-Up</sub-title>
+    <desc lang="en">The Grand Prix of Spain MotoGP warm-up session. Coverage from the fifth round of the season at Circuito de Jerez - Angel Nieto in Jerez</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/a65bc668-8cf7-53c2-8388-18b9c83c708e.jpg"/>
+    <episode-num system="xmltv_ns">2024.54.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427080000 +0000" stop="20250427100000 +0000" channel="I1246.82451.schedulesdirect.org">
+    <title lang="en">Live MotoGP</title>
+    <sub-title lang="en">Live Moto3: GP of Spain</sub-title>
+    <desc lang="en">The Grand Prix of Spain Moto3 race (Start-time 10.00am). Coverage from the fifth round of the season at Circuito de Jerez - Angel Nieto in Jerez</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/a65bc668-8cf7-53c2-8388-18b9c83c708e.jpg"/>
+    <episode-num system="xmltv_ns">2024.55.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427100000 +0000" stop="20250427111500 +0000" channel="I1246.82451.schedulesdirect.org">
+    <title lang="en">Live MotoGP</title>
+    <sub-title lang="en">Live Moto2: GP of Spain</sub-title>
+    <desc lang="en">The Grand Prix of Spain Moto2 race (Start-time 11.15am). Coverage from the fifth round of the season at Circuito de Jerez - Angel Nieto in Jerez</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/a65bc668-8cf7-53c2-8388-18b9c83c708e.jpg"/>
+    <episode-num system="xmltv_ns">2024.56.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427111500 +0000" stop="20250427131500 +0000" channel="I1246.82451.schedulesdirect.org">
+    <title lang="en">Live MotoGP</title>
+    <sub-title lang="en">Live MotoGP: GP of Spain</sub-title>
+    <desc lang="en">The Grand Prix of Spain MotoGP race (Start-time 1.00pm). Coverage from the fifth round of the season at Circuito de Jerez - Angel Nieto in Jerez</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/a65bc668-8cf7-53c2-8388-18b9c83c708e.jpg"/>
+    <episode-num system="xmltv_ns">2024.57.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427131500 +0000" stop="20250427133000 +0000" channel="I1246.82451.schedulesdirect.org">
+    <title lang="en">MotoGP Chequered Flag</title>
+    <sub-title lang="en">Grand Prix of Spain</sub-title>
+    <desc lang="en">Post-race show featuring analysis, highlights and interviews with all the key riders following the Grand Prix of Spain</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/263af107-58c6-5cce-9c69-592712da6150.jpg"/>
+    <episode-num system="xmltv_ns">2024.4.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427133000 +0000" stop="20250427163000 +0000" channel="I1246.82451.schedulesdirect.org">
     <title lang="en">Live: Snooker World Championship</title>
-    <sub-title lang="en">Round 1-Day 2-Session 1-1st Choice Table</sub-title>
-    <desc lang="en">Coverage from the first session on day two of the tournament, which takes place at the Crucible Theatre in Sheffield</desc>
+    <sub-title lang="en">Round 2-Day 3-Session 2-1st Choice Table</sub-title>
+    <desc lang="en">Coverage from the second session on day nine of the tournament, which takes place at the Crucible Theatre in Sheffield</desc>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/69a6ca28-ed57-55e4-b896-1c304dfd1e47.jpg"/>
-    <episode-num system="xmltv_ns">2024.66.</episode-num>
+    <episode-num system="xmltv_ns">2024.110.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250420120000 +0000" stop="20250420130000 +0000" channel="I1248.95772.schedulesdirect.org">
-    <title lang="en">MLB Highlights</title>
-    <desc lang="en">Action from Major League Baseball</desc>
+  <programme start="20250427163000 +0000" stop="20250427173000 +0000" channel="I1246.82451.schedulesdirect.org">
+    <title lang="en">FIA World Endurance Championship Highlights</title>
+    <sub-title lang="en">6 Hours of Imola</sub-title>
+    <desc lang="en">Action from the 6 Hours of Imola</desc>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/1a52f67b-d77f-5fed-9111-fb74969e0f8c.jpg"/>
-    <episode-num system="xmltv_ns">2024.23.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20250420130000 +0000" stop="20250420133000 +0000" channel="I1248.95772.schedulesdirect.org">
-    <title lang="en">Ally's Social Club</title>
-    <sub-title lang="en">Ronnie O'Sullivan</sub-title>
-    <desc lang="en">Football legend Ally McCoist meets snooker player Ronnie O'Sullivan</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/bd75558e-6b7f-56f1-b579-4f9efb0ea983.jpg"/>
-    <episode-num system="xmltv_ns">2023.3.</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/1ff353df-7a92-5c03-bd93-993e78df3641.jpg"/>
+    <episode-num system="xmltv_ns">2024.1.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250420133000 +0000" stop="20250420163000 +0000" channel="I1248.95772.schedulesdirect.org">
+  <programme start="20250427173000 +0000" stop="20250427210000 +0000" channel="I1246.82451.schedulesdirect.org">
     <title lang="en">Live: Snooker World Championship</title>
-    <sub-title lang="en">Round 1-Day 2-Session 2-1st Choice Table</sub-title>
-    <desc lang="en">Coverage from the second session on day two of the tournament, which takes place at the Crucible Theatre in Sheffield</desc>
+    <sub-title lang="en">Round 2-Day 3-Session 3-1st Choice Table</sub-title>
+    <desc lang="en">Coverage from the third session on day nine of the tournament, which takes place at the Crucible Theatre in Sheffield</desc>
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/69a6ca28-ed57-55e4-b896-1c304dfd1e47.jpg"/>
-    <episode-num system="xmltv_ns">2024.68.</episode-num>
+    <episode-num system="xmltv_ns">2024.112.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250420163000 +0000" stop="20250420173000 +0000" channel="I1248.95772.schedulesdirect.org">
-    <title lang="en">MLB Highlights</title>
-    <desc lang="en">Action from Major League Baseball</desc>
+  <programme start="20250427210000 +0000" stop="20250427220000 +0000" channel="I1246.82451.schedulesdirect.org">
+    <title lang="en">Men's Cycling Pro Series</title>
+    <sub-title lang="en">Tour of Turkey Stage 1</sub-title>
+    <desc lang="en">Action from the first stage of the Tour of Turkey</desc>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/1a52f67b-d77f-5fed-9111-fb74969e0f8c.jpg"/>
-    <episode-num system="xmltv_ns">2024.23.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20250420173000 +0000" stop="20250420210000 +0000" channel="I1248.95772.schedulesdirect.org">
-    <title lang="en">Live: Snooker World Championship</title>
-    <sub-title lang="en">Round 1-Day 2-Session 3-1st Choice Table</sub-title>
-    <desc lang="en">Coverage from the third session on day two of the tournament, which takes place at the Crucible Theatre in Sheffield</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/69a6ca28-ed57-55e4-b896-1c304dfd1e47.jpg"/>
-    <episode-num system="xmltv_ns">2024.70.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420210000 +0000" stop="20250420220000 +0000" channel="I1248.95772.schedulesdirect.org">
-    <title lang="en">Women's Cycling World Tour</title>
-    <sub-title lang="en">Amstel Gold</sub-title>
-    <desc lang="en">Action from the 2025 Amstel Gold</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/73c63c56-f309-5ee0-aaef-f53f5ad17943.jpg"/>
-    <episode-num system="xmltv_ns">2024.8.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420220000 +0000" stop="20250420230000 +0000" channel="I1248.95772.schedulesdirect.org">
-    <title lang="en">Men's Cycling World Tour</title>
-    <sub-title lang="en">Amstel Gold</sub-title>
-    <desc lang="en">Action from the 2025 Amstel Gold</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/fb461510-ae58-5081-87a3-d37beca14b90.jpg"/>
-    <episode-num system="xmltv_ns">2024.41.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420230000 +0000" stop="20250421003000 +0000" channel="I1248.95772.schedulesdirect.org">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">AFL: Sydney Swans v Port Adelaide</sub-title>
-    <desc lang="en">Sydney Swans v Port Adelaide Power</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/673e31f9-a189-5a70-ae12-104e963bd7d8.jpg"/>
+    <icon src="https://tv.assets.pressassociation.io/d5480f8d-43f7-58bb-b145-87ddd3c98d44.jpg"/>
     <episode-num system="xmltv_ns">2024.51.</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -3764,67 +3532,70 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250421003000 +0000" stop="20250421020000 +0000" channel="I1248.95772.schedulesdirect.org">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">AFL: Western Bulldogs v St Kilda</sub-title>
-    <desc lang="en">Western Bulldogs v St Kilda Saints</desc>
+  <programme start="20250427220000 +0000" stop="20250427223000 +0000" channel="I1246.82451.schedulesdirect.org">
+    <title lang="en">World Rally Championship</title>
+    <desc lang="en">Action from the third day of the Islas Canarias</desc>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/f25c08bb-3723-58f4-a54a-b2da77622a43.jpg"/>
-    <episode-num system="xmltv_ns">2024.52.</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/2be381d9-5ae9-5a4a-9e90-80671752bc82.jpg"/>
+    <episode-num system="xmltv_ns">2024.2.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20250427223000 +0000" stop="20250427230000 +0000" channel="I1246.82451.schedulesdirect.org">
+    <title lang="en">MLB Plays of the Week</title>
+    <desc lang="en">A look at the most exciting plays from the past week's matches</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/1a2f92fc-4600-5238-82b6-fbd222f630e5.jpg"/>
+    <episode-num system="xmltv_ns">2024.3.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250421020000 +0000" stop="20250421030000 +0000" channel="I1248.95772.schedulesdirect.org">
-    <title lang="en">UEFA Women's Champions League</title>
-    <sub-title lang="en">Barcelona Women v Chelsea Women</sub-title>
-    <desc lang="en">Barcelona Women v Chelsea Women</desc>
+  <programme start="20250427230000 +0000" stop="20250428021500 +0000" channel="I1246.82451.schedulesdirect.org">
+    <title lang="en">Live MLB</title>
+    <sub-title lang="en">Live MLB: Phillies @ Cubs</sub-title>
+    <desc lang="en">Chicago Cubs v Philadelphia Phillies (Start-time 12.10am). Coverage of the National League match from Wrigley Field</desc>
     <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/14067a7a-335e-5192-a278-004c134cd632.jpg"/>
-    <episode-num system="xmltv_ns">2023.16.</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/5f4ac3ad-d375-547f-98eb-bcf1cbf0ece3.jpg"/>
+    <episode-num system="xmltv_ns">2024.65.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20250421030000 +0000" stop="20250421033000 +0000" channel="I1248.95772.schedulesdirect.org">
-    <title lang="en">UEFA Champions League Magazine</title>
-    <desc lang="en">Arsenal's Gabriel Martinelli reflects on how rejection in his younger years helped him find his home in North London. And, PSG defender Marquinhos talks about his rise to the top</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/a1d83c92-4983-5e77-9520-3ea1d40a34f3.jpg"/>
-    <episode-num system="xmltv_ns">2023.28.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250421033000 +0000" stop="20250421043000 +0000" channel="I1248.95772.schedulesdirect.org">
-    <title lang="en">UEFA Europa League &amp; Conference League Highlights Show</title>
-    <desc lang="en">All the best action from the quarter-final second-leg ties, including Manchester United v Lyon, and Eintracht Frankfurt v Tottenham Hotspur</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/c11b6051-88e8-5403-b65b-7f3d283c290e.jpg"/>
-    <episode-num system="xmltv_ns">2023.15.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250421043000 +0000" stop="20250421050000 +0000" channel="I1248.95772.schedulesdirect.org">
+  <programme start="20250428021500 +0000" stop="20250428023000 +0000" channel="I1246.82451.schedulesdirect.org">
     <title lang="en">TNT Sports Reload</title>
     <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more</desc>
     <icon src="https://tv.assets.pressassociation.io/819f4a42-886a-584f-b9cc-c5412ddd1498.jpg"/>
-    <episode-num system="xmltv_ns">2024.15.</episode-num>
+    <episode-num system="xmltv_ns">2024.16.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
   </programme>
+  <programme start="20250428023000 +0000" stop="20250428033000 +0000" channel="I1246.82451.schedulesdirect.org">
+    <title lang="en">Serie A</title>
+    <sub-title lang="en">70</sub-title>
+    <desc lang="en">Football from Italy's top division</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/8d6ce588-f413-52f0-a098-27e4bec99101.jpg"/>
+    <episode-num system="xmltv_ns">2023.69.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <channel id="I1248.95772.schedulesdirect.org">
+    <display-name lang="en">[Sky] TNT Sports 3 HD</display-name>
+    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png"/>
+  </channel>
   <programme start="20250421050000 +0000" stop="20250421060000 +0000" channel="I1248.95772.schedulesdirect.org">
     <title lang="en">UEFA Women's Champions League</title>
     <sub-title lang="en">Arsenal Women v Lyon Women</sub-title>
@@ -5156,174 +4927,177 @@
     </video>
     <subtitles type="teletext"/>
   </programme>
+  <programme start="20250427040000 +0000" stop="20250427050000 +0000" channel="I1248.95772.schedulesdirect.org">
+    <title lang="en">Gallagher Premiership Rugby Union</title>
+    <sub-title lang="en">Northampton Saints v Bristol Bears</sub-title>
+    <desc lang="en">Northampton Saints v Bristol Bears</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/2567458e-9cbe-5c83-b6a3-988c90ae6fe8.jpg"/>
+    <episode-num system="xmltv_ns">2023.73.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427050000 +0000" stop="20250427070000 +0000" channel="I1248.95772.schedulesdirect.org">
+    <title lang="en">Live: Isuzu UTE A-League</title>
+    <sub-title lang="en">Live: Auckland FC v Perth Glory</sub-title>
+    <desc lang="en">Auckland FC v Perth Glory (Kick-off 6.00am). Coverage of the Australian top-flight match from Go Media Stadium in Auckland</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/267b07f3-4b47-577c-b98a-8b31356f4ad2.jpg"/>
+    <episode-num system="xmltv_ns">2023.162.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427070000 +0000" stop="20250427090000 +0000" channel="I1248.95772.schedulesdirect.org">
+    <title lang="en">Live: Isuzu UTE A-League</title>
+    <sub-title lang="en">Live: Western United v Sydney FC</sub-title>
+    <desc lang="en">Western United v Sydney FC (Kick-off 8.00am). Coverage of the Australian top-flight match from Ironbark Fields in Melbourne</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/267b07f3-4b47-577c-b98a-8b31356f4ad2.jpg"/>
+    <episode-num system="xmltv_ns">2023.163.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427090000 +0000" stop="20250427120000 +0000" channel="I1248.95772.schedulesdirect.org">
+    <title lang="en">Live: Snooker World Championship</title>
+    <sub-title lang="en">Round 2-Day 3-Session 1-1st Choice Table</sub-title>
+    <desc lang="en">Coverage from the first session on day nine of the tournament, which takes place at the Crucible Theatre in Sheffield</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/69a6ca28-ed57-55e4-b896-1c304dfd1e47.jpg"/>
+    <episode-num system="xmltv_ns">2024.108.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427120000 +0000" stop="20250427153000 +0000" channel="I1248.95772.schedulesdirect.org">
+    <title lang="en">Live UEFA Women's Champions League</title>
+    <sub-title lang="en">Live: Chelsea v Barcelona</sub-title>
+    <desc lang="en">Chelsea Women v Barcelona Women (Kick-off 2.00pm). Coverage of the semi-final second-leg tie from Stamford Bridge</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/431e182f-437f-5f26-8e85-22a51f41ac0b.jpg"/>
+    <episode-num system="xmltv_ns">2023.17.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427153000 +0000" stop="20250427183000 +0000" channel="I1248.95772.schedulesdirect.org">
+    <title lang="en">Live UEFA Women's Champions League</title>
+    <sub-title lang="en">Live: Lyon Women v Arsenal Women</sub-title>
+    <desc lang="en">Lyon Women v Arsenal Women (Kick-off 5.00pm). Coverage of the semi-final second-leg tie from Groupama Stadium</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/431e182f-437f-5f26-8e85-22a51f41ac0b.jpg"/>
+    <episode-num system="xmltv_ns">2023.18.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427183000 +0000" stop="20250427193000 +0000" channel="I1248.95772.schedulesdirect.org">
+    <title lang="en">Isuzu UTE A-League</title>
+    <sub-title lang="en">Western United v Sydney FC</sub-title>
+    <desc lang="en">Western United v Sydney FC</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/159262c4-1366-5635-86d9-2d01ec76606c.jpg"/>
+    <episode-num system="xmltv_ns">2023.163.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427193000 +0000" stop="20250427220000 +0000" channel="I1248.95772.schedulesdirect.org">
+    <title lang="en">Live NBA</title>
+    <sub-title lang="en">277</sub-title>
+    <desc lang="en">Coverage of a play-off match (Tip-off TBA)</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/2fd30a95-c5a6-5890-b3e9-867a524982f5.jpg"/>
+    <episode-num system="xmltv_ns">2023.276.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427220000 +0000" stop="20250427230000 +0000" channel="I1248.95772.schedulesdirect.org">
+    <title lang="en">Men's Cycling World Tour</title>
+    <sub-title lang="en">Liege Bastogne Liege</sub-title>
+    <desc lang="en">Action from the 2025 Liege Bastogne Liege</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/fb461510-ae58-5081-87a3-d37beca14b90.jpg"/>
+    <episode-num system="xmltv_ns">2024.43.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427230000 +0000" stop="20250428000000 +0000" channel="I1248.95772.schedulesdirect.org">
+    <title lang="en">Women's Cycling World Tour</title>
+    <sub-title lang="en">Liege Bastogne Liege</sub-title>
+    <desc lang="en">Action from the 2025 Liege Bastogne Liege</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/73c63c56-f309-5ee0-aaef-f53f5ad17943.jpg"/>
+    <episode-num system="xmltv_ns">2024.10.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250428000000 +0000" stop="20250428020000 +0000" channel="I1248.95772.schedulesdirect.org">
+    <title lang="en">Snooker World Championship</title>
+    <desc lang="en">Action from the ninth day of the tournament</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/6432e0d8-835c-5c8f-8b32-fe378d1d429f.jpg"/>
+    <episode-num system="xmltv_ns">2024.152.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20250428020000 +0000" stop="20250428030000 +0000" channel="I1248.95772.schedulesdirect.org">
+    <title lang="en">Men's Cycling Pro Series</title>
+    <sub-title lang="en">Tour of Turkey Stage 1</sub-title>
+    <desc lang="en">Action from the first stage of the Tour of Turkey</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/d5480f8d-43f7-58bb-b145-87ddd3c98d44.jpg"/>
+    <episode-num system="xmltv_ns">2024.51.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250428030000 +0000" stop="20250428040000 +0000" channel="I1248.95772.schedulesdirect.org">
+    <title lang="en">Men's Cycling World Tour</title>
+    <sub-title lang="en">Liege Bastogne Liege</sub-title>
+    <desc lang="en">Action from the 2025 Liege Bastogne Liege</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/fb461510-ae58-5081-87a3-d37beca14b90.jpg"/>
+    <episode-num system="xmltv_ns">2024.43.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
   <channel id="I1250.64572.schedulesdirect.org">
     <display-name lang="en">[Sky] TNT Sports 4 HD</display-name>
     <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png"/>
   </channel>
-  <programme start="20250420023000 +0000" stop="20250420103000 +0000" channel="I1250.64572.schedulesdirect.org">
-    <title lang="en">Live: FIM Endurance World Championship</title>
-    <sub-title lang="en">24 Hours of Le Mans</sub-title>
-    <desc lang="en">Coverage of the 24 Hours of Le Mans, which takes place at Bugatti Circuit</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/78aec88a-5ed4-5b58-b576-4373c07206e4.jpg"/>
-    <episode-num system="xmltv_ns">2024.0.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20250420103000 +0000" stop="20250420120000 +0000" channel="I1250.64572.schedulesdirect.org">
-    <title lang="en">Live FIA World Endurance Championship</title>
-    <sub-title lang="en">6 Hours of Imola-Race</sub-title>
-    <desc lang="en">6 Hours of Imola. Coverage of the race from the second round of the season, which takes place at</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/c0c2d76a-5f79-57c8-ae1d-4249a93aaaed.jpg"/>
-    <episode-num system="xmltv_ns">2024.5.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20250420120000 +0000" stop="20250420133000 +0000" channel="I1250.64572.schedulesdirect.org">
-    <title lang="en">Live: FIM Endurance World Championship</title>
-    <sub-title lang="en">24 Hours of Le Mans</sub-title>
-    <desc lang="en">Coverage of the 24 Hours of Le Mans, which takes place at Bugatti Circuit in</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/78aec88a-5ed4-5b58-b576-4373c07206e4.jpg"/>
-    <episode-num system="xmltv_ns">2024.0.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20250420133000 +0000" stop="20250420173000 +0000" channel="I1250.64572.schedulesdirect.org">
-    <title lang="en">Live FIA World Endurance Championship</title>
-    <sub-title lang="en">6 Hours of Imola-Race</sub-title>
-    <desc lang="en">6 Hours of Imola. Coverage of the race from the second round of the season, which takes place at</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/c0c2d76a-5f79-57c8-ae1d-4249a93aaaed.jpg"/>
-    <episode-num system="xmltv_ns">2024.5.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20250420173000 +0000" stop="20250420204500 +0000" channel="I1250.64572.schedulesdirect.org">
-    <title lang="en">Live MLB</title>
-    <sub-title lang="en">Live MLB: Cardinals @ Mets</sub-title>
-    <desc lang="en">New York Mets v St Louis Cardinals (Start-time 6.40pm). Coverage of the National League match from Citi Field</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/b5c1fe7f-8bf4-5a93-ba7f-7bd39347f9c2.jpg"/>
-    <episode-num system="xmltv_ns">2024.52.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420204500 +0000" stop="20250420214500 +0000" channel="I1250.64572.schedulesdirect.org">
-    <title lang="en">NWSL</title>
-    <sub-title lang="en">Racing Louisville v San Diego Wave FC</sub-title>
-    <desc lang="en">Racing Louisville v San Diego Wave FC</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/0e6f70be-fb0a-5294-b5c5-d565c6992a66.jpg"/>
-    <episode-num system="xmltv_ns">2024.8.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420214500 +0000" stop="20250420224500 +0000" channel="I1250.64572.schedulesdirect.org">
-    <title lang="en">NWSL</title>
-    <sub-title lang="en">Kansas City Current v Houston Dash</sub-title>
-    <desc lang="en">Kansas City Current v Houston Dash</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/0e6f70be-fb0a-5294-b5c5-d565c6992a66.jpg"/>
-    <episode-num system="xmltv_ns">2024.9.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420224500 +0000" stop="20250420230000 +0000" channel="I1250.64572.schedulesdirect.org">
-    <title lang="en">MotoGP Rewind</title>
-    <sub-title lang="en">MotoGP Rewind: GP of Qatar 2025</sub-title>
-    <desc lang="en">Action from the 2025 MotoGP Grand Prix of Qatar</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/69014706-302f-5909-b345-eef4f0913bc3.jpg"/>
-    <episode-num system="xmltv_ns">2024.3.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250420230000 +0000" stop="20250421000000 +0000" channel="I1250.64572.schedulesdirect.org">
-    <title lang="en">UEFA Women's Champions League</title>
-    <sub-title lang="en">Barcelona Women v Chelsea Women</sub-title>
-    <desc lang="en">Barcelona Women v Chelsea Women</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/14067a7a-335e-5192-a278-004c134cd632.jpg"/>
-    <episode-num system="xmltv_ns">2023.16.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250421000000 +0000" stop="20250421010000 +0000" channel="I1250.64572.schedulesdirect.org">
-    <title lang="en">Serie A</title>
-    <sub-title lang="en">AC Milan v Atalanta</sub-title>
-    <desc lang="en">AC Milan v Atalanta</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/bf98a1e0-9ed7-5f53-a0de-7ef8ae77d04f.jpg"/>
-    <episode-num system="xmltv_ns">2023.67.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250421010000 +0000" stop="20250421030000 +0000" channel="I1250.64572.schedulesdirect.org">
-    <title lang="en">Snooker World Championship</title>
-    <sub-title lang="en">Daily Highlights 20/04</sub-title>
-    <desc lang="en">Action from the second day of the tournament</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/6432e0d8-835c-5c8f-8b32-fe378d1d429f.jpg"/>
-    <episode-num system="xmltv_ns">2024.145.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20250421030000 +0000" stop="20250421040000 +0000" channel="I1250.64572.schedulesdirect.org">
-    <title lang="en">MotoGP Highlights</title>
-    <sub-title lang="en">MotoGP Highlights: Qatar 2025</sub-title>
-    <desc lang="en">Action from the 2025 MotoGP Grand Prix of Qatar</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/85be071f-80df-5972-9c78-63d72b5248ac.jpg"/>
-    <episode-num system="xmltv_ns">2024.3.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20250421040000 +0000" stop="20250421050000 +0000" channel="I1250.64572.schedulesdirect.org">
-    <title lang="en">Superbike World Championship Highlights</title>
-    <sub-title lang="en">Dutch Round</sub-title>
-    <desc lang="en">Action from the third round of the season in the Netherlands</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/553964c3-6ac5-5fc1-940a-84989946be25.jpg"/>
-    <episode-num system="xmltv_ns">2024.2.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
   <programme start="20250421050000 +0000" stop="20250421060000 +0000" channel="I1250.64572.schedulesdirect.org">
     <title lang="en">Isuzu UTE A-League</title>
     <sub-title lang="en">Brisbane Roar v Western United</sub-title>
@@ -7128,6 +6902,216 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/8d6ce588-f413-52f0-a098-27e4bec99101.jpg"/>
     <episode-num system="xmltv_ns">2023.68.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427040000 +0000" stop="20250427050000 +0000" channel="I1250.64572.schedulesdirect.org">
+    <title lang="en">UEFA Europa League &amp; Conference League Magazine</title>
+    <desc lang="en">A round-up of all the latest action and stories</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/99786c19-8b81-5954-8f1f-46ba34596b98.jpg"/>
+    <episode-num system="xmltv_ns">2023.17.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427050000 +0000" stop="20250427080000 +0000" channel="I1250.64572.schedulesdirect.org">
+    <title lang="en">Live AFL</title>
+    <sub-title lang="en">Live AFL: Carlton v Geelong Cats</sub-title>
+    <desc lang="en">Carlton Blues v Geelong Cats (Bounce-up 6.20am). Coverage of the match from Melbourne Cricket Ground</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/d9c32453-cfc2-5f39-8167-2d3f5d91151e.jpg"/>
+    <episode-num system="xmltv_ns">2024.61.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20250427080000 +0000" stop="20250427090000 +0000" channel="I1250.64572.schedulesdirect.org">
+    <title lang="en">Live World Rally Championship</title>
+    <sub-title lang="en">Live WRC: Rally Islas Canarias</sub-title>
+    <desc lang="en">The Rally Islas Canarias. Coverage of Special Stage 15 from the fourth round of the season in Gran Canaria</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/0cb46f69-d9e8-5006-9216-ff9670d934ff.jpg"/>
+    <episode-num system="xmltv_ns">2024.19.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427090000 +0000" stop="20250427100000 +0000" channel="I1250.64572.schedulesdirect.org">
+    <title lang="en">The Ultimate Cycling Show</title>
+    <desc lang="en">As the Giro d'Italia nears, Orla and Adam preview the season's first Grand Tour which will see Wout van Aert make his Giro debut</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/4b3b85a9-7ab3-530d-a971-ca51e215017c.jpg"/>
+    <episode-num system="xmltv_ns">2024.8.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427100000 +0000" stop="20250427144500 +0000" channel="I1250.64572.schedulesdirect.org">
+    <title lang="en">Live: Men's Cycling World Tour</title>
+    <sub-title lang="en">Liege Bastogne Liege</sub-title>
+    <desc lang="en">The Liege Bastogne Liege. Coverage of the one-day race in Belgium</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/4cadf826-a1b5-5bd0-a238-7e5fffe0c16a.jpg"/>
+    <episode-num system="xmltv_ns">2024.43.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20250427144500 +0000" stop="20250427161500 +0000" channel="I1250.64572.schedulesdirect.org">
+    <title lang="en">Live: Women's Cycling World Tour</title>
+    <sub-title lang="en">Liege Bastogne Liege</sub-title>
+    <desc lang="en">The Liege Bastogne Liege. Coverage of the one-day race in Belgium</desc>
+    <icon src="https://tv.assets.pressassociation.io/fbce4e26-a519-5484-b96a-ff98041af0b2.jpg"/>
+    <episode-num system="xmltv_ns">2024.10.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20250427161500 +0000" stop="20250427163000 +0000" channel="I1250.64572.schedulesdirect.org">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more</desc>
+    <icon src="https://tv.assets.pressassociation.io/819f4a42-886a-584f-b9cc-c5412ddd1498.jpg"/>
+    <episode-num system="xmltv_ns">2024.16.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427163000 +0000" stop="20250427170000 +0000" channel="I1250.64572.schedulesdirect.org">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">A round-up of the latest action from the NBA</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/a096de76-4913-5a78-b76a-8d6e85ce760f.jpg"/>
+    <episode-num system="xmltv_ns">2023.26.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427170000 +0000" stop="20250427173000 +0000" channel="I1250.64572.schedulesdirect.org">
+    <title lang="en">MLB: Off the Bat</title>
+    <desc lang="en">All the latest action from Major League Baseball wrapped up</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/322dd270-7620-5636-8a9f-5340ebf3ec1f.jpg"/>
+    <episode-num system="xmltv_ns">2024.4.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427173000 +0000" stop="20250427204500 +0000" channel="I1250.64572.schedulesdirect.org">
+    <title lang="en">Live MLB</title>
+    <sub-title lang="en">Live MLB: Red Sox @ Guardians</sub-title>
+    <desc lang="en">Cleveland Guardians v Boston Red Sox (Start-time 6.40pm). Coverage of the American League match from Progressive Field</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/5f4ac3ad-d375-547f-98eb-bcf1cbf0ece3.jpg"/>
+    <episode-num system="xmltv_ns">2024.64.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427204500 +0000" stop="20250427210000 +0000" channel="I1250.64572.schedulesdirect.org">
+    <title lang="en">MotoGP Rewind</title>
+    <sub-title lang="en">MotoGP Rewind: GP of Qatar 2025</sub-title>
+    <desc lang="en">Action from the 2025 MotoGP Grand Prix of Qatar</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/69014706-302f-5909-b345-eef4f0913bc3.jpg"/>
+    <episode-num system="xmltv_ns">2024.3.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427210000 +0000" stop="20250427220000 +0000" channel="I1250.64572.schedulesdirect.org">
+    <title lang="en">Gallagher Premiership Rugby Union</title>
+    <sub-title lang="en">Gloucester Rugby v Exeter Chiefs</sub-title>
+    <desc lang="en">Gloucester Rugby v Exeter Chiefs</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/2567458e-9cbe-5c83-b6a3-988c90ae6fe8.jpg"/>
+    <episode-num system="xmltv_ns">2023.74.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427220000 +0000" stop="20250427230000 +0000" channel="I1250.64572.schedulesdirect.org">
+    <title lang="en">UEFA Women's Champions League</title>
+    <sub-title lang="en">Chelsea Women v Barcelona Women</sub-title>
+    <desc lang="en">Chelsea Women v Barcelona Women</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/5359986e-1543-564e-99b2-15dfdccd0865.jpg"/>
+    <episode-num system="xmltv_ns">2023.17.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250427230000 +0000" stop="20250428000000 +0000" channel="I1250.64572.schedulesdirect.org">
+    <title lang="en">UEFA Women's Champions League</title>
+    <sub-title lang="en">Lyon Women v Arsenal Women</sub-title>
+    <desc lang="en">Lyon Women v Arsenal Women</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/5359986e-1543-564e-99b2-15dfdccd0865.jpg"/>
+    <episode-num system="xmltv_ns">2023.18.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250428000000 +0000" stop="20250428003000 +0000" channel="I1250.64572.schedulesdirect.org">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">The latest news and updates from Europe's premier club football competition</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/a1d83c92-4983-5e77-9520-3ea1d40a34f3.jpg"/>
+    <episode-num system="xmltv_ns">2023.29.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250428003000 +0000" stop="20250428020000 +0000" channel="I1250.64572.schedulesdirect.org">
+    <title lang="en">AFL</title>
+    <sub-title lang="en">AFL: Gold Coast Suns v Sydney S</sub-title>
+    <desc lang="en">Gold Coast Suns v Sydney Swans</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/1eb4de04-2c1d-5509-b74a-a7ecc70e67e4.jpg"/>
+    <episode-num system="xmltv_ns">2024.60.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20250428020000 +0000" stop="20250428033000 +0000" channel="I1250.64572.schedulesdirect.org">
+    <title lang="en">AFL</title>
+    <sub-title lang="en">AFL: Carlton v Geelong Cats</sub-title>
+    <desc lang="en">Carlton Blues v Geelong Cats</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/1eb4de04-2c1d-5509-b74a-a7ecc70e67e4.jpg"/>
+    <episode-num system="xmltv_ns">2024.61.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HD</quality>
