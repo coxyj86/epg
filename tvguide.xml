@@ -305,13 +305,13 @@
   <programme start="20250429071000 +0000" stop="20250429081000 +0000" channel="BXS">
     <title lang="en">Love Me</title>
     <sub-title lang="en">Episode 3</sub-title>
-    <desc lang="en">Glen finally meets the mysterious man in Anita's life, while Peter and Clara struggle under the pressure of starting a family.</desc>
     <episode-num system="xmltv_ns">1.2.0/1</episode-num>
     <episode-num system="onscreen">S02E03</episode-num>
     <rating system="ACB">
       <value>M</value>
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/9goss.jpeg?maxheight=213&amp;limit=52d558c48acc2c032acdc1ee0614429e5a18e54d"/>
+    <desc lang="en">With Aaron soon to be a father and Glen happily living with his new wife Anita, Clara and Peter decide they want to start a family.</desc>
   </programme>
   <programme start="20250429081000 +0000" stop="20250429091000 +0000" channel="BXS">
     <title lang="en">Love Me</title>
@@ -962,18 +962,6 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store1/mount1/MAX/2025/jvjj9e.png?maxheight=213&amp;limit=939412e36d0be4b9de1363d038bf28fc003b3d07"/>
   </programme>
-  <programme start="20250429065800 +0000" stop="20250429075800 +0000" channel="FAF">
-    <title lang="en">On the Couch</title>
-    <sub-title lang="en">Episode 9</sub-title>
-    <desc lang="en">Join Jonathan Brown, Nathan Buckley and Jack Riewoldt each week as they review the news and results from the AFL.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/so79yj.png?maxheight=213&amp;limit=a128d83a6760fcc9652ab0f05dc067622c480c52"/>
-  </programme>
-  <programme start="20250429075800 +0000" stop="20250429080300 +0000" channel="FAF">
-    <title lang="en">Foxcatcher AFL Review</title>
-    <sub-title lang="en">Episode 8</sub-title>
-    <desc lang="en">Join Julian Vallance and Bernie Vince as they review all of the best and biggest talkings points from the previous round of footy in this weeks episode of FC AFL Review, powered by Pointsbet.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/gmm1uf.png?maxheight=213&amp;limit=bbe1ce9a46b1e0643d551554264761d663ebd0cf"/>
-  </programme>
   <programme start="20250429080300 +0000" stop="20250429083000 +0000" channel="FAF">
     <title lang="en">AFL Tonight</title>
     <sub-title lang="en">Episode 39</sub-title>
@@ -1530,7 +1518,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/b1hlc.jpg?maxheight=213&amp;limit=5597b40249e8fecf3e9f2032a24cfedf568d2897"/>
   </programme>
-  <programme start="20250429133000 +0000" stop="20250429140000 +0000" channel="FOX">
+  <programme start="20250429133000 +0000" stop="20250429142500 +0000" channel="FOX">
     <title lang="en">Highway Thru Hell</title>
     <sub-title lang="en">High And Low</sub-title>
     <desc lang="en">Dylan and Brandon attempt to recover a tippy sem; James, Luke and Cary battle to save a unique machine.</desc>
@@ -1541,7 +1529,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/71uvb.png?maxheight=213&amp;limit=d6552d4e727ddb816834e3dab6212361f4fc1920"/>
   </programme>
-  <programme start="20250429133000 +0000" stop="20250429142500 +0000" channel="FOX">
+  <programme start="20250429133000 +0000" stop="20250429140000 +0000" channel="FOX">
     <title lang="en">Highway Thru Hell</title>
     <sub-title lang="en">High And Low</sub-title>
     <desc lang="en">Dylan and Brandon attempt to recover a tippy sem; James, Luke and Cary battle to save a unique machine.</desc>
@@ -2418,17 +2406,6 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pmp22e.jpg?maxheight=213&amp;limit=0cb9586ef5fde629d1c2a848c689ee950d522e5a"/>
   </programme>
-  <programme start="20250429073000 +0000" stop="20250429075000 +0000" channel="FS1">
-    <title lang="en">IPL Mini: DC v RCB</title>
-    <sub-title lang="en">DC v RCB</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8j3lay.png?maxheight=213&amp;limit=c96619055a4a09c5cbfb6e292b0899feb1fda865"/>
-  </programme>
-  <programme start="20250429075000 +0000" stop="20250429081000 +0000" channel="FS1">
-    <title lang="en">IPL Mini: 14 Yr Old Creates IPL History</title>
-    <sub-title lang="en">14 Yr Old Creates IPL History</sub-title>
-    <desc lang="en">Records tumble as the IPL's youngest debutant, 14-year-old Vaibhav Suryavanshi, smashes 100 off 35 balls to pummel the Titans attack at Jaipur's Sawai Mansingh Stadium.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/1o2x11.png?maxheight=213&amp;limit=f66f1b8e49d329ee578ef6a5043589ab09cb7ac2"/>
-  </programme>
   <programme start="20250429081000 +0000" stop="20250429083000 +0000" channel="FS1">
     <title lang="en">IPL Mini: MI v LSG</title>
     <sub-title lang="en">MI v LSG</sub-title>
@@ -2711,13 +2688,13 @@
     <desc lang="en">Mitch Starc's Delhi Capitals welcome the defending champs to the Kolta.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qoncwo.png?maxheight=213&amp;limit=f8743e0e4223cc41cb754c3bb77183e320d51f20"/>
   </programme>
-  <programme start="20250430135000 +0000" stop="20250430142000 +0000" channel="FS1">
+  <programme start="20250430135000 +0000" stop="20250430153000 +0000" channel="FS1">
     <title lang="en">Live: IPL: Super Kings v Kings IN1</title>
     <sub-title lang="en">Super Kings v Kings IN1</sub-title>
     <desc lang="en">Glenn Maxwell aims to get his IPL campaign back on track as he takes on the might of MS Dhoni's CSK.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/lbdpse.png?maxheight=213&amp;limit=74a131b43a97211944a1d76e7da8b58e4044d5c0"/>
   </programme>
-  <programme start="20250430135000 +0000" stop="20250430153000 +0000" channel="FS1">
+  <programme start="20250430135000 +0000" stop="20250430142000 +0000" channel="FS1">
     <title lang="en">Live: IPL: Super Kings v Kings IN1</title>
     <sub-title lang="en">Super Kings v Kings IN1</sub-title>
     <desc lang="en">Glenn Maxwell aims to get his IPL campaign back on track as he takes on the might of MS Dhoni's CSK.</desc>
@@ -2932,12 +2909,6 @@
     <sub-title lang="en">Royals v Mumbai IN1</sub-title>
     <desc lang="en">Two of the world's premier quicks go head-to-head as Jofra Archer goes up against Jasprit Bumrah.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ix75t9.png?maxheight=213&amp;limit=42356c6f7aadc2147508eee1c87845db0d00a11b"/>
-  </programme>
-  <programme start="20250429071000 +0000" stop="20250429080500 +0000" channel="FS3">
-    <title lang="en">Golf: USPGA: Zurich Classic New Orleans</title>
-    <sub-title lang="en">Zurich Classic New Orleans</sub-title>
-    <desc lang="en">Masters winner Rory McIlroy and Shane Lowry look to become the first pair to successfully defend the Zurich Classic.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/as4av.png?maxheight=213&amp;limit=895910b0397352160a3d1ceb372c8dd588fbb5d0"/>
   </programme>
   <programme start="20250429080500 +0000" stop="20250429083500 +0000" channel="FS3">
     <title lang="en">Golf: The Cut</title>
@@ -3271,7 +3242,7 @@
     <icon src="https://images1.resources.foxtel.com.au/store1/mount1/FBO/2014/I@079984.jpg?maxheight=213&amp;limit=c043996a79d06c01b121d75be57cadc7bf43b63e"/>
     <desc lang="en">Things are really hoppin' at Rydell High when Danny discovers the object of his summer fling, Sandy, has moved to town and enrolled in his school.</desc>
   </programme>
-  <programme start="20250429135500 +0000" stop="20250429142500 +0000" channel="GRR">
+  <programme start="20250429135500 +0000" stop="20250429172500 +0000" channel="GRR">
     <title lang="en">Lawrence of Arabia</title>
     <desc lang="en">When TE Lawrence is attached to the British general staff in Arabia, he inspires the feuding Arabian chieftains to rebel against the Turks, leading to the birth of the Arabian kingdom.</desc>
     <rating system="ACB">
@@ -3279,7 +3250,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6f9mh.jpg?maxheight=213&amp;limit=c5eb522df63d32b0c93a47ac7c0ee8e7718b5dfd"/>
   </programme>
-  <programme start="20250429135500 +0000" stop="20250429172500 +0000" channel="GRR">
+  <programme start="20250429135500 +0000" stop="20250429142500 +0000" channel="GRR">
     <title lang="en">Lawrence of Arabia</title>
     <desc lang="en">When TE Lawrence is attached to the British general staff in Arabia, he inspires the feuding Arabian chieftains to rebel against the Turks, leading to the birth of the Arabian kingdom.</desc>
     <rating system="ACB">
@@ -3545,7 +3516,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store1/mount1/LST/2023/I@088208_L.jpg?maxheight=213&amp;limit=82ebd099c22f31f0c6ce790f8c9f90e4836226f4"/>
   </programme>
-  <programme start="20250429133000 +0000" stop="20250429140000 +0000" channel="LST">
+  <programme start="20250429133000 +0000" stop="20250429143000 +0000" channel="LST">
     <title lang="en">Chateau DIY</title>
     <sub-title lang="en">Episode 17</sub-title>
     <desc lang="en">Alison and Zion hit rocks in the wedding garden. Sasha paints a pool mural. Becky adds a Middle Eastern twist to a bathroom.</desc>
@@ -3556,7 +3527,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/5y61oa.jpg?maxheight=213&amp;limit=8f930ebd0682035ab9b2d79e77f7e77ed9e3344e"/>
   </programme>
-  <programme start="20250429133000 +0000" stop="20250429143000 +0000" channel="LST">
+  <programme start="20250429133000 +0000" stop="20250429140000 +0000" channel="LST">
     <title lang="en">Chateau DIY</title>
     <sub-title lang="en">Episode 17</sub-title>
     <desc lang="en">Alison and Zion hit rocks in the wedding garden. Sasha paints a pool mural. Becky adds a Middle Eastern twist to a bathroom.</desc>
@@ -4237,7 +4208,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/a0ogr.jpg?maxheight=213&amp;limit=110eca55f3ffd7fd05feb694dc623e677d5a3611"/>
   </programme>
-  <programme start="20250430125500 +0000" stop="20250430132500 +0000" channel="MO6">
+  <programme start="20250430125500 +0000" stop="20250430145500 +0000" channel="MO6">
     <title lang="en">Inferno</title>
     <rating system="ACB">
       <value>M</value>
@@ -4245,7 +4216,7 @@
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/b3xpp.jpg?maxheight=213&amp;limit=4f01c3dd76dbbf032adbb153645c3294794a60d7"/>
     <desc lang="en">The famous symbologist Robert Langdon wakes up in an Italian hospital with amnesia and finds himself the target of a manhunt. Langdon teams up with Sienna Brooks; a doctor he hopes will help him recover his memories. Together, they race across Europe and against the clock to stop a virus that would wipe out half of the world's population.</desc>
   </programme>
-  <programme start="20250430125500 +0000" stop="20250430145500 +0000" channel="MO6">
+  <programme start="20250430125500 +0000" stop="20250430132500 +0000" channel="MO6">
     <title lang="en">Inferno</title>
     <rating system="ACB">
       <value>M</value>
@@ -4343,11 +4314,11 @@
   </programme>
   <programme start="20250429055000 +0000" stop="20250429081000 +0000" channel="MVS">
     <title lang="en">Fast &amp; Furious 7</title>
-    <desc lang="en">The lead-footed crew reunites in this turbo-fuelled tale of the vengeful brother of an international terrorist who sets his bloody sights on the boy racers that took his sibling down.</desc>
     <rating system="ACB">
       <value>M</value>
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/a30xm.jpg?maxheight=213&amp;limit=b04345d3ec8d6c9edcfb9238c60d1c9bdd83597d"/>
+    <desc lang="en">Targeted by a cold-blooded black ops assassin with a score to settle, their only hope is to get behind the wheel again and secure an ingenious prototype tracking device. Facing their greatest threat yet in places as far away as Abu Dhabi and as familiar as the Los Angeles streets they call home, the crew must come together once again as a team, and as a family, to protect their own.</desc>
   </programme>
   <programme start="20250429081000 +0000" stop="20250429103000 +0000" channel="MVS">
     <title lang="en">The Fate of the Furious</title>
@@ -4365,7 +4336,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store1/mount1/SHA/2020/I@112110.jpg?maxheight=213&amp;limit=582c7ef77cd55f8abc9d596f15f5fb13c4ff2a29"/>
   </programme>
-  <programme start="20250429123000 +0000" stop="20250429130000 +0000" channel="MVS">
+  <programme start="20250429123000 +0000" stop="20250429140500 +0000" channel="MVS">
     <title lang="en">Hypnotic</title>
     <desc lang="en">Determined to find his missing daughter, Austin detective Danny Rourke finds himself spiralling down a rabbit hole while investigating a series of reality-bending bank robberies.</desc>
     <rating system="ACB">
@@ -4373,7 +4344,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/662ed.jpg?maxheight=213&amp;limit=c9c872a313d309ee832491aad39f3f572cc70758"/>
   </programme>
-  <programme start="20250429123000 +0000" stop="20250429140500 +0000" channel="MVS">
+  <programme start="20250429123000 +0000" stop="20250429130000 +0000" channel="MVS">
     <title lang="en">Hypnotic</title>
     <desc lang="en">Determined to find his missing daughter, Austin detective Danny Rourke finds himself spiralling down a rabbit hole while investigating a series of reality-bending bank robberies.</desc>
     <rating system="ACB">
@@ -4581,7 +4552,143 @@
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c3pu2c.jpg?maxheight=213&amp;limit=5f8c364aa440b586ef0718dd2d9ebe057828a15f"/>
     <desc lang="en">An ex-special forces operative takes on a private security gig for a journalist as she interviews a ruthless dictator. When a military coup breaks out, the trio must figure out how to survive the jungle, the assassins, and each other.</desc>
   </programme>
+  <programme start="20250429064500 +0000" stop="20250429084000 +0000" channel="SHA">
+    <title lang="en">Scream</title>
+    <desc lang="en">After a series of mysterious deaths befall their small town, an offbeat group of friends led by Sidney Prescott become the target of a masked killer.</desc>
+    <rating system="ACB">
+      <value>MA15+</value>
+    </rating>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/a2ksu.jpg?maxheight=213&amp;limit=522f5ccc621858e9bdd12198c926fd39dbbf71b9"/>
+  </programme>
+  <programme start="20250429084000 +0000" stop="20250429103000 +0000" channel="SHA">
+    <title lang="en">Old</title>
+    <desc lang="en">A family on a tropical holiday discover that the secluded beach where they are relaxing is somehow causing them to age rapidly, reducing their entire lives to a single day.</desc>
+    <rating system="ACB">
+      <value>M</value>
+    </rating>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/apkzu.jpg?maxheight=213&amp;limit=b407b34f4cdbfc8ff51d2693cdc0ad1e82ee4ffe"/>
+  </programme>
+  <programme start="20250429103000 +0000" stop="20250429122500 +0000" channel="SHA">
+    <title lang="en">The Kingdom</title>
+    <rating system="ACB">
+      <value>MA15+</value>
+    </rating>
+    <icon src="https://images1.resources.foxtel.com.au/store1/mount1/SHH/2020/I@035012.jpg?maxheight=213&amp;limit=ea24509208a75e0a3dd943b9364b1a27b7ff9cad"/>
+    <desc lang="en">FBI agents sent to Saudi Arabia to nab a mass murderer team up with their Arab counterparts in a do-or-die mission for unlikely allies.</desc>
+  </programme>
+  <programme start="20250429122500 +0000" stop="20250429141500 +0000" channel="SHA">
+    <title lang="en">The Italian Job</title>
+    <desc lang="en">The plan was flawless. The execution was perfect. Charlie Croker pulled off the crime of a lifetime.</desc>
+    <rating system="ACB">
+      <value>M</value>
+    </rating>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/7ivb2.jpg?maxheight=213&amp;limit=e355ecf94e34f4d2d51cb355be6469a88feb6d23"/>
+  </programme>
+  <programme start="20250429122500 +0000" stop="20250429125500 +0000" channel="SHA">
+    <title lang="en">The Italian Job</title>
+    <desc lang="en">The plan was flawless. The execution was perfect. Charlie Croker pulled off the crime of a lifetime.</desc>
+    <rating system="ACB">
+      <value>M</value>
+    </rating>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/7ivb2.jpg?maxheight=213&amp;limit=e355ecf94e34f4d2d51cb355be6469a88feb6d23"/>
+  </programme>
+  <programme start="20250429141500 +0000" stop="20250429170000 +0000" channel="SHA">
+    <title lang="en">Interstellar</title>
+    <desc lang="en">As life on Earth grinds to a halt, a team of explorers and astronauts travel through a wormhole and across the galaxy to discover whether mankind has a future among the stars.</desc>
+    <rating system="ACB">
+      <value>M</value>
+    </rating>
+    <icon src="https://images1.resources.foxtel.com.au/store1/mount1/FBO/2017/I@069878.jpg?maxheight=213&amp;limit=351908d8cab8afbb6eed6427a05ee5f06634b833"/>
+  </programme>
+  <programme start="20250429170000 +0000" stop="20250429183500 +0000" channel="SHA">
+    <title lang="en">The Nun</title>
+    <rating system="ACB">
+      <value>MA15+</value>
+    </rating>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/7pihn.jpg?maxheight=213&amp;limit=cd30151c3ed4cabfb09c3b61dcce61af19f1b3ab"/>
+    <desc lang="en">When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together they uncover the order's unholy secret. Risking not only their lives but their faith and their very souls, they confront a malevolent force in the form of the same demonic nun that first terrorised audiences in "The Conjuring 2" as the abbey becomes a horrific battleground between the living and the damned.</desc>
+  </programme>
+  <programme start="20250429183500 +0000" stop="20250429202000 +0000" channel="SHA">
+    <title lang="en">Death Race</title>
+    <desc lang="en">In a future where extreme sports have grown into TV reality bloodlust, a speedway champion is ordered by a ruthless warden to suit up and drive - or never see his little girl again.</desc>
+    <rating system="ACB">
+      <value>MA15+</value>
+    </rating>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/m68li9.jpg?maxheight=213&amp;limit=f533d19ac1e2996bf919de1bf858d4771387c0b1"/>
+  </programme>
+  <programme start="20250429202000 +0000" stop="20250429221000 +0000" channel="SHA">
+    <title lang="en">The Fast and the Furious: Tokyo Drift</title>
+    <desc lang="en">When a teenage rebel is sent to Japan to live with his father, he is hooked on the treacherous world of street racing.</desc>
+    <rating system="ACB">
+      <value>M</value>
+    </rating>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/awmib.jpg?maxheight=213&amp;limit=80d13e19a7ef60904e8bdc00741fae7b918d5a3f"/>
+  </programme>
+  <programme start="20250429221000 +0000" stop="20250430000500 +0000" channel="SHA">
+    <title lang="en">The Kingdom</title>
+    <rating system="ACB">
+      <value>MA15+</value>
+    </rating>
+    <icon src="https://images1.resources.foxtel.com.au/store1/mount1/SHH/2020/I@035012.jpg?maxheight=213&amp;limit=ea24509208a75e0a3dd943b9364b1a27b7ff9cad"/>
+    <desc lang="en">FBI agents sent to Saudi Arabia to nab a mass murderer team up with their Arab counterparts in a do-or-die mission for unlikely allies.</desc>
+  </programme>
+  <programme start="20250430000500 +0000" stop="20250430020000 +0000" channel="SHA">
+    <title lang="en">Kick-Ass</title>
+    <desc lang="en">Based on the popular comic, this action tale sees an ordinary teenager and comic book geek don a green and yellow wetsuit to become the no-nonsense vigilante Kick-Ass.</desc>
+    <rating system="ACB">
+      <value>MA15+</value>
+    </rating>
+    <icon src="https://images1.resources.foxtel.com.au/store1/mount1/SHA/2021/I@070910.jpg?maxheight=213&amp;limit=42e0475ea9e651697913758de25ad707f41e066f"/>
+  </programme>
+  <programme start="20250430020000 +0000" stop="20250430041000 +0000" channel="SHA">
+    <title lang="en">The Lost World: Jurassic Park</title>
+    <rating system="ACB">
+      <value>PG</value>
+    </rating>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/b9oie.jpg?maxheight=213&amp;limit=650bceae95cc8569b2f5f56986018d00da5b8649"/>
+    <desc lang="en">It has been four years since the disaster at Jurassic Park and two groups are in a race against time that will determine the fate of the remote island's prehistoric inhabitants.</desc>
+  </programme>
+  <programme start="20250430041000 +0000" stop="20250430060500 +0000" channel="SHA">
+    <title lang="en">Geostorm</title>
+    <rating system="ACB">
+      <value>M</value>
+    </rating>
+    <icon src="https://images1.resources.foxtel.com.au/store1/mount1/FBO/2019/I@076884.jpg?maxheight=213&amp;limit=3a8936e03a487acf754d69d7ee1f5857336ff351"/>
+    <desc lang="en">A system of satellites designed to protect the earth from natural disasters starts to malfunction, but who is responsible and can it be stopped?</desc>
+  </programme>
+  <programme start="20250430060500 +0000" stop="20250430084000 +0000" channel="SHA">
+    <title lang="en">Transformers: Revenge of the Fallen</title>
+    <desc lang="en">When college-bound Sam Witwicky learns the truth about the ancient origins of the Transformers, he must accept his destiny and join Optimus Prime and Bumblebee in their epic battle.</desc>
+    <rating system="ACB">
+      <value>M</value>
+    </rating>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/9pmfg.jpg?maxheight=213&amp;limit=504e269dfdebfe2286e68fef364015e2c2d78dfb"/>
+  </programme>
+  <programme start="20250430084000 +0000" stop="20250430103000 +0000" channel="SHA">
+    <title lang="en">2 Fast 2 Furious</title>
+    <rating system="ACB">
+      <value>M</value>
+    </rating>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/82voy.jpg?maxheight=213&amp;limit=66fe578741658f2e9578279eb690d2237a366531"/>
+    <desc lang="en">It's the nitro-fuelled answer to the question: how fast do you like it? Now an ex-cop on the run, Brian O'Connor hooks into outlaw street-racing. When the Feds strong-arm him back, O'Connor's no rules, win-or-die skills are unleashed against an international drug lord. With his velocity-addicted buddy riding shotgun, and a drop-dead-gorgeous undercover agent dialling up the heat, this film accelerates the action into a desperate race for survival, justice and mind-blowing, jaw-dropping speed.</desc>
+  </programme>
+  <programme start="20250430103000 +0000" stop="20250430124500 +0000" channel="SHA">
+    <title lang="en">White House Down</title>
+    <rating system="ACB">
+      <value>M</value>
+    </rating>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7thl1.jpg?maxheight=213&amp;limit=cdc269d8d4840ca0c9c993d8dbff6613bf1abdcf"/>
+    <desc lang="en">Capitol Policeman John Cale has just been denied his dream job with the Secret Service of protecting President James Sawyer. Not wanting to let down his little girl with the news, he takes her on a tour of the White House, during which the complex is overtaken by a heavily armed paramilitary group. Now, with the nation's government falling into chaos and time running out, it's up to Cale to save the president, his daughter, and the country.</desc>
+  </programme>
   <programme start="20250430124500 +0000" stop="20250430145500 +0000" channel="SHA">
+    <title lang="en">Miami Vice</title>
+    <desc lang="en">Florida's coolest undercover cops hit the streets to take down a ruthless international drug cartel.</desc>
+    <rating system="ACB">
+      <value>MA15+</value>
+    </rating>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ay9rw.jpg?maxheight=213&amp;limit=1360d2ec684f7838fb970a7a2f3ee4afed5a3544"/>
+  </programme>
+  <programme start="20250430124500 +0000" stop="20250430131500 +0000" channel="SHA">
     <title lang="en">Miami Vice</title>
     <desc lang="en">Florida's coolest undercover cops hit the streets to take down a ruthless international drug cartel.</desc>
     <rating system="ACB">
@@ -5564,7 +5671,7 @@
     <icon src="https://images1.resources.foxtel.com.au/store1/mount1/SHD/2021/I@034563.jpg?maxheight=213&amp;limit=48d024c78e3cb9dce3e2a6f511f9069c21c8eb3a"/>
     <desc lang="en">When a legendary pitcher strikes out with his girlfriend, he has to play the game of his life. The suspense lasts until the last ball is thrown in this heartwarming drama.</desc>
   </programme>
-  <programme start="20250430125000 +0000" stop="20250430132000 +0000" channel="SHD">
+  <programme start="20250430125000 +0000" stop="20250430150000 +0000" channel="SHD">
     <title lang="en">Message in a Bottle</title>
     <desc lang="en">A divorced newspaper researcher finds a love letter in a bottle washed up on a beach and tracks it to a grieving widower.</desc>
     <rating system="ACB">
@@ -5572,7 +5679,7 @@
     </rating>
     <icon src="https://images1.resources.foxtel.com.au/store1/mount1/SHD/2020/I@081088.jpg?maxheight=213&amp;limit=d350269c1b2dbd5c46acb5f39b12f31e0c103528"/>
   </programme>
-  <programme start="20250430125000 +0000" stop="20250430150000 +0000" channel="SHD">
+  <programme start="20250430125000 +0000" stop="20250430132000 +0000" channel="SHD">
     <title lang="en">Message in a Bottle</title>
     <desc lang="en">A divorced newspaper researcher finds a love letter in a bottle washed up on a beach and tracks it to a grieving widower.</desc>
     <rating system="ACB">
@@ -6108,7 +6215,7 @@
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ab3ga3.jpg?maxheight=213&amp;limit=e85e71761e1e23d95c8e779c5ef07d7eca5c3fa9"/>
     <desc lang="en">Bernard Jordan, a World War II veteran, sneaks out of his care home to attend the 70th anniversary commemoration of the D-Day landings in Normandy.</desc>
   </programme>
-  <programme start="20250430121500 +0000" stop="20250430124500 +0000" channel="SHO">
+  <programme start="20250430121500 +0000" stop="20250430141000 +0000" channel="SHO">
     <title lang="en">Speak No Evil</title>
     <rating system="ACB">
       <value>MA15+</value>
@@ -6116,7 +6223,7 @@
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/9c74sr.jpg?maxheight=213&amp;limit=c17bc5850688b24665ec89e82a3dd873120c46bf"/>
     <desc lang="en">A dream holiday turns into a living nightmare when an American couple and their daughter spend the weekend at a British family's idyllic country estate.</desc>
   </programme>
-  <programme start="20250430121500 +0000" stop="20250430141000 +0000" channel="SHO">
+  <programme start="20250430121500 +0000" stop="20250430124500 +0000" channel="SHO">
     <title lang="en">Speak No Evil</title>
     <rating system="ACB">
       <value>MA15+</value>
