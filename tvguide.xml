@@ -11700,11 +11700,11 @@
       <value>M | A</value>
     </rating>
   </programme>
-  <channel id="MO7">
-    <display-name lang="en">[Optus TV feat. Foxtel] Family HD / MO7</display-name>
+  <channel id="shf">
+    <display-name lang="en">[Optus TV feat. Foxtel] Family HD / shf</display-name>
     <icon src="https://www.yourtv.com.au/static/images/logos/family-hd-46e6570e.png"/>
   </channel>
-  <programme start="20260103011500 +0000" stop="20260103022500 +0000" channel="MO7">
+  <programme start="20260103011500 +0000" stop="20260103022500 +0000" channel="shf">
     <title lang="en">Sylvanian Families: A Gift from Freya</title>
     <desc lang="en">In Sylvanian village, everyone awaits the Festival of the Stars, but rabbit girl Freya worries as she must find the Tree of the Year for the main event.</desc>
     <credits>
@@ -11727,7 +11727,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260103022500 +0000" stop="20260103034500 +0000" channel="MO7">
+  <programme start="20260103022500 +0000" stop="20260103034500 +0000" channel="shf">
     <title lang="en">An American Tail</title>
     <desc lang="en">Fievel the mouse travels from Russia to America with his family in the late 1800s to seek freedom from cat persecution.</desc>
     <credits>
@@ -11750,7 +11750,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260103034500 +0000" stop="20260103050500 +0000" channel="MO7">
+  <programme start="20260103034500 +0000" stop="20260103050500 +0000" channel="shf">
     <title lang="en">An American Tail: Fievel Goes West</title>
     <desc lang="en">Lured out west by the crafty Cat R. Waul, Fievel joins forces with famed lawdog Wylie Blurp to thwart a sinister plot to transform unsuspecting settlers into mouse burgers!</desc>
     <credits>
@@ -11775,7 +11775,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260103050500 +0000" stop="20260103064500 +0000" channel="MO7">
+  <programme start="20260103050500 +0000" stop="20260103064500 +0000" channel="shf">
     <title lang="en">Paddington</title>
     <desc lang="en">This film tells the story of the comic misadventures of a young Peruvian bear who travels to the city in search of a home. Finding himself lost and alone, he begins to realise that city life is not all he had imagined until he meets the kindly Brown family who read the label around his neck that says "Please look after this bear. Thank you," and offer him a temporary haven. It looks as though his luck has changed until this rarest of bears catches the eye of a museum taxidermist.</desc>
     <credits>
@@ -11801,7 +11801,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260103064500 +0000" stop="20260103083000 +0000" channel="MO7">
+  <programme start="20260103064500 +0000" stop="20260103083000 +0000" channel="shf">
     <title lang="en">Paddington 2</title>
     <desc lang="en">Now happily settled with the Brown family, Paddington picks up a series of odd jobs to buy the perfect present for his Aunt Lucy's 100th birthday, only for the gift to be stolen.</desc>
     <credits>
@@ -11828,7 +11828,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260103083000 +0000" stop="20260103101000 +0000" channel="MO7">
+  <programme start="20260103083000 +0000" stop="20260103101000 +0000" channel="shf">
     <title lang="en">Despicable Me</title>
     <desc lang="en">In a happy suburban neighbourhood surrounded by white picket fences and flowering rose bushes sits a black house with a dead lawn. Unbeknownst to the neighbours, hidden deep beneath this home is a vast secret hideout belonging to Gru, a dastardly villain who, along with the help of his many little minions, is planning the biggest heist in the history of the world: he's going to steal the moon!</desc>
     <credits>
@@ -11855,7 +11855,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260103101000 +0000" stop="20260103115000 +0000" channel="MO7">
+  <programme start="20260103101000 +0000" stop="20260103115000 +0000" channel="shf">
     <title lang="en">Despicable Me 2</title>
     <desc lang="en">Gru, his adorable girls, and the mischievous Minions are back with a cast of unforgettable new characters in the blockbuster sequel to the worldwide phenomenon. Just as Gru has given up being super-bad to be a super-dad, the Anti-Villain League recruits him to track down a new criminal mastermind and save the world. Partnered with secret agent Lucy Wilde, Gru, along with the wildly unpredictable Minions, must figure out how to keep his cover while also keeping up with his duties as a father. Get ready for more Minion madness.</desc>
     <credits>
@@ -11881,7 +11881,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260103115000 +0000" stop="20260103133500 +0000" channel="MO7">
+  <programme start="20260103115000 +0000" stop="20260103133500 +0000" channel="shf">
     <title lang="en">How the Grinch Stole Christmas</title>
     <desc lang="en">He's mean and green and he hates the yo-ho-hoing. The Grinch conspires to steal Christmas from Whoville, making off with the presents, decorations, trees and every other joyful thing.</desc>
     <credits>
@@ -11906,7 +11906,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260103133500 +0000" stop="20260103150500 +0000" channel="MO7">
+  <programme start="20260103133500 +0000" stop="20260103150500 +0000" channel="shf">
     <title lang="en">Dog Man</title>
     <desc lang="en">Dog Man, part dog, part man, is on a mission to protect and serve while chasing down the feline supervillain, Petey the Cat.</desc>
     <credits>
@@ -11929,7 +11929,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260103150500 +0000" stop="20260103162500 +0000" channel="MO7">
+  <programme start="20260103150500 +0000" stop="20260103162500 +0000" channel="shf">
     <title lang="en">Balto</title>
     <desc lang="en">Part husky, part wolf, Balto doesn't know where he belongs. He's an outcast in Alaska, except to his true friends - Boris, the Russian snow goose, polar bear cubs Muk and Luk, and the beautiful husky, Jenna. Even though he's different, all of Balto's friends recognise what he still can't see himself: his noble spirit. One day, a serious diphtheria epidemic spreads fast among the children of Nome. When a fierce blizzard closes off all routes of transport, there's no way to obtain lifesaving medicine - unless a team of sled dogs can race 965km through the blinding Arctic storm and bring back anti-toxin. But when the dogs get lost in the frozen wilderness, only Balto can rescue the team and save the children.</desc>
     <credits>
@@ -11954,7 +11954,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260103162500 +0000" stop="20260103175000 +0000" channel="MO7">
+  <programme start="20260103162500 +0000" stop="20260103175000 +0000" channel="shf">
     <title lang="en">Shaun the Sheep Movie</title>
     <desc lang="en">When Shaun decides to take the day off and have some fun, he gets a little more action than he bargained for. A mix-up with the Farmer, a caravan, and a very steep hill leads them all to the Big City, and it's up to Shaun to return everyone safely home.</desc>
     <credits>
@@ -11980,7 +11980,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260103175000 +0000" stop="20260103191500 +0000" channel="MO7">
+  <programme start="20260103175000 +0000" stop="20260103191500 +0000" channel="shf">
     <title lang="en">Storks</title>
     <desc lang="en">Storks deliver babies... or at least they used to. Now they deliver packages for a global internet retail giant. Junior, the company's top delivery stork, is about to be promoted when he accidentally activates the Baby Making Machine, producing an adorable and wholly unauthorised baby girl.</desc>
     <credits>
@@ -12005,7 +12005,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260103191500 +0000" stop="20260103204500 +0000" channel="MO7">
+  <programme start="20260103191500 +0000" stop="20260103204500 +0000" channel="shf">
     <title lang="en">Shrek</title>
     <desc lang="en">An ogre, with the help of an annoying donkey, tries to win back his swamp by returning a princess to a scheming lord.</desc>
     <credits>
@@ -12030,7 +12030,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260103204500 +0000" stop="20260103222000 +0000" channel="MO7">
+  <programme start="20260103204500 +0000" stop="20260103222000 +0000" channel="shf">
     <title lang="en">Shrek 2</title>
     <desc lang="en">Happily ever after will have to wait as Shrek, Princess Fiona, and Donkey visit the in-laws. Outraged that Fiona has wed an ogre, the King hires hit man Puss in Boots to make the problem disappear.</desc>
     <credits>
@@ -12055,7 +12055,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260103222000 +0000" stop="20260103235500 +0000" channel="MO7">
+  <programme start="20260103222000 +0000" stop="20260103235500 +0000" channel="shf">
     <title lang="en">Shrek the Third</title>
     <desc lang="en">Dad-to-be Shrek and his posse embark on a new, trouble-filled adventure, in search of their next king. Another fun family romp.</desc>
     <credits>
@@ -12080,7 +12080,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260103235500 +0000" stop="20260104013000 +0000" channel="MO7">
+  <programme start="20260103235500 +0000" stop="20260104013000 +0000" channel="shf">
     <title lang="en">Shrek Forever After</title>
     <desc lang="en">In the final chapter of this popular animation franchise, Mike Myers voices Shrek, who is not scaring villagers away like he used to, but now agrees to autograph pitch forks. Longing for the days when he felt like a real ogre, Shrek is duped into signing a pact with the smooth-talking deal-maker, Rumpelstiltskin (Walt Dohrn). Shrek now finds himself in a twisted, alternate version of Far Far Away, where ogres are hunted, Rumpelstiltskin is king and Shrek and Fiona (Cameron Diaz) have never met. Shrek must undo all he's done in the hope of saving his friends, restoring his world and reclaiming his one true love.</desc>
     <credits>
@@ -12106,7 +12106,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260104013000 +0000" stop="20260104030000 +0000" channel="MO7">
+  <programme start="20260104013000 +0000" stop="20260104030000 +0000" channel="shf">
     <title lang="en">Spirit Untamed</title>
     <desc lang="en">The next chapter in this beloved franchise begins as a young girl finds a connection to her mother's legacy as a trick rider and forms a bond with a wild mustang named Spirit.</desc>
     <credits>
@@ -12132,7 +12132,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260104030000 +0000" stop="20260104043500 +0000" channel="MO7">
+  <programme start="20260104030000 +0000" stop="20260104043500 +0000" channel="shf">
     <title lang="en">The Croods: A New Age</title>
     <desc lang="en">In search of a new home, the Croods encounter the more sophisticated Betterman family. A new threat forces the two families to set aside their differences to avoid extinction.</desc>
     <credits>
@@ -12158,7 +12158,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260104043500 +0000" stop="20260104061500 +0000" channel="MO7">
+  <programme start="20260104043500 +0000" stop="20260104061500 +0000" channel="shf">
     <title lang="en">How to Train Your Dragon</title>
     <desc lang="en">Set in the mythical world of burly Vikings and fire-breathing dragons, a Viking teenager takes in an injured dragon and sees an opportunity to set his tribe on a new course.</desc>
     <credits>
@@ -12185,7 +12185,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260104061500 +0000" stop="20260104083000 +0000" channel="MO7">
+  <programme start="20260104061500 +0000" stop="20260104083000 +0000" channel="shf">
     <title lang="en">Spider-Man: Homecoming</title>
     <desc lang="en">A young Peter Parker/Spider-Man begins to navigate his new-found identity as the web-slinging superhero. Thrilled by his experience with the Avengers, Peter returns home where he lives with his Aunt May, under the watchful eye of his new mentor, Tony Stark. Peter tries to fall back into his normal daily routine - distracted by thoughts of proving himself to be more than just your friendly neighbourhood Spider-Man. But when the Vulture emerges as a new villain, everything that Peter holds most important will be threatened.</desc>
     <credits>
@@ -12215,7 +12215,7 @@
       <value>M | V</value>
     </rating>
   </programme>
-  <programme start="20260104083000 +0000" stop="20260104103000 +0000" channel="MO7">
+  <programme start="20260104083000 +0000" stop="20260104103000 +0000" channel="shf">
     <title lang="en">Back to the Future</title>
     <desc lang="en">Marty McFly, a typical American teenager of the 1980s, is accidentally sent back to 1955 in a plutonium-powered DeLorean time machine, invented by a slightly mad scientist. During his often hysterical but amazing trip back in time, Marty must make certain his teenage parents-to-be meet and fall in love so that he can get back to the future.</desc>
     <credits>
@@ -12241,7 +12241,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260104103000 +0000" stop="20260104122500 +0000" channel="MO7">
+  <programme start="20260104103000 +0000" stop="20260104122500 +0000" channel="shf">
     <title lang="en">E.T. the Extra-Terrestrial</title>
     <desc lang="en">While visiting the Earth at Night, a group of alien botanists is discovered and disturbed by an approaching human task force. Because of the more than hasty take-off, one of the visitors is left behind. The little alien finds himself all alone on a very strange planet. Fortunately, the extra-terrestrial soon finds a friend and emotional companion in 10-year-old Elliot, who discovered him looking for food in his family's garden shed. While E.T. slowly gets acquainted with Elliot's brother Michael, his sister Gertie as well as with Earth customs, members of the task force work day and night to track down the whereabouts of Earth's first visitor from Outer Space.</desc>
     <credits>
@@ -12267,7 +12267,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260104122500 +0000" stop="20260104135500 +0000" channel="MO7">
+  <programme start="20260104122500 +0000" stop="20260104135500 +0000" channel="shf">
     <title lang="en">Penguins of Madagascar</title>
     <desc lang="en">Recruited from youngsters into the global spy game, four penguins are called into action by a mysterious espionage organisation in order to save the world from a villainous octopus.</desc>
     <credits>
@@ -12292,7 +12292,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260104135500 +0000" stop="20260104153000 +0000" channel="MO7">
+  <programme start="20260104135500 +0000" stop="20260104153000 +0000" channel="shf">
     <title lang="en">Peter Rabbit</title>
     <desc lang="en">Peter Rabbit, the mischievous and adventurous hero who has captivated generations of readers, now takes on the starring role of his own cute, contemporary comedy with attitude. In the film, Peter's feud with Mr. McGregor escalates to greater heights than ever before as they rival for the affections of the warm-hearted animal lover who lives next door.</desc>
     <credits>
@@ -12321,7 +12321,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260104153000 +0000" stop="20260104165500 +0000" channel="MO7">
+  <programme start="20260104153000 +0000" stop="20260104165500 +0000" channel="shf">
     <title lang="en">The Pirates Who Don't Do Anything</title>
     <desc lang="en">Those vegie-eating boys are back. Three veggies serve as 'cabin boys' at a pirate-themed dinner theatre, where they long to move from table service to the stage show, but their incompetence, laziness and cowardice get in the way. But when a princess drags them into the 17th century to rescue her brother, who's been kidnapped by a nefarious pirate with designs on her kingdom, they have to overcome their issues and become heroes.</desc>
     <credits>
@@ -12346,7 +12346,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260104165500 +0000" stop="20260104184500 +0000" channel="MO7">
+  <programme start="20260104165500 +0000" stop="20260104184500 +0000" channel="shf">
     <title lang="en">Prancer: A Christmas Tale</title>
     <desc lang="en">The tiny town of Brightridge is in for a surprise this Christmas as a mysterious reindeer and a plucky young girl work together to help her grandfather save his beloved store.</desc>
     <credits>
@@ -12369,7 +12369,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260104184500 +0000" stop="20260104201500 +0000" channel="MO7">
+  <programme start="20260104184500 +0000" stop="20260104201500 +0000" channel="shf">
     <title lang="en">Kung Fu Panda</title>
     <desc lang="en">Clumsy and overweight panda, Po, dreams of becoming a kung fu master.</desc>
     <credits>
@@ -12395,7 +12395,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260104201500 +0000" stop="20260104220000 +0000" channel="MO7">
+  <programme start="20260104201500 +0000" stop="20260104220000 +0000" channel="shf">
     <title lang="en">How the Grinch Stole Christmas</title>
     <desc lang="en">He's mean and green and he hates the yo-ho-hoing. The Grinch conspires to steal Christmas from Whoville, making off with the presents, decorations, trees and every other joyful thing.</desc>
     <credits>
@@ -12420,7 +12420,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260104220000 +0000" stop="20260104233000 +0000" channel="MO7">
+  <programme start="20260104220000 +0000" stop="20260104233000 +0000" channel="shf">
     <title lang="en">Madagascar</title>
     <desc lang="en">Alex the lion is the king of the urban jungle, the main attraction at New York's Central Park Zoo. He and his best friends, Marty the zebra, Melman the giraffe and Gloria the hippo have spent their whole lives in blissful captivity before an admiring public and with regular meals provided for them. Not content to leave well enough alone, Marty lets his curiosity get the better of him and makes his escape with the help of some prodigious penguins to explore the world.</desc>
     <credits>
@@ -12445,7 +12445,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20260104233000 +0000" stop="20260105010000 +0000" channel="MO7">
+  <programme start="20260104233000 +0000" stop="20260105010000 +0000" channel="shf">
     <title lang="en">Beverly Hills Ninja</title>
     <desc lang="en">An elite society of Japanese warriors has prophesised that one day a blonde-haired fair-skinned child will come to their village and lead them as a fighter of a remarkable skill and bravery. So when an American child who fell overboard on an ocean liner washes up on their shores, they adopt him as one of their own and patiently instruct him in the ways of a ninja. Trouble is, the child, whom they name Haru, grows up to be fat, clumsy, not especially bright, and startlingly inept as a warrior. Undaunted, Haru struggles on with his ninja training, and when Alison, a beautiful woman from America, requests a ninja fighter to return with her to the states and protect her from her criminal-minded boyfriend and his Yakuza associates, Haru eagerly accepts the assignment. Haru's minders see trouble brewing, so they secretly send along a fellow ninja, Gobei, to watch his back, although this hardly prevents Haru from posing a deadly menace to inanimate objects everywhere.</desc>
     <credits>
@@ -13820,4 +13820,5 @@
     <title lang="en">Get Smart</title>
     <sub-title lang="en">A Man Called Smart (pt 2)</sub-title>
   </programme>
+
 </tv>
