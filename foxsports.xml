@@ -1,0 +1,1060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="[Foxtel] FOX League HD / F2D">
+    <display-name lang="en">[Foxtel] FOX League HD / F2D</display-name>
+  </channel>
+  <programme start="20260105000000 +0000" stop="20260105002000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRLW Mini</title>
+    <sub-title lang="en">CRO V PAR</sub-title>
+    <desc lang="en">The 2025 NRLW season kicks off from Sharks Stadium with last year's runners-up Cronulla taking on Parramatta.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/59/80/735980_p21759648_b_h9_aa_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260105002000 +0000" stop="20260105004000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRLW Mini</title>
+    <sub-title lang="en">CBY V NEW</sub-title>
+    <desc lang="en">An historic NRLW clash as the Bulldogs enter the competition against the Knights who have won two titles in their four-year history.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/59/80/735980_p21759648_b_h9_aa_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260105004000 +0000" stop="20260105010000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRLW Mini</title>
+    <sub-title lang="en">BRI V WST</sub-title>
+    <desc lang="en">2023 Female Dally M winner Tamika Upton returns to the Broncos, while Jillaroos teammate Kezie Apps begins her eighth NRLW season.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/59/80/735980_p21759648_b_h9_aa_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260105010000 +0000" stop="20260105020000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">90's Simply The Best</title>
+    <sub-title lang="en">93 R1 CAN v SGI</sub-title>
+    <desc lang="en">Tina said it best, take a look back at simply the best of the 1990s, the decade of expansion, fierce rivalries and the dominance of the Broncos and the Raiders.</desc>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/78/90/737890_p18168517_b_h9_aa_360.jpg"/>
+    <episode-num system="xmltv_ns">2020..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20260105020000 +0000" stop="20260105030000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">2000's Greatest Games</title>
+    <sub-title lang="en">2015 R4 Cowboys v Storm</sub-title>
+    <desc lang="en">The 2000's brought a new era to the NRL, the debuts of some of the leagues biggest names and some of the best games in league history.</desc>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/78/90/737890_p18168517_b_h9_aa_360.jpg"/>
+    <episode-num system="xmltv_ns">2020..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20260105030000 +0000" stop="20260105033000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Face-To-Face on Fox</title>
+    <sub-title lang="en">Shane Webcke</sub-title>
+    <desc lang="en">Legendary Brisbane enforcer, Shane Webcke, speaks about his journey to the NRL, the Broncos golden era and his friendship with coach, Wayne Bennett.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/09/60/750960_p19607826_b_h9_ab_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20260105033000 +0000" stop="20260105043000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Greatest Tests</title>
+    <sub-title lang="en">2015 AUS v NZL</sub-title>
+    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/98/51/739851_p479696_b_h9_ab_360.jpg"/>
+    <episode-num system="xmltv_ns">2020..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20260105043000 +0000" stop="20260105050000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Vossy's Simply The Best The 90's</title>
+    <sub-title lang="en">Episode 2</sub-title>
+    <desc lang="en">On this episode of The 90's Simply the Best we focus on the classic City v Country matches with two games from 1990 and 1996 featuring some great NSW players from the 90's.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/98/46/759846_p26154284_b_h9_aa_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2022..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260105050000 +0000" stop="20260105060000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Golden Point Thrillers</title>
+    <sub-title lang="en">'20 R7 PAR v CAN</sub-title>
+    <desc lang="en">When rugby league goes into extra time special things happen, the best Golden Point victories from the NRL.</desc>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/78/90/737890_p18168517_b_h9_aa_360.jpg"/>
+    <episode-num system="xmltv_ns">2020..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260105060000 +0000" stop="20260105063000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Grand Final Classics</title>
+    <sub-title lang="en">1979 GF SGI v CBY</sub-title>
+    <desc lang="en">Classic tries, heroic plays, first class performances. These are the games that created the legends.</desc>
+    <date>1979</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/78/90/737890_p18168517_b_h9_aa_360.jpg"/>
+    <episode-num system="xmltv_ns">1978..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20260105063000 +0000" stop="20260105070000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">State of Origin Classics</title>
+    <sub-title lang="en">1987 Game 1</sub-title>
+    <desc lang="en">State against State. Mate against Mate. FOX LEAGUE celebrates one of the fiercest rivalries in Australian sport with the greatest State of Origin matches ever played.</desc>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/24/05/742405_p19045155_b_h9_aa_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2019..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20260105070000 +0000" stop="20260105080000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Superstars</title>
+    <sub-title lang="en">2010 R3 Broncos v Warriors</sub-title>
+    <desc lang="en">An exclusive list of the biggest names in the game past and present, see their best games here.</desc>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/78/90/737890_p18168517_b_h9_aa_360.jpg"/>
+    <episode-num system="xmltv_ns">2020..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20260105080000 +0000" stop="20260105083000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Vossy's Awesome 80s</title>
+    <sub-title lang="en">Episode 22</sub-title>
+    <desc lang="en">Andrew Voss selects 2 games from a great era in Rugby League the 1980's.</desc>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/28/80/732880_p19194453_b_h9_aa_360.jpg"/>
+    <episode-num system="xmltv_ns">2019..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260105083000 +0000" stop="20260105090000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Vossy's 2000s</title>
+    <sub-title lang="en">Episode 7</sub-title>
+    <desc lang="en">Andrew Voss showcases two classic NRL games from the 2000s featuring the decades greatest players, spectacular tries, amazing comebacks &amp; thrilling last minute winners.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260105090000 +0000" stop="20260105100000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">90's Simply The Best</title>
+    <sub-title lang="en">93 R1 CAN v SGI</sub-title>
+    <desc lang="en">Tina said it best, take a look back at simply the best of the 1990s, the decade of expansion, fierce rivalries and the dominance of the Broncos and the Raiders.</desc>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/78/90/737890_p18168517_b_h9_aa_360.jpg"/>
+    <episode-num system="xmltv_ns">2020..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20260105100000 +0000" stop="20260105110000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Golden Point Thrillers</title>
+    <sub-title lang="en">'20 R7 PAR v CAN</sub-title>
+    <desc lang="en">When rugby league goes into extra time special things happen, the best Golden Point victories from the NRL.</desc>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/78/90/737890_p18168517_b_h9_aa_360.jpg"/>
+    <episode-num system="xmltv_ns">2020..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260105110000 +0000" stop="20260105113000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">The Fan</title>
+    <sub-title lang="en">Episode 10</sub-title>
+    <desc lang="en">On this episode, Vossy speaks with Mark 'Ogre' O'Meley, then Lara quizzes Jamal Fogarty &amp; Ethan Strange. Plus Jake Trbojevic on his NRL career.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/80/63/62/806362_p15251449_b_h9_ad_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260105113000 +0000" stop="20260105120000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Face-To-Face on Fox</title>
+    <sub-title lang="en">Shane Webcke</sub-title>
+    <desc lang="en">Legendary Brisbane enforcer, Shane Webcke, speaks about his journey to the NRL, the Broncos golden era and his friendship with coach, Wayne Bennett.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/09/60/750960_p19607826_b_h9_ab_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20260105120000 +0000" stop="20260105123000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Grand Final Classics</title>
+    <sub-title lang="en">1979 GF SGI v CBY</sub-title>
+    <desc lang="en">Classic tries, heroic plays, first class performances. These are the games that created the legends.</desc>
+    <date>1979</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/78/90/737890_p18168517_b_h9_aa_360.jpg"/>
+    <episode-num system="xmltv_ns">1978..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20260105123000 +0000" stop="20260105130000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Vossy's 2000s</title>
+    <sub-title lang="en">Episode 7</sub-title>
+    <desc lang="en">Andrew Voss showcases two classic NRL games from the 2000s featuring the decades greatest players, spectacular tries, amazing comebacks &amp; thrilling last minute winners.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260105130000 +0000" stop="20260105140000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Roosters v Storm</sub-title>
+    <desc lang="en">Storm have won the past six in this rivalry, including a commanding 30-point victory in last year's Prelim Final.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/91/59/759159_p817685_b_h9_aw_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260105140000 +0000" stop="20260105150000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Cowboys v Dragons</sub-title>
+    <desc lang="en">It's crunch time for these teams, with fading Finals hopes resting on the outcome of this clash in Townsville.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/91/59/759159_p817685_b_h9_aw_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260105150000 +0000" stop="20260105160000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Broncos v Eels</sub-title>
+    <desc lang="en">Friday's action concludes with Mitch Moses returning from injury for the visitors as they look to end the hosts' five-game winning streak.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/91/59/759159_p817685_b_h9_aw_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260105160000 +0000" stop="20260105170000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Warriors v Titans</sub-title>
+    <desc lang="en">The Warriors snatched victory with a remarkable try in Round 20. Des Hasler becomes the sixth coach to reach 500 games as an NRL coach.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/91/59/759159_p817685_b_h9_aw_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260105170000 +0000" stop="20260105180000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Panthers v Wests Tigers</sub-title>
+    <desc lang="en">Nathan Cleary &amp; Jarome Luai reunited for two SOO games recently. In this clash they'll be NRL opponents for the second time .</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/91/59/759159_p817685_b_h9_aw_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260105180000 +0000" stop="20260105190000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Rabbitohs v Sharks</sub-title>
+    <desc lang="en">Super Saturday concludes with a clash from Gosford on the NSW Central Coast. The Rabbitohs have lost the previous four in this rivalry.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/91/59/759159_p817685_b_h9_aw_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260105190000 +0000" stop="20260105200000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Raiders v Knights</sub-title>
+    <desc lang="en">When these sides met in Round 17, the Raiders moved to the top of the table &amp; they haven't looked back since.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/91/59/759159_p817685_b_h9_aw_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260105200000 +0000" stop="20260105210000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Bulldogs v Sea Eagles</sub-title>
+    <desc lang="en">The Bulldogs are celebrating the 30th anniversary of their 1995 premiership victory, while the Sea Eagles will look to spoil the party.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/91/59/759159_p817685_b_h9_aw_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260105210000 +0000" stop="20260105220000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Eels v Storm</sub-title>
+    <desc lang="en">Round 22 kicks off with the hosts looking for another Top 8 upset &amp; the visitors hoping to extend their winning streak in this rivalry to six.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/91/59/759159_p817685_b_h9_aw_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260105220000 +0000" stop="20260105230000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Warriors v Dolphins</sub-title>
+    <desc lang="en">Friday Night Footy begins with the hosts checking the rearview mirror for challengers to their top 4 spot &amp; the visitors jostling for a top 8 berth.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/91/59/759159_p817685_b_h9_aw_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260105230000 +0000" stop="20260106000000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Broncos v Rabbitohs</sub-title>
+    <desc lang="en">Wayne Bennett returns to Brisbane keen to conjure a repeat of Round 10's triumph over the side he coached to six Grand Final wins.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/91/59/759159_p817685_b_h9_aw_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260106000000 +0000" stop="20260106002000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRLW Mini</title>
+    <sub-title lang="en">CAN V SGI</sub-title>
+    <desc lang="en">The Raiders have won both clashes against the Dragons, but 2023's leading try scorer Teagan Berry could be the spark to reverse that trend.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/59/80/735980_p21759648_b_h9_aa_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260106002000 +0000" stop="20260106004000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRLW Mini</title>
+    <sub-title lang="en">NQL V GLD</sub-title>
+    <desc lang="en">Skillful Cowboys half Kirra Dibb could hold the key for the hosts, while Titans fullback Jaime Chapman is one of the NRLW's quickest players.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/59/80/735980_p21759648_b_h9_aa_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260106004000 +0000" stop="20260106010000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRLW Mini</title>
+    <sub-title lang="en">SYD V WAR</sub-title>
+    <desc lang="en">Round 1 of the NRLW concludes with the defending premiers taking on the Warriors who return to the comp after a four-year break.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/59/80/735980_p21759648_b_h9_aa_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260106010000 +0000" stop="20260106020000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">90's Simply The Best</title>
+    <sub-title lang="en">91 MAG v CBY</sub-title>
+    <desc lang="en">Tina said it best, take a look back at simply the best of the 1990s, the decade of expansion, fierce rivalries and the dominance of the Broncos and the Raiders.</desc>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/78/90/737890_p18168517_b_h9_aa_360.jpg"/>
+    <episode-num system="xmltv_ns">2020..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20260106020000 +0000" stop="20260106030000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">2000's Greatest Games</title>
+    <sub-title lang="en">2003 R13 BAL v MAN</sub-title>
+    <desc lang="en">The 2000's brought a new era to the NRL, the debuts of some of the leagues biggest names and some of the best games in league history.</desc>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/78/90/737890_p18168517_b_h9_aa_360.jpg"/>
+    <episode-num system="xmltv_ns">2020..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20260106030000 +0000" stop="20260106033000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Face-To-Face on Fox</title>
+    <sub-title lang="en">Gary Belcher</sub-title>
+    <desc lang="en">Two-time Premiership winner, Gary Belcher speaks to Yvonne Sampson about the Raiders golden era and witnessing Australia's most iconic Test try.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/09/60/750960_p19607826_b_h9_ab_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20260106033000 +0000" stop="20260106043000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Greatest Tests</title>
+    <sub-title lang="en">2016 PNG v Fiji</sub-title>
+    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/98/51/739851_p479696_b_h9_ab_360.jpg"/>
+    <episode-num system="xmltv_ns">2020..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260106043000 +0000" stop="20260106050000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Vossy's Simply The Best The 90's</title>
+    <sub-title lang="en">Episode 3</sub-title>
+    <desc lang="en">On this episode of The 90's Simply The Best we feature two games from one of the decades great teams, the Brisbane Broncos.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/98/46/759846_p26154284_b_h9_aa_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2022..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260106050000 +0000" stop="20260106060000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Golden Point Thrillers</title>
+    <sub-title lang="en">04 R10 BRI v NEW</sub-title>
+    <desc lang="en">When rugby league goes into extra time special things happen, the best Golden Point victories from the NRL.</desc>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/78/90/737890_p18168517_b_h9_aa_360.jpg"/>
+    <episode-num system="xmltv_ns">2020..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20260106060000 +0000" stop="20260106063000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Grand Final Classics</title>
+    <sub-title lang="en">2007 GF MEL v MAN</sub-title>
+    <desc lang="en">Classic tries, heroic plays, first class performances. These are the games that created the legends.</desc>
+    <date>2000</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/78/90/737890_p18168517_b_h9_aa_360.jpg"/>
+    <episode-num system="xmltv_ns">1999..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20260106063000 +0000" stop="20260106070000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">State of Origin Classics</title>
+    <sub-title lang="en">1982 Game 3</sub-title>
+    <desc lang="en">State against State. Mate against Mate. FOX LEAGUE celebrates one of the fiercest rivalries in Australian sport with the greatest State of Origin matches ever played.</desc>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/24/05/742405_p19045155_b_h9_aa_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2019..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20260106070000 +0000" stop="20260106080000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Superstars</title>
+    <sub-title lang="en">2005 R17 Wests Tigers v Sea Eagles</sub-title>
+    <desc lang="en">An exclusive list of the biggest names in the game past and present, see their best games here.</desc>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/78/90/737890_p18168517_b_h9_aa_360.jpg"/>
+    <episode-num system="xmltv_ns">2020..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20260106080000 +0000" stop="20260106083000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Vossy's Awesome 80s</title>
+    <sub-title lang="en">Episode 23</sub-title>
+    <desc lang="en">Andrew Voss selects 2 games from a great era in Rugby League the 1980's.</desc>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/28/80/732880_p19194453_b_h9_aa_360.jpg"/>
+    <episode-num system="xmltv_ns">2019..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260106083000 +0000" stop="20260106090000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Vossy's 2000s</title>
+    <sub-title lang="en">Episode 8</sub-title>
+    <desc lang="en">Andrew Voss showcases two classic NRL games from the 2000s featuring the decades greatest players, spectacular tries, amazing comebacks &amp; thrilling last minute winners.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260106090000 +0000" stop="20260106100000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">90's Simply The Best</title>
+    <sub-title lang="en">91 MAG v CBY</sub-title>
+    <desc lang="en">Tina said it best, take a look back at simply the best of the 1990s, the decade of expansion, fierce rivalries and the dominance of the Broncos and the Raiders.</desc>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/78/90/737890_p18168517_b_h9_aa_360.jpg"/>
+    <episode-num system="xmltv_ns">2020..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20260106100000 +0000" stop="20260106110000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Golden Point Thrillers</title>
+    <sub-title lang="en">04 R10 BRI v NEW</sub-title>
+    <desc lang="en">When rugby league goes into extra time special things happen, the best Golden Point victories from the NRL.</desc>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/78/90/737890_p18168517_b_h9_aa_360.jpg"/>
+    <episode-num system="xmltv_ns">2020..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20260106110000 +0000" stop="20260106113000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">The Fan</title>
+    <sub-title lang="en">Episode 11</sub-title>
+    <desc lang="en">On this episode Stephen Crichton reveals his greatest moments, Dane Gagai about his upcoming 300th &amp; Jarome Luai recalls his favourite Benji highlight.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/80/63/62/806362_p15251449_b_h9_ad_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260106113000 +0000" stop="20260106120000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Face-To-Face on Fox</title>
+    <sub-title lang="en">Gary Belcher</sub-title>
+    <desc lang="en">Two-time Premiership winner, Gary Belcher speaks to Yvonne Sampson about the Raiders golden era and witnessing Australia's most iconic Test try.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/09/60/750960_p19607826_b_h9_ab_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20260106120000 +0000" stop="20260106123000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Grand Final Classics</title>
+    <sub-title lang="en">2007 GF MEL v MAN</sub-title>
+    <desc lang="en">Classic tries, heroic plays, first class performances. These are the games that created the legends.</desc>
+    <date>2000</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/78/90/737890_p18168517_b_h9_aa_360.jpg"/>
+    <episode-num system="xmltv_ns">1999..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <quality>HD</quality>
+    </video>
+  </programme>
+  <programme start="20260106123000 +0000" stop="20260106130000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">Vossy's 2000s</title>
+    <sub-title lang="en">Episode 8</sub-title>
+    <desc lang="en">Andrew Voss showcases two classic NRL games from the 2000s featuring the decades greatest players, spectacular tries, amazing comebacks &amp; thrilling last minute winners.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260106130000 +0000" stop="20260106140000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Titans v Panthers</sub-title>
+    <desc lang="en">The visitors have a sniff of the top four courtesy of a seven-game winning streak , but will be wary of the hosts who upset the Warriors in Round 21.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/91/59/759159_p817685_b_h9_aw_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260106140000 +0000" stop="20260106150000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Dragons v Raiders</sub-title>
+    <desc lang="en">In Round 18 the Raiders prevailed after a Dragons second half surge. A repeat of that result will give the Green Machine their tenth straight win.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/91/59/759159_p817685_b_h9_aw_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260106150000 +0000" stop="20260106160000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Sea Eagles v Roosters</sub-title>
+    <desc lang="en">Victory to the hosts will place the visitors' Top 8 hopes in jeopardy. Speculation over Daly Cherry-Evans' 2026 team adds to the plot.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/91/59/759159_p817685_b_h9_aw_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260106160000 +0000" stop="20260106170000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Wests Tigers v Bulldogs</sub-title>
+    <desc lang="en">It began with uncertainty, but Lachlan Galvin's Bulldogs career is heading in the right direction. However, his former team would enjoy being a roadblock.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/91/59/759159_p817685_b_h9_aw_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260106170000 +0000" stop="20260106180000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Sharks v Cowboys</sub-title>
+    <desc lang="en">Round 22 ends with the hosts boosted by returning players taking on a side keen to continue a late run for the Finals.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/91/59/759159_p817685_b_h9_aw_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260106180000 +0000" stop="20260106190000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Storm v Broncos</sub-title>
+    <desc lang="en">A heavyweight clash to begin Round 23. The hosts have their eyes on the Minor Premiership, while the visitors are within striking distance for the Top 4.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/91/59/759159_p817685_b_h9_aw_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260106190000 +0000" stop="20260106200000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Knights v Panthers</sub-title>
+    <desc lang="en">Friday Night Football kicks off in Newcastle with the visitors surging towards the Top 4 on a eight-game winning streak.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/91/59/759159_p817685_b_h9_aw_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260106200000 +0000" stop="20260106210000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Raiders v Sea Eagles</sub-title>
+    <desc lang="en">The hosts are under threat for the Minor Premiership, while the visitors are nearing must-win territory in their tussle for the Top 8.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/91/59/759159_p817685_b_h9_aw_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260106210000 +0000" stop="20260106220000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Dragons v Sharks</sub-title>
+    <desc lang="en">The hosts produced one of 2025's biggest upsets to defeat the competition leaders in Round 22, but their arch-rivals have won ten straight in this derby.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/91/59/759159_p817685_b_h9_aw_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260106220000 +0000" stop="20260106230000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Dolphins v Roosters</sub-title>
+    <desc lang="en">A huge clash in the race for the Top 8. The Roosters trail the hosts by two points but their Round 9 victory made it three straight in this rivalry.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/91/59/759159_p817685_b_h9_aw_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260106230000 +0000" stop="20260107000000 +0000" channel="[Foxtel] FOX League HD / F2D">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Bulldogs v Warriors</sub-title>
+    <desc lang="en">Heading into Round 23, it's third v fourth. The hosts missed a chance for first place last week, while the visitors' top 4 hopes are in jeopardy.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/91/59/759159_p817685_b_h9_aw_360.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <channel id="[Foxtel] FOX League / SP2">
+    <display-name lang="en">[Foxtel] FOX League / SP2</display-name>
+  </channel>
+  <channel id="[Foxtel Now] FOX League / SP2">
+    <display-name lang="en">[Foxtel Now] FOX League / SP2</display-name>
+  </channel>
+  <channel id="[Optus TV feat. Foxtel] FOX League / SP2">
+    <display-name lang="en">[Optus TV feat. Foxtel] FOX League / SP2</display-name>
+  </channel>
+  <channel id="[VIC-Melbourne]Fox Sports News">
+    <display-name lang="en">[VIC-Melbourne]Fox Sports News</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSN/FSN_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX CRICKET">
+    <display-name lang="en">[VIC-Melbourne]FOX CRICKET</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/FS1_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX LEAGUE">
+    <display-name lang="en">[VIC-Melbourne]FOX LEAGUE</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SP2/SP2_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX SPORTS 503">
+    <display-name lang="en">[VIC-Melbourne]FOX SPORTS 503</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS3/FS3_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Fox Footy">
+    <display-name lang="en">[VIC-Melbourne]Fox Footy</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FAF/FAF_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX CRICKET +">
+    <display-name lang="en">[VIC-Melbourne]FOX CRICKET +</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSP/FSP_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX SPORTS 506">
+    <display-name lang="en">[VIC-Melbourne]FOX SPORTS 506</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SPS/SPS_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Fox Sports More">
+    <display-name lang="en">[VIC-Melbourne]Fox Sports More</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSS/FSS_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]ESPN">
+    <display-name lang="en">[VIC-Melbourne]ESPN</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ESP/ESP_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]ESPN2">
+    <display-name lang="en">[VIC-Melbourne]ESPN2</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ES2/ES2_425x243.png"/>
+  </channel>
+</tv>
