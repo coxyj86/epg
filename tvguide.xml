@@ -412,7 +412,7 @@
   <programme start="20260319080000 +0000" stop="20260319090000 +0000" channel="FSP">
     <title lang="en">MotorRacing 360</title>
     <sub-title lang="en">Episode 2</sub-title>
-    <desc lang="en">Jess Yates, Paul Murray, Mark Skaife &amp; James Phelps recap a chaotic F1 race weekend in China. A war of words erupts in Supercars &amp; 2024 champion Will Brown joins the show.</desc>
+    <desc lang="en">Jess Yates and Paul Murray take an in-depth look at the latest high-speed action from the world of motorsport.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -1431,7 +1431,6 @@
   <programme start="20260322040000 +0000" stop="20260322054500 +0000" channel="FSP">
     <title lang="en">Super Netball</title>
     <sub-title lang="en">R2 GIA v VIX</sub-title>
-    <desc lang="en">The Giants look for their first win of the season as they host last years champions at Qudos Bank Arena.</desc>
     <date>2026</date>
     <category lang="en">Live</category>
     <category lang="en">Series</category>
@@ -1467,6 +1466,7 @@
   <programme start="20260322060000 +0000" stop="20260322073000 +0000" channel="FSP">
     <title lang="en">Super Netball</title>
     <sub-title lang="en">R2 SWI v MAV</sub-title>
+    <desc lang="en">The Swifts will look to kickstart their season after a disappointing round 1 loss as they host the Mavericks in Sydney.</desc>
     <date>2026</date>
     <category lang="en">Live</category>
     <category lang="en">Series</category>
@@ -1574,6 +1574,7 @@
   <programme start="20260322093500 +0000" stop="20260322101500 +0000" channel="FSP">
     <title lang="en">PIVOT</title>
     <sub-title lang="en">Round 2</sub-title>
+    <desc lang="en">The panel dissect all the action from Round 2 and discuss the latest news in netball.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -14832,7 +14833,7 @@
   <programme start="20260318201000 +0000" stop="20260318211000 +0000" channel="fsa502">
     <title lang="en">NRL 360</title>
     <sub-title lang="en">Episode 12</sub-title>
-    <desc lang="en">Braith &amp; Gordie are joined by journalists for opinions &amp; breaking news. Plus legends, current players &amp; coaches with views on what's topical.</desc>
+    <desc lang="en">Braith &amp; Gordie are joined by Peter Badel &amp; Michael Carayannis to dissect Round 2. Plus, Craig Gower &amp; Reni Maitua join us live for the legends agenda.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -14900,7 +14901,7 @@
   <programme start="20260318231000 +0000" stop="20260319001000 +0000" channel="fsa502">
     <title lang="en">NRL 360</title>
     <sub-title lang="en">Episode 12</sub-title>
-    <desc lang="en">Braith &amp; Gordie are joined by journalists for opinions &amp; breaking news. Plus legends, current players &amp; coaches with views on what's topical.</desc>
+    <desc lang="en">Braith &amp; Gordie are joined by Peter Badel &amp; Michael Carayannis to dissect Round 2. Plus, Craig Gower &amp; Reni Maitua join us live for the legends agenda.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -15002,7 +15003,7 @@
   <programme start="20260319031000 +0000" stop="20260319041000 +0000" channel="fsa502">
     <title lang="en">NRL 360</title>
     <sub-title lang="en">Episode 12</sub-title>
-    <desc lang="en">Braith &amp; Gordie are joined by journalists for opinions &amp; breaking news. Plus legends, current players &amp; coaches with views on what's topical.</desc>
+    <desc lang="en">Braith &amp; Gordie are joined by Peter Badel &amp; Michael Carayannis to dissect Round 2. Plus, Craig Gower &amp; Reni Maitua join us live for the legends agenda.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -15086,7 +15087,7 @@
   <programme start="20260319060200 +0000" stop="20260319070200 +0000" channel="fsa502">
     <title lang="en">NRL 360</title>
     <sub-title lang="en">Episode 12</sub-title>
-    <desc lang="en">Braith &amp; Gordie are joined by journalists for opinions &amp; breaking news. Plus legends, current players &amp; coaches with views on what's topical.</desc>
+    <desc lang="en">Braith &amp; Gordie are joined by Peter Badel &amp; Michael Carayannis to dissect Round 2. Plus, Craig Gower &amp; Reni Maitua join us live for the legends agenda.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -22160,7 +22161,7 @@
   <programme start="20260319080000 +0000" stop="20260319090000 +0000" channel="fsa505">
     <title lang="en">MotorRacing 360</title>
     <sub-title lang="en">Episode 2</sub-title>
-    <desc lang="en">Jess Yates, Paul Murray, Mark Skaife &amp; James Phelps recap a chaotic F1 race weekend in China. A war of words erupts in Supercars &amp; 2024 champion Will Brown joins the show.</desc>
+    <desc lang="en">Jess Yates and Paul Murray take an in-depth look at the latest high-speed action from the world of motorsport.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -23179,7 +23180,6 @@
   <programme start="20260322040000 +0000" stop="20260322054500 +0000" channel="fsa505">
     <title lang="en">Super Netball</title>
     <sub-title lang="en">R2 GIA v VIX</sub-title>
-    <desc lang="en">The Giants look for their first win of the season as they host last years champions at Qudos Bank Arena.</desc>
     <date>2026</date>
     <category lang="en">Live</category>
     <category lang="en">Series</category>
@@ -23215,6 +23215,7 @@
   <programme start="20260322060000 +0000" stop="20260322073000 +0000" channel="fsa505">
     <title lang="en">Super Netball</title>
     <sub-title lang="en">R2 SWI v MAV</sub-title>
+    <desc lang="en">The Swifts will look to kickstart their season after a disappointing round 1 loss as they host the Mavericks in Sydney.</desc>
     <date>2026</date>
     <category lang="en">Live</category>
     <category lang="en">Series</category>
@@ -23322,6 +23323,7 @@
   <programme start="20260322093500 +0000" stop="20260322101500 +0000" channel="fsa505">
     <title lang="en">PIVOT</title>
     <sub-title lang="en">Round 2</sub-title>
+    <desc lang="en">The panel dissect all the action from Round 2 and discuss the latest news in netball.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -23374,137 +23376,6 @@
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
     <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/80/43/01/804301_p445587_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260322120300 +0000" stop="20260322130000 +0000" channel="fsa505">
-    <title lang="en">NASCAR Auto Parts Highlights</title>
-    <sub-title lang="en">Darlington</sub-title>
-    <desc lang="en">Justin Allgaier holds the points lead heading to Darlington, and aims for redemption after a late fade in Vegas.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <country lang="en">USA</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20260322130000 +0000" stop="20260322143000 +0000" channel="fsa505">
-    <title lang="en">SailGP</title>
-    <sub-title lang="en">Sydney Day 1</sub-title>
-    <desc lang="en">After a win in Auckland the Bonds Flying Roos will look to make it two in a row as they return to Sydney for their home GP.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/78/38/85/783885_p16560598_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260322143000 +0000" stop="20260322160000 +0000" channel="fsa505">
-    <title lang="en">SailGP</title>
-    <sub-title lang="en">Sydney Day 2</sub-title>
-    <desc lang="en">The Aussie team look to consolidate their position at the top of the standings as they compete at their home GP.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/78/38/85/783885_p16560598_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260322160000 +0000" stop="20260322180000 +0000" channel="fsa505">
-    <title lang="en">Premier League Darts</title>
-    <sub-title lang="en">Week 7</sub-title>
-    <desc lang="en">The tournament moves to Dublin as the 3Arena hosts Night Seven. Current leader Jonny Clayton takes on Luke Humphries in the first round.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/31/68/823168_p644283_b_h9_am_360.jpg"/>
-    <country>UK</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260322180000 +0000" stop="20260322210000 +0000" channel="fsa505">
-    <title lang="en">PGA Tour Champions</title>
-    <sub-title lang="en">Cologuard Classic Final Round</sub-title>
-    <desc lang="en">Final round action of the Cologuard Classic from La Paloma Country Club.</desc>
-    <date>2026</date>
-    <category lang="en">Live</category>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/51/11/735111_p14792051_b_h9_aa_360.jpg"/>
-    <country lang="en">USA</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-  </programme>
-  <programme start="20260322210000 +0000" stop="20260322213000 +0000" channel="fsa505">
-    <title lang="en">Rivals</title>
-    <sub-title lang="en">Episode 4: Power Sled</sub-title>
-    <desc lang="en">Teams are pushed to their breaking point to win this Rivals Test of raw power: Power Sled.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20260322213000 +0000" stop="20260322233000 +0000" channel="fsa505">
-    <title lang="en">Premier League Darts</title>
-    <sub-title lang="en">Week 7</sub-title>
-    <desc lang="en">The tournament moves to Dublin as the 3Arena hosts Night Seven. Current leader Jonny Clayton takes on Luke Humphries in the first round.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/31/68/823168_p644283_b_h9_am_360.jpg"/>
-    <country>UK</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260322233000 +0000" stop="20260323000000 +0000" channel="fsa505">
-    <title lang="en">MotoGP</title>
-    <sub-title lang="en">Brazil Sprint Race</sub-title>
-    <desc lang="en">Coming off a stunning first-ever Sprint victory in Thailand, Pedro Acosta leads the world championship by 7 points.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/80/87/96/808796_p445587_b_h9_aj_360.jpg"/>
-    <country lang="en">USA</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <colour>yes</colour>
@@ -25987,7 +25858,7 @@
   <programme start="20260318073000 +0000" stop="20260318083000 +0000" channel="fsa504">
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 9</sub-title>
-    <desc lang="en">Gerard Whateley and Garry Lyon discuss the latest AFL news as they are joined by special guests to breakdown what's going on in the footy world.</desc>
+    <desc lang="en">Gerard and Garry bring all the news that matters ahead of a huge Round 2, and premiership coaches Simmo and Horse are back again to make us smarter.</desc>
     <date>2026</date>
     <category lang="en">Live</category>
     <category lang="en">Series</category>
@@ -26025,7 +25896,7 @@
   <programme start="20260318090000 +0000" stop="20260318100000 +0000" channel="fsa504">
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 9</sub-title>
-    <desc lang="en">Gerard Whateley and Garry Lyon discuss the latest AFL news as they are joined by special guests to breakdown what's going on in the footy world.</desc>
+    <desc lang="en">Gerard and Garry bring all the news that matters ahead of a huge Round 2, and premiership coaches Simmo and Horse are back again to make us smarter.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -26059,7 +25930,7 @@
   <programme start="20260318103000 +0000" stop="20260318113000 +0000" channel="fsa504">
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 9</sub-title>
-    <desc lang="en">Gerard Whateley and Garry Lyon discuss the latest AFL news as they are joined by special guests to breakdown what's going on in the footy world.</desc>
+    <desc lang="en">Gerard and Garry bring all the news that matters ahead of a huge Round 2, and premiership coaches Simmo and Horse are back again to make us smarter.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -26127,7 +25998,7 @@
   <programme start="20260318133000 +0000" stop="20260318143000 +0000" channel="fsa504">
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 9</sub-title>
-    <desc lang="en">Gerard and Garry bring all the news that matters ahead of a huge Round 2, and premiership coaches Simmo and Horse are back again to make us smarter.</desc>
+    <desc lang="en">Gerard Whateley and Garry Lyon discuss the latest AFL news as they are joined by special guests to breakdown what's going on in the footy world.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -26144,7 +26015,7 @@
   <programme start="20260318143000 +0000" stop="20260318150000 +0000" channel="fsa504">
     <title lang="en">First Crack Preview</title>
     <sub-title lang="en">Episode 2</sub-title>
-    <desc lang="en">Jay Clark, David King and Leigh Montagna preview a monster weekend of Footy.</desc>
+    <desc lang="en">Ben Dixon, David King and Leigh Montagna preview Round Two of the AFL.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -26178,7 +26049,7 @@
   <programme start="20260318160000 +0000" stop="20260318163000 +0000" channel="fsa504">
     <title lang="en">First Crack Preview</title>
     <sub-title lang="en">Episode 2</sub-title>
-    <desc lang="en">Jay Clark, David King and Leigh Montagna preview a monster weekend of Footy.</desc>
+    <desc lang="en">Ben Dixon, David King and Leigh Montagna preview Round Two of the AFL.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -26195,7 +26066,7 @@
   <programme start="20260318163000 +0000" stop="20260318173000 +0000" channel="fsa504">
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 9</sub-title>
-    <desc lang="en">Gerard and Garry bring all the news that matters ahead of a huge Round 2, and premiership coaches Simmo and Horse are back again to make us smarter.</desc>
+    <desc lang="en">Gerard Whateley and Garry Lyon discuss the latest AFL news as they are joined by special guests to breakdown what's going on in the footy world.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -26242,1225 +26113,6 @@
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260318203000 +0000" stop="20260318210500 +0000" channel="fsa504">
-    <title lang="en">Rivals</title>
-    <sub-title lang="en">Episode 3: Relay Hang</sub-title>
-    <desc lang="en">A brutal test of mental grit and physical strength in this second Rivals Test: Relay Hang.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20260318210500 +0000" stop="20260318213500 +0000" channel="fsa504">
-    <title lang="en">AFL Classic Matches</title>
-    <sub-title lang="en">2017 R10 SYD v HAW</sub-title>
-    <desc lang="en">Take a look back at the best matches between these sides.</desc>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/92/96/729296_p14740563_b_h3_af.jpg"/>
-    <episode-num system="xmltv_ns">2020..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20260318213500 +0000" stop="20260318220500 +0000" channel="fsa504">
-    <title lang="en">AFL Classic Matches</title>
-    <sub-title lang="en">2014 GF SYD v HAW</sub-title>
-    <desc lang="en">Take a look back at the best matches between these sides.</desc>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/92/96/729296_p14740563_b_h3_af.jpg"/>
-    <episode-num system="xmltv_ns">2020..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20260318220500 +0000" stop="20260318223500 +0000" channel="fsa504">
-    <title lang="en">AFL Classic Matches</title>
-    <sub-title lang="en">2012 GF HAW v SYD</sub-title>
-    <desc lang="en">Take a look back at the best matches between these sides.</desc>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/92/96/729296_p14740563_b_h3_af.jpg"/>
-    <episode-num system="xmltv_ns">2020..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20260318223500 +0000" stop="20260318233500 +0000" channel="fsa504">
-    <title lang="en">AFL 360</title>
-    <sub-title lang="en">Episode 9</sub-title>
-    <desc lang="en">Gerard Whateley and Garry Lyon discuss the latest AFL news as they are joined by special guests to breakdown what's going on in the footy world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/99/87/829987_p15311210_b_h9_af_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260318233500 +0000" stop="20260319000500 +0000" channel="fsa504">
-    <title lang="en">First Crack Preview</title>
-    <sub-title lang="en">Episode 2</sub-title>
-    <desc lang="en">Ben Dixon, David King and Leigh Montagna preview Round Two of the AFL.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/99/24/829924_p27625219_b_h9_ab_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260319000500 +0000" stop="20260319010500 +0000" channel="fsa504">
-    <title lang="en">AFL 360</title>
-    <sub-title lang="en">Episode 9</sub-title>
-    <desc lang="en">Gerard and Garry bring all the news that matters ahead of a huge Round 2, and premiership coaches Simmo and Horse are back again to make us smarter.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/99/87/829987_p15311210_b_h9_af_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260319010500 +0000" stop="20260319013500 +0000" channel="fsa504">
-    <title lang="en">First Crack Preview</title>
-    <sub-title lang="en">Episode 2</sub-title>
-    <desc lang="en">Ben Dixon, David King and Leigh Montagna preview Round Two of the AFL.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/99/24/829924_p27625219_b_h9_ab_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260319013500 +0000" stop="20260319023500 +0000" channel="fsa504">
-    <title lang="en">AFL 360</title>
-    <sub-title lang="en">Episode 9</sub-title>
-    <desc lang="en">Gerard Whateley and Garry Lyon discuss the latest AFL news as they are joined by special guests to breakdown what's going on in the footy world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/99/87/829987_p15311210_b_h9_af_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260319023500 +0000" stop="20260319030500 +0000" channel="fsa504">
-    <title lang="en">First Crack Preview</title>
-    <sub-title lang="en">Episode 2</sub-title>
-    <desc lang="en">Jay Clark, David King and Leigh Montagna preview a monster weekend of Footy.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/99/24/829924_p27625219_b_h9_ab_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260319030500 +0000" stop="20260319040500 +0000" channel="fsa504">
-    <title lang="en">AFL 360</title>
-    <sub-title lang="en">Episode 9</sub-title>
-    <desc lang="en">Gerard and Garry bring all the news that matters ahead of a huge Round 2, and premiership coaches Simmo and Horse are back again to make us smarter.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/99/87/829987_p15311210_b_h9_af_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260319040500 +0000" stop="20260319043500 +0000" channel="fsa504">
-    <title lang="en">AFL Classic Matches</title>
-    <sub-title lang="en">2014 GF SYD v HAW</sub-title>
-    <desc lang="en">Take a look back at the best matches between these sides.</desc>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/92/96/729296_p14740563_b_h3_af.jpg"/>
-    <episode-num system="xmltv_ns">2020..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20260319043500 +0000" stop="20260319050500 +0000" channel="fsa504">
-    <title lang="en">AFL Classic Matches</title>
-    <sub-title lang="en">2012 GF HAW v SYD</sub-title>
-    <desc lang="en">Take a look back at the best matches between these sides.</desc>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/92/96/729296_p14740563_b_h3_af.jpg"/>
-    <episode-num system="xmltv_ns">2020..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20260319050500 +0000" stop="20260319054500 +0000" channel="fsa504">
-    <title lang="en">Rivals</title>
-    <sub-title lang="en">Episode 3: Relay Hang</sub-title>
-    <desc lang="en">A brutal test of mental grit and physical strength in this second Rivals Test: Relay Hang.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20260319054500 +0000" stop="20260319064500 +0000" channel="fsa504">
-    <title lang="en">AFL 360</title>
-    <sub-title lang="en">Episode 9</sub-title>
-    <desc lang="en">Gerard Whateley and Garry Lyon discuss the latest AFL news as they are joined by special guests to breakdown what's going on in the footy world.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/99/87/829987_p15311210_b_h9_af_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260319064500 +0000" stop="20260319070000 +0000" channel="fsa504">
-    <title lang="en">Foxcatcher</title>
-    <sub-title lang="en">Episode 5</sub-title>
-    <desc lang="en">Tom Mitchell, Bernie Vince and Julian Vallance take an in-depth look at the upcoming round of footy, analysing emerging trends, where games will be won and lost, and telling you who'll win and why.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-  </programme>
-  <programme start="20260319070000 +0000" stop="20260319073000 +0000" channel="fsa504">
-    <title lang="en">AFL Tonight</title>
-    <sub-title lang="en">Episode 14</sub-title>
-    <desc lang="en">Fox Footy's nightly wrap of the day's big stories &amp; how it will affect your team.</desc>
-    <date>2026</date>
-    <category lang="en">Live</category>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/99/93/829993_p15943411_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-  </programme>
-  <programme start="20260319073000 +0000" stop="20260319083000 +0000" channel="fsa504">
-    <title lang="en">Thursday Night Footy on Fox</title>
-    <sub-title lang="en">Round 2</sub-title>
-    <desc lang="en">Join the Fox Footy team for an extensive preview of all the action to come; with the latest news, best analysis, entertainment &amp; interviews.</desc>
-    <date>2026</date>
-    <category lang="en">Live</category>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/81/74/23/817423_p19845367_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260319083000 +0000" stop="20260319110500 +0000" channel="fsa504">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">Hawthorn v Sydney</sub-title>
-    <desc lang="en">Both teams are coming off big wins and the Fox Footy team will have all the buildup and fallout when they clash at the MCG.</desc>
-    <date>2026</date>
-    <category lang="en">Live</category>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/27/04/772704_p3589784_b_h9_ab_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260319110500 +0000" stop="20260319120000 +0000" channel="fsa504">
-    <title lang="en">Thursday Night Footy on Fox</title>
-    <sub-title lang="en">Round 2</sub-title>
-    <desc lang="en">Join the Fox Footy team for an extensive review of all the action. Dissect where the game was won &amp; lost, with the best analysis &amp; opinions.</desc>
-    <date>2026</date>
-    <category lang="en">Live</category>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/81/74/23/817423_p19845367_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260319120000 +0000" stop="20260319121500 +0000" channel="fsa504">
-    <title lang="en">Foxcatcher</title>
-    <sub-title lang="en">Episode 6</sub-title>
-    <desc lang="en">Tom Mitchell, Bernie Vince and Julian Vallance take an in-depth look at the upcoming round of footy, analysing emerging trends, where games will be won and lost, and telling you who'll win and why.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-  </programme>
-  <programme start="20260319121500 +0000" stop="20260319144500 +0000" channel="fsa504">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">Hawthorn v Sydney</sub-title>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/27/04/772704_p3589784_b_h9_ab_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260319144500 +0000" stop="20260319171500 +0000" channel="fsa504">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">Hawthorn v Sydney</sub-title>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/27/04/772704_p3589784_b_h9_ab_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260319171500 +0000" stop="20260319194500 +0000" channel="fsa504">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">Hawthorn v Sydney</sub-title>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/27/04/772704_p3589784_b_h9_ab_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260319194500 +0000" stop="20260319200500 +0000" channel="fsa504">
-    <title lang="en">AFL Mini</title>
-    <sub-title lang="en">Round 2 HAW v SYD</sub-title>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/09/17/820917_p21759801_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260319200500 +0000" stop="20260319220500 +0000" channel="fsa504">
-    <title lang="en">AFL Classic Matches</title>
-    <sub-title lang="en">1999 R16 WB v ADE</sub-title>
-    <desc lang="en">Re-live the best matches, with all the classic marks, classic goals and classic victories of yesteryear.</desc>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/92/96/729296_p14740563_b_h3_af.jpg"/>
-    <episode-num system="xmltv_ns">2017..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20260319220500 +0000" stop="20260320003500 +0000" channel="fsa504">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">Hawthorn v Sydney</sub-title>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/27/04/772704_p3589784_b_h9_ab_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260320003500 +0000" stop="20260320005500 +0000" channel="fsa504">
-    <title lang="en">AFL Mini</title>
-    <sub-title lang="en">Round 2 HAW v SYD</sub-title>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/09/17/820917_p21759801_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260320005500 +0000" stop="20260320025500 +0000" channel="fsa504">
-    <title lang="en">AFL Classic Matches</title>
-    <sub-title lang="en">1998 PF WB v ADE</sub-title>
-    <desc lang="en">Re-live the best matches, with all the classic marks, classic goals and classic victories of yesteryear.</desc>
-    <date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/92/96/729296_p14740563_b_h3_af.jpg"/>
-    <episode-num system="xmltv_ns">2017..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20260320025500 +0000" stop="20260320031500 +0000" channel="fsa504">
-    <title lang="en">AFL Mini</title>
-    <sub-title lang="en">Round 2 HAW v SYD</sub-title>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/09/17/820917_p21759801_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260320031500 +0000" stop="20260320033000 +0000" channel="fsa504">
-    <title lang="en">Foxcatcher</title>
-    <sub-title lang="en">Episode 6</sub-title>
-    <desc lang="en">Tom Mitchell, Bernie Vince and Julian Vallance take an in-depth look at the upcoming round of footy, analysing emerging trends, where games will be won and lost, and telling you who'll win and why.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20260320033000 +0000" stop="20260320040000 +0000" channel="fsa504">
-    <title lang="en">AFL Classic Matches</title>
-    <sub-title lang="en">1997 PF WB v ADE</sub-title>
-    <desc lang="en">Take a look back at the best matches between these sides.</desc>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/92/96/729296_p14740563_b_h3_af.jpg"/>
-    <episode-num system="xmltv_ns">2020..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20260320040000 +0000" stop="20260320063000 +0000" channel="fsa504">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">Hawthorn v Sydney</sub-title>
-    <desc lang="en">Both teams are coming off big wins and the Fox Footy team will have all the buildup and fallout when they clash at the MCG.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/27/04/772704_p3589784_b_h9_ab_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260320063000 +0000" stop="20260320065000 +0000" channel="fsa504">
-    <title lang="en">AFL Mini</title>
-    <sub-title lang="en">Round 2 HAW v SYD</sub-title>
-    <desc lang="en">Both teams are coming off big wins and the Fox Footy team will have all the buildup and fallout when they clash at the MCG.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/09/17/820917_p21759801_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260320065000 +0000" stop="20260320070000 +0000" channel="fsa504">
-    <title lang="en">In The Back Pocket</title>
-    <sub-title lang="en">Episode 8</sub-title>
-    <desc lang="en">Data-led betting insight, trends and market edges for the weekend's matchups. Join Nathan Brown, Josh Jenkins, Champion Data's Daniel Hoyne, and host Matt Nevett to preview the footy action ahead of the weekend.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/30/06/733006_p19698246_b_h9_aa_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-  </programme>
-  <programme start="20260320070000 +0000" stop="20260320073000 +0000" channel="fsa504">
-    <title lang="en">AFL Tonight</title>
-    <sub-title lang="en">Episode 15</sub-title>
-    <desc lang="en">Fox Footy's nightly wrap of the day's big stories &amp; how it will affect your team.</desc>
-    <date>2026</date>
-    <category lang="en">Live</category>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/99/93/829993_p15943411_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-  </programme>
-  <programme start="20260320073000 +0000" stop="20260320084000 +0000" channel="fsa504">
-    <title lang="en">Friday Night Footy on Fox</title>
-    <sub-title lang="en">Round 2</sub-title>
-    <desc lang="en">Join the Fox Footy team for an extensive preview of all the action to come; with the latest news, best analysis, entertainment &amp; interviews.</desc>
-    <date>2026</date>
-    <category lang="en">Live</category>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260320084000 +0000" stop="20260320111500 +0000" channel="fsa504">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">Adelaide v Western Bulldogs</sub-title>
-    <date>2026</date>
-    <category lang="en">Live</category>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/27/04/772704_p3589784_b_h9_ab_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260320111500 +0000" stop="20260320121500 +0000" channel="fsa504">
-    <title lang="en">Friday Night Footy on Fox</title>
-    <sub-title lang="en">Round 2</sub-title>
-    <desc lang="en">Join the Fox Footy team for an extensive review of all the action. Dissect where the game was won &amp; lost, with the best analysis &amp; opinions.</desc>
-    <date>2026</date>
-    <category lang="en">Live</category>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260320121500 +0000" stop="20260320124500 +0000" channel="fsa504">
-    <title lang="en">In The Back Pocket</title>
-    <sub-title lang="en">Episode 9</sub-title>
-    <desc lang="en">Data-led betting insight, trends and market edges for the weekend's matchups. Join Nathan Brown, Josh Jenkins, Champion Data's Daniel Hoyne, and host Matt Nevett to preview the footy action ahead of the weekend.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/30/06/733006_p19698246_b_h9_aa_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-  </programme>
-  <programme start="20260320124500 +0000" stop="20260320130500 +0000" channel="fsa504">
-    <title lang="en">AFL Mini</title>
-    <sub-title lang="en">Round 2 ADE v WB</sub-title>
-    <desc lang="en">The Crows welcome back a star playmaker as they host the red-hot dogs coming off two impressive wins.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/09/17/820917_p21759801_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260320132500 +0000" stop="20260320134500 +0000" channel="fsa504">
-    <title lang="en">AFL Mini</title>
-    <sub-title lang="en">Round 2 HAW v SYD</sub-title>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/09/17/820917_p21759801_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260321130500 +0000" stop="20260321132500 +0000" channel="fsa504">
-    <title lang="en">AFL Mini</title>
-    <sub-title lang="en">Round 2 ADE v WB</sub-title>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/09/17/820917_p21759801_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260321134500 +0000" stop="20260321140500 +0000" channel="fsa504">
-    <title lang="en">AFL Mini</title>
-    <sub-title lang="en">Round 2 HAW v SYD</sub-title>
-    <desc lang="en">Both teams are coming off big wins and the Fox Footy team will have all the buildup and fallout when they clash at the MCG.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/09/17/820917_p21759801_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260321140500 +0000" stop="20260321163500 +0000" channel="fsa504">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">Hawthorn v Sydney</sub-title>
-    <desc lang="en">Both teams are coming off big wins and the Fox Footy team will have all the buildup and fallout when they clash at the MCG.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/27/04/772704_p3589784_b_h9_ab_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260321163500 +0000" stop="20260321191000 +0000" channel="fsa504">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">Adelaide v Western Bulldogs</sub-title>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/27/04/772704_p3589784_b_h9_ab_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260321194000 +0000" stop="20260321221000 +0000" channel="fsa504">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">Adelaide v Western Bulldogs</sub-title>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/27/04/772704_p3589784_b_h9_ab_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260321215000 +0000" stop="20260321222000 +0000" channel="fsa504">
-    <title lang="en">In The Back Pocket</title>
-    <sub-title lang="en">Episode 9</sub-title>
-    <desc lang="en">Data-led betting insight, trends and market edges for the weekend's matchups. Join Nathan Brown, Josh Jenkins, Champion Data's Daniel Hoyne, and host Matt Nevett to preview the footy action ahead of the weekend.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/30/06/733006_p19698246_b_h9_aa_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-  </programme>
-  <programme start="20260321222000 +0000" stop="20260321224000 +0000" channel="fsa504">
-    <title lang="en">AFL Mini</title>
-    <sub-title lang="en">Round 2 HAW v SYD</sub-title>
-    <desc lang="en">Both teams are coming off big wins and the Fox Footy team will have all the buildup and fallout when they clash at the MCG.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/09/17/820917_p21759801_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260321224000 +0000" stop="20260321230000 +0000" channel="fsa504">
-    <title lang="en">AFL Mini</title>
-    <sub-title lang="en">Round 2 ADE v WB</sub-title>
-    <desc lang="en">The Crows welcome back a star playmaker as they host the red-hot dogs coming off two impressive wins.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/09/17/820917_p21759801_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260321230000 +0000" stop="20260322013000 +0000" channel="fsa504">
-    <title lang="en">VFL</title>
-    <sub-title lang="en">Richmond v Southport</sub-title>
-    <date>2026</date>
-    <category lang="en">Live</category>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/64/65/49/646549_p14740568_b_h3_aa.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-  </programme>
-  <programme start="20260322013000 +0000" stop="20260322021500 +0000" channel="fsa504">
-    <title lang="en">Super Saturday</title>
-    <sub-title lang="en">Round 2</sub-title>
-    <desc lang="en">Join the Fox Footy team for an extensive preview of all the action to come; with the latest news, best analysis, entertainment &amp; interviews.</desc>
-    <date>2026</date>
-    <category lang="en">Live</category>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/76/39/19/763919_p18454288_b_h9_ac_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-  </programme>
-  <programme start="20260322021500 +0000" stop="20260322045000 +0000" channel="fsa504">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">Richmond v Gold Coast</sub-title>
-    <date>2026</date>
-    <category lang="en">Live</category>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/27/04/772704_p3589784_b_h9_ab_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260322051500 +0000" stop="20260322075000 +0000" channel="fsa504">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">GWS v St Kilda</sub-title>
-    <desc lang="en">The Giants host the Saints in a huge clash at Engie Stadium.</desc>
-    <date>2026</date>
-    <category lang="en">Live</category>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/27/04/772704_p3589784_b_h9_ab_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260322075000 +0000" stop="20260322080000 +0000" channel="fsa504">
-    <title lang="en">Super Saturday</title>
-    <sub-title lang="en">Round 2</sub-title>
-    <desc lang="en">Join the Fox Footy team for an extensive review of all the action. Dissect where the game was won &amp; lost, with the best analysis &amp; opinions.</desc>
-    <date>2026</date>
-    <category lang="en">Live</category>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/76/39/19/763919_p18454288_b_h9_ac_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260322080000 +0000" stop="20260322083500 +0000" channel="fsa504">
-    <title lang="en">Super Saturday</title>
-    <sub-title lang="en">Round 2</sub-title>
-    <desc lang="en">Join the Fox Footy team for an extensive preview of all the action to come; with the latest news, best analysis, entertainment &amp; interviews.</desc>
-    <date>2026</date>
-    <category lang="en">Live</category>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/76/39/19/763919_p18454288_b_h9_ac_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260322083500 +0000" stop="20260322111000 +0000" channel="fsa504">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">Fremantle v Melbourne</sub-title>
-    <date>2026</date>
-    <category lang="en">Live</category>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/27/04/772704_p3589784_b_h9_ab_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260322111000 +0000" stop="20260322123000 +0000" channel="fsa504">
-    <title lang="en">Super Saturday</title>
-    <sub-title lang="en">Round 2</sub-title>
-    <desc lang="en">Join the Fox Footy team for an extensive review of all the action. Dissect where the game was won &amp; lost, with the best analysis &amp; opinions.</desc>
-    <date>2026</date>
-    <category lang="en">Live</category>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/76/39/19/763919_p18454288_b_h9_ac_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-  </programme>
-  <programme start="20260322130000 +0000" stop="20260322132000 +0000" channel="fsa504">
-    <title lang="en">AFL Mini</title>
-    <sub-title lang="en">Round 2 GWS v STK</sub-title>
-    <desc lang="en">The Giants host the Saints in a huge clash at Engie Stadium.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/09/17/820917_p21759801_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260322132000 +0000" stop="20260322134000 +0000" channel="fsa504">
-    <title lang="en">AFL Mini</title>
-    <sub-title lang="en">Round 2 FRE v MEL</sub-title>
-    <desc lang="en">Super Saturday LIVE brings you all the excitement when Fremantle plays their first home game against an energized Melbourne outfit fresh off a win.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/09/17/820917_p21759801_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260322134000 +0000" stop="20260322140000 +0000" channel="fsa504">
-    <title lang="en">AFL Mini</title>
-    <sub-title lang="en">Round 2 RIC v GC</sub-title>
-    <desc lang="en">The young and exciting Tigers face a big test against Damien Hardwick and his high flying Suns.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/09/17/820917_p21759801_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260322140000 +0000" stop="20260322163000 +0000" channel="fsa504">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">Richmond v Gold Coast</sub-title>
-    <desc lang="en">The young and exciting Tigers face a big test against Damien Hardwick and his high flying Suns.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/27/04/772704_p3589784_b_h9_ab_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260322163000 +0000" stop="20260322190000 +0000" channel="fsa504">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">Fremantle v Melbourne</sub-title>
-    <desc lang="en">Super Saturday LIVE brings you all the excitement when Fremantle plays their first home game against an energized Melbourne outfit fresh off a win.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/27/04/772704_p3589784_b_h9_ab_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260322190000 +0000" stop="20260322192000 +0000" channel="fsa504">
-    <title lang="en">AFL Mini</title>
-    <sub-title lang="en">Round 2 ADE v WB</sub-title>
-    <desc lang="en">The Crows welcome back a star playmaker as they host the red-hot dogs coming off two impressive wins.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/09/17/820917_p21759801_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260322192000 +0000" stop="20260322194000 +0000" channel="fsa504">
-    <title lang="en">AFL Mini</title>
-    <sub-title lang="en">Round 2 RIC v GC</sub-title>
-    <desc lang="en">The young and exciting Tigers face a big test against Damien Hardwick and his high flying Suns.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/09/17/820917_p21759801_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260322194000 +0000" stop="20260322200000 +0000" channel="fsa504">
-    <title lang="en">AFL Mini</title>
-    <sub-title lang="en">Round 2 GWS v STK</sub-title>
-    <desc lang="en">The Giants host the Saints in a huge clash at Engie Stadium.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/09/17/820917_p21759801_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260322200000 +0000" stop="20260322202000 +0000" channel="fsa504">
-    <title lang="en">AFL Mini</title>
-    <sub-title lang="en">Round 2 FRE v MEL</sub-title>
-    <desc lang="en">Super Saturday LIVE brings you all the excitement when Fremantle plays their first home game against an energized Melbourne outfit fresh off a win.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/09/17/820917_p21759801_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260322202000 +0000" stop="20260322225000 +0000" channel="fsa504">
-    <title lang="en">AFL</title>
-    <sub-title lang="en">GWS v St Kilda</sub-title>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/27/04/772704_p3589784_b_h9_ab_360.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260322232000 +0000" stop="20260322234000 +0000" channel="fsa504">
-    <title lang="en">AFL Mini</title>
-    <sub-title lang="en">Round 2 HAW v SYD</sub-title>
-    <desc lang="en">Both teams are coming off big wins and the Fox Footy team will have all the buildup and fallout when they clash at the MCG.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/09/17/820917_p21759801_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260322234000 +0000" stop="20260323000000 +0000" channel="fsa504">
-    <title lang="en">AFL Mini</title>
-    <sub-title lang="en">Round 2 ADE v WB</sub-title>
-    <desc lang="en">The Crows welcome back a star playmaker as they host the red-hot dogs coming off two impressive wins.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/09/17/820917_p21759801_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260323000000 +0000" stop="20260323002000 +0000" channel="fsa504">
-    <title lang="en">AFL Mini</title>
-    <sub-title lang="en">Round 2 RIC v GC</sub-title>
-    <desc lang="en">The young and exciting Tigers face a big test against Damien Hardwick and his high flying Suns.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/09/17/820917_p21759801_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260323002000 +0000" stop="20260323004000 +0000" channel="fsa504">
-    <title lang="en">AFL Mini</title>
-    <sub-title lang="en">Round 2 GWS v STK</sub-title>
-    <desc lang="en">The Giants host the Saints in a huge clash at Engie Stadium.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/09/17/820917_p21759801_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260323004000 +0000" stop="20260323010000 +0000" channel="fsa504">
-    <title lang="en">AFL Mini</title>
-    <sub-title lang="en">Round 2 FRE v MEL</sub-title>
-    <desc lang="en">Super Saturday LIVE brings you all the excitement when Fremantle plays their first home game against an energized Melbourne outfit fresh off a win.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/09/17/820917_p21759801_b_h9_ab_360.jpg"/>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260323010000 +0000" stop="20260323033000 +0000" channel="fsa504">
-    <title lang="en">VFL</title>
-    <sub-title lang="en">Gold Coast v Werribee</sub-title>
-    <date>2026</date>
-    <category lang="en">Live</category>
-    <category lang="en">Series</category>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/64/65/49/646549_p14740568_b_h3_aa.jpg"/>
-    <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <video>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>HD</quality>
-    </video>
-    <new/>
   </programme>
   <channel id="fsa507">
     <display-name lang="en">[Foxtel] FOX SPORTS MORE HD / FSM</display-name>
