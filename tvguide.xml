@@ -2297,7 +2297,6 @@
     <category lang="en">Sport</category>
     <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
     <country lang="en">United States of America</country>
-    <episode-num system="xmltv_ns">.155.</episode-num>
     <previously-shown />
     <new />
   </programme>
@@ -2567,7 +2566,7 @@
   </programme>
   <programme start="20260613063000 +0000" stop="20260613073000 +0000" channel="espn1">
     <title lang="en">The Last Dance</title>
-    <sub-title lang="en">Episode Three</sub-title>
+    <sub-title lang="en">Episode III</sub-title>
     <desc lang="en">Dennis Rodman's attitude and energy help the team win, but bring the drama off the court. The Bulls struggle to overcome the Pistons in the late '80s.</desc>
     <credits>
       <actor>Michael Jordan</actor>
@@ -3728,8 +3727,8 @@
   </programme>
   <programme start="20260611230000 +0000" stop="20260612020000 +0000" channel="espn2">
     <title lang="en">MLB</title>
-    <sub-title lang="en">Orioles vs. Mariners</sub-title>
-    <desc lang="en">Coverage of professional baseball.</desc>
+    <sub-title lang="en">Baltimore Orioles vs. Seattle Mariners</sub-title>
+    <desc lang="en">George Kirby (5-5, 4.04) gave up five runs, four earned, in four innings in a loss to the Mets on June 3; Brandon Young (4-1, 3.47) allowed three or fewer runs in his last six starts after holding Toronto to three runs in 6.1 innings on June 5.</desc>
     <date>2026</date>
     <category lang="en">Live</category>
     <category lang="en">Series</category>
@@ -3855,8 +3854,8 @@
   </programme>
   <programme start="20260612110000 +0000" stop="20260612130000 +0000" channel="espn2">
     <title lang="en">MLB</title>
-    <sub-title lang="en">Baltimore Orioles vs. Seattle Mariners</sub-title>
-    <desc lang="en">George Kirby (5-5, 4.04) gave up five runs, four earned, in four innings in a loss to the Mets on June 3; Brandon Young (4-1, 3.47) allowed three or fewer runs in his last six starts after holding Toronto to three runs in 6.1 innings on June 5.</desc>
+    <sub-title lang="en">Orioles vs. Mariners</sub-title>
+    <desc lang="en">Coverage of professional baseball.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -9410,7 +9409,7 @@
     <date>2013</date>
     <category lang="en">Movie</category>
     <category lang="en">Comedy</category>
-    <icon src="https://assets.fanart.tv/fanart/the-worlds-end-5299b2612233b.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w500/kpglnOBYmKn0AkkWDzGxzKHDbds.jpg" />
     <country lang="en">United States of America</country>
     <video>
       <aspect>16:9</aspect>
@@ -11088,7 +11087,7 @@
     <date>1987</date>
     <category lang="en">Movie</category>
     <category lang="en">Romance</category>
-    <icon src="https://image.tmdb.org/t/p/w500/6z6ZUrwbAJl9Nq43OY77O7iY80x.jpg" />
+    <icon src="https://assets.fanart.tv/fanart/some-kind-of-wonderful-631caa27c3bcc.jpg" />
     <country lang="en">United States of America</country>
     <video>
       <aspect>16:9</aspect>
@@ -11263,7 +11262,7 @@
     <date>1987</date>
     <category lang="en">Movie</category>
     <category lang="en">Romance</category>
-    <icon src="https://image.tmdb.org/t/p/w500/6z6ZUrwbAJl9Nq43OY77O7iY80x.jpg" />
+    <icon src="https://assets.fanart.tv/fanart/some-kind-of-wonderful-631caa27c3bcc.jpg" />
     <country lang="en">United States of America</country>
     <video>
       <aspect>16:9</aspect>
@@ -16161,7 +16160,7 @@
   </programme>
   <programme start="20260611080200 +0000" stop="20260611083000 +0000" channel="fsa502">
     <title lang="en">NRL Tonight</title>
-    <desc lang="en">Sam Squires presents the latest from both Origin camps &amp; NRL news. Plus Greg Alexander with his thoughts on SOO &amp; preview of Rabbitohs v Broncos.</desc>
+    <desc lang="en">A one stop show for all your NRL news, views, team selections and more.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -16314,13 +16313,13 @@
     </rating>
   </programme>
   <programme start="20260611161400 +0000" stop="20260611171200 +0000" channel="fsa502">
-    <title lang="en">NRL Thursday Night Footy</title>
+    <title lang="en">NRL</title>
     <sub-title lang="en">Rabbitohs v Broncos</sub-title>
     <desc lang="en">Wide World of Sports presents Thursday Night footy with Rabbitohs v Broncos, live from Accor Stadium. Join our expert commentary team for all the action, analysis and post match interviews. Kick off at 7:50PM AEST.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9y4dc7am08cf2hu3k6y5t58kn_image-header_pRow_1781053900000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025.14.</episode-num>
     <video>
@@ -16450,13 +16449,13 @@
     </rating>
   </programme>
   <programme start="20260611224000 +0000" stop="20260611234000 +0000" channel="fsa502">
-    <title lang="en">NRL</title>
+    <title lang="en">NRL Thursday Night Footy</title>
     <sub-title lang="en">Rabbitohs v Broncos</sub-title>
     <desc lang="en">Wide World of Sports presents Thursday Night footy with Rabbitohs v Broncos, live from Accor Stadium. Join our expert commentary team for all the action, analysis and post match interviews. Kick off at 7:50PM AEST.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9y4dc7am08cf2hu3k6y5t58kn_image-header_pRow_1781053900000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025.14.</episode-num>
     <video>
@@ -16544,13 +16543,13 @@
     </rating>
   </programme>
   <programme start="20260612022000 +0000" stop="20260612032000 +0000" channel="fsa502">
-    <title lang="en">NRL Thursday Night Footy</title>
+    <title lang="en">NRL</title>
     <sub-title lang="en">Rabbitohs v Broncos</sub-title>
     <desc lang="en">Wide World of Sports presents Thursday Night footy with Rabbitohs v Broncos, live from Accor Stadium. Join our expert commentary team for all the action, analysis and post match interviews. Kick off at 7:50PM AEST.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9y4dc7am08cf2hu3k6y5t58kn_image-header_pRow_1781053900000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025.14.</episode-num>
     <video>
@@ -16655,13 +16654,13 @@
     </rating>
   </programme>
   <programme start="20260612063100 +0000" stop="20260612073200 +0000" channel="fsa502">
-    <title lang="en">NRL Thursday Night Footy</title>
+    <title lang="en">NRL</title>
     <sub-title lang="en">Rabbitohs v Broncos</sub-title>
     <desc lang="en">Wide World of Sports presents Thursday Night footy with Rabbitohs v Broncos, live from Accor Stadium. Join our expert commentary team for all the action, analysis and post match interviews. Kick off at 7:50PM AEST.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9y4dc7am08cf2hu3k6y5t58kn_image-header_pRow_1781053900000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025.14.</episode-num>
     <video>
@@ -16693,7 +16692,7 @@
   </programme>
   <programme start="20260612083200 +0000" stop="20260612090000 +0000" channel="fsa502">
     <title lang="en">NRL Tonight</title>
-    <desc lang="en">Jemma Barge has news from both SOO camps, recap of Rabbitohs-Broncos &amp; previews the remainder of Round 15. Plus cross to Titans rookie Cooper Bai.</desc>
+    <desc lang="en">A one stop show for all your NRL news, views, team selections and more.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -17172,13 +17171,13 @@
     </rating>
   </programme>
   <programme start="20260613043000 +0000" stop="20260613053000 +0000" channel="fsa502">
-    <title lang="en">NRL Thursday Night Footy</title>
+    <title lang="en">NRL</title>
     <sub-title lang="en">Rabbitohs v Broncos</sub-title>
     <desc lang="en">Wide World of Sports presents Thursday Night footy with Rabbitohs v Broncos, live from Accor Stadium. Join our expert commentary team for all the action, analysis and post match interviews. Kick off at 7:50PM AEST.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9y4dc7am08cf2hu3k6y5t58kn_image-header_pRow_1781053900000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025.14.</episode-num>
     <video>
@@ -40195,7 +40194,7 @@
     <date>2021</date>
     <category lang="en">Movie</category>
     <category lang="en">Family</category>
-    <icon src="https://image.tmdb.org/t/p/w500/cycDz68DtTjJrDJ1fV8EBq2Xdpb.jpg" />
+    <icon src="https://assets.fanart.tv/fanart/peter-rabbit-2-the-runaway-60de12b0d3e6a.jpg" />
     <country lang="en">United States of America</country>
     <video>
       <aspect>16:9</aspect>
@@ -41858,7 +41857,7 @@
     <date>2013</date>
     <category lang="en">Movie</category>
     <category lang="en">Comedy</category>
-    <icon src="https://assets.fanart.tv/fanart/the-worlds-end-5299b2612233b.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w500/kpglnOBYmKn0AkkWDzGxzKHDbds.jpg" />
     <country lang="en">United States of America</country>
     <video>
       <aspect>16:9</aspect>
@@ -43845,7 +43844,7 @@
     <date>2018</date>
     <category lang="en">Movie</category>
     <category lang="en">Adventure</category>
-    <icon src="https://image.tmdb.org/t/p/w500/270MrJNqJovumHXGE6SSt0zwUIF.jpg" />
+    <icon src="https://assets.fanart.tv/fanart/jurassic-world-fallen-kingdom-5b9911d14ab9f.jpg" />
     <country lang="en">United States of America</country>
     <video>
       <aspect>16:9</aspect>
