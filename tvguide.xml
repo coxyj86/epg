@@ -746,7 +746,7 @@
   <programme start="20260613013000 +0000" stop="20260613020000 +0000" channel="FSP">
     <title lang="en">UFC Fight Week</title>
     <sub-title lang="en">UFC Freedom 250</sub-title>
-    <desc lang="en">Coverage of the UFC Fight Week.</desc>
+    <desc lang="en">The best preview of UFC Freedom 250 in Washington D.C - headlined by lightweight champ Ilia Topuria defending his belt against Justin Gaethje.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -1359,7 +1359,7 @@
   <programme start="20260614081500 +0000" stop="20260614091500 +0000" channel="FSP">
     <title lang="en">NASCAR Auto Parts Highlights</title>
     <sub-title lang="en">Pocono</sub-title>
-    <desc lang="en">Coverage of NASCAR Auto Parts Highlights.</desc>
+    <desc lang="en">Defending Pocono winner Connor Zilisch and Cup Series star William Byron join the field for a chaotic 250-mile battle.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -1780,7 +1780,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
     <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
-    <country>AU</country>
+    <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -1794,12 +1794,12 @@
   <programme start="20260615210000 +0000" stop="20260615230000 +0000" channel="FSP">
     <title lang="en">USPGA Tour</title>
     <sub-title lang="en">RBC Canadian Open Final Round</sub-title>
-    <desc lang="en">Coverage of USPGA Tour on Fox.</desc>
+    <desc lang="en">Coverage of the Final Round from the RBC Canadian Open. Full round coverage from 3am AEST on Fox Sports 503.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
     <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
-    <country>US</country>
+    <country lang="en">United States of America</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -1989,7 +1989,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/4hw2gzbjw6x1y6nxj9x79spbt_image-header_pRow_1780274727000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
-    <country>US</country>
+    <country lang="en">United States of America</country>
     <previously-shown />
     <new />
     <rating system="ACMA">
@@ -2074,7 +2074,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
     <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/37/13/75/24/06/98/54/45/65/13371375240698544565?resolution=360x245" />
-    <country>US</country>
+    <country lang="en">United States of America</country>
     <new />
     <rating system="ACMA">
       <value>NC</value>
@@ -2181,6 +2181,7 @@
     <category lang="en">Sport</category>
     <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
     <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">.155.</episode-num>
     <new />
   </programme>
   <programme start="20260612030000 +0000" stop="20260612040000 +0000" channel="espn1">
@@ -2296,6 +2297,7 @@
     <category lang="en">Sport</category>
     <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
     <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">.155.</episode-num>
     <previously-shown />
     <new />
   </programme>
@@ -2463,7 +2465,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103358_2026-06-12_SH035067570000_108263424030_2016-01-06T14:21:00Z_p12136352_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
-    <country>US</country>
+    <country lang="en">United States of America</country>
     <previously-shown />
     <new />
     <rating system="ACMA">
@@ -2565,7 +2567,7 @@
   </programme>
   <programme start="20260613063000 +0000" stop="20260613073000 +0000" channel="espn1">
     <title lang="en">The Last Dance</title>
-    <sub-title lang="en">Episode III</sub-title>
+    <sub-title lang="en">Episode Three</sub-title>
     <desc lang="en">Dennis Rodman's attitude and energy help the team win, but bring the drama off the court. The Bulls struggle to overcome the Pistons in the late '80s.</desc>
     <credits>
       <actor>Michael Jordan</actor>
@@ -2617,7 +2619,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103358_2026-06-12_SH033236780000_107953375811_2022-11-22T16:26:35Z_p10106369_b_h10_ae/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
-    <country>US</country>
+    <country lang="en">United States of America</country>
     <previously-shown />
     <new />
     <rating system="ACMA">
@@ -2783,7 +2785,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
     <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
-    <country>US</country>
+    <country lang="en">United States of America</country>
     <new />
     <rating system="ACMA">
       <value>NC</value>
@@ -3233,7 +3235,7 @@
     <category lang="en">Series</category>
     <category lang="en">News</category>
     <icon src="https://image.tmdb.org/t/p/w780/d6NS2ge7ixcAJzthPEPbsvr8Kq8.jpg" />
-    <country>US</country>
+    <country lang="en">United States of America</country>
     <previously-shown />
     <new />
     <rating system="ACMA">
@@ -3726,8 +3728,8 @@
   </programme>
   <programme start="20260611230000 +0000" stop="20260612020000 +0000" channel="espn2">
     <title lang="en">MLB</title>
-    <sub-title lang="en">Baltimore Orioles vs. Seattle Mariners</sub-title>
-    <desc lang="en">George Kirby (5-5, 4.04) gave up five runs, four earned, in four innings in a loss to the Mets on June 3; Brandon Young (4-1, 3.47) allowed three or fewer runs in his last six starts after holding Toronto to three runs in 6.1 innings on June 5.</desc>
+    <sub-title lang="en">Orioles vs. Mariners</sub-title>
+    <desc lang="en">Coverage of professional baseball.</desc>
     <date>2026</date>
     <category lang="en">Live</category>
     <category lang="en">Series</category>
@@ -5193,7 +5195,7 @@
     <category lang="en">Series</category>
     <category lang="en">Entertainment</category>
     <icon src="https://image.tmdb.org/t/p/w780/doxlYVzDdQ4TuthamGKCxB8TVbZ.jpg" />
-    <country>GB</country>
+    <country lang="en">United Kingdom of Great Britain and Northern Ireland</country>
     <episode-num system="xmltv_ns">27.5.</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -5370,7 +5372,7 @@
     <category lang="en">Series</category>
     <category lang="en">Lifestyle</category>
     <icon src="https://image.tmdb.org/t/p/w780/xwm9GHKpJt5FoQbubjmuxurYXHZ.jpg" />
-    <country>GB</country>
+    <country lang="en">United Kingdom of Great Britain and Northern Ireland</country>
     <episode-num system="xmltv_ns">43.14.</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -6341,7 +6343,7 @@
     <date>2025</date>
     <category lang="en">Series</category>
     <category lang="en">Travel</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/87/33/84/73/52/43/98/54/62/8/8733847352439854628?resolution=360x245" />
+    <icon src="https://image.tmdb.org/t/p/w780/6Rc15DIrmtEhL4GLS8p54i4mViT.jpg" />
     <country lang="en">United Kingdom of Great Britain and Northern Ireland</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <video>
@@ -6751,7 +6753,7 @@
     <date>2023</date>
     <category lang="en">Series</category>
     <category lang="en">Entertainment</category>
-    <icon src="https://image.tmdb.org/t/p/w780/a9LtnPlLVPMQDHRmx0fPiNtFBCf.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w780/nubw6VmWm1a0cP1YGqfKBFyK8J4.jpg" />
     <country lang="en">United Kingdom of Great Britain and Northern Ireland</country>
     <episode-num system="xmltv_ns">3.5.</episode-num>
     <video>
@@ -7205,7 +7207,7 @@
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/32/58/06/86/14/84/17/31/26/7/3258068614841731267?resolution=360x245" />
-    <country>GB</country>
+    <country lang="en">United Kingdom of Great Britain and Northern Ireland</country>
     <episode-num system="xmltv_ns">17.2.</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -7234,7 +7236,7 @@
     <category lang="en">Series</category>
     <category lang="en">Entertainment</category>
     <icon src="https://image.tmdb.org/t/p/w780/vzw3tHpCWkGUsVwLV0SvqMHZJqt.jpg" />
-    <country>GB</country>
+    <country lang="en">United Kingdom of Great Britain and Northern Ireland</country>
     <episode-num system="xmltv_ns">25.65.</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -7477,7 +7479,7 @@
     <category lang="en">Series</category>
     <category lang="en">Entertainment</category>
     <icon src="https://image.tmdb.org/t/p/w780/vzw3tHpCWkGUsVwLV0SvqMHZJqt.jpg" />
-    <country>GB</country>
+    <country lang="en">United Kingdom of Great Britain and Northern Ireland</country>
     <episode-num system="xmltv_ns">32.11.</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -12380,7 +12382,7 @@
     <date>2009</date>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/qLI3yvi9JOueey6ifydSzmvGRcK.jpg" />
+    <icon src="https://assets.fanart.tv/fanart/jesse-stone-thin-ice-5687d05901c8b.jpg" />
     <country lang="en">United States of America</country>
     <video>
       <aspect>16:9</aspect>
@@ -12528,7 +12530,7 @@
     <date>2009</date>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/qLI3yvi9JOueey6ifydSzmvGRcK.jpg" />
+    <icon src="https://assets.fanart.tv/fanart/jesse-stone-thin-ice-5687d05901c8b.jpg" />
     <country lang="en">United States of America</country>
     <video>
       <aspect>16:9</aspect>
@@ -14602,7 +14604,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103068_2026-06-12_SH043188200000_108423325094_2022-05-25T10:36:49Z_p9917671_b_h10_ad/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
-    <country>IN</country>
+    <country lang="en">India</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -14628,7 +14630,7 @@
   <programme start="20260612183000 +0000" stop="20260612193000 +0000" channel="fsa501">
     <title lang="en">ODI</title>
     <sub-title lang="en">BAN vs AUS Game 2</sub-title>
-    <desc lang="en">Australia touches down in Bangladesh for the first time in 15 years with Travis Head returning to the crease.</desc>
+    <desc lang="en">A half-century not out from Cameron Green and Alex Carey’s 47 show Australia have some fight in them as they look to level the series.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -14885,7 +14887,7 @@
   <programme start="20260613113000 +0000" stop="20260613115500 +0000" channel="fsa501">
     <title lang="en">ODI Mini BAN v AUS</title>
     <sub-title lang="en">Game 2</sub-title>
-    <desc lang="en">Coverage of ODI Mini BAN v AUS.</desc>
+    <desc lang="en">A half-century not out from Cameron Green and Alex Carey’s 47 show Australia have some fight in them as they look to level the series.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -16159,7 +16161,7 @@
   </programme>
   <programme start="20260611080200 +0000" stop="20260611083000 +0000" channel="fsa502">
     <title lang="en">NRL Tonight</title>
-    <desc lang="en">A one stop show for all your NRL news, views, team selections and more.</desc>
+    <desc lang="en">Sam Squires presents the latest from both Origin camps &amp; NRL news. Plus Greg Alexander with his thoughts on SOO &amp; preview of Rabbitohs v Broncos.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -16198,7 +16200,7 @@
     </rating>
   </programme>
   <programme start="20260611095000 +0000" stop="20260611114500 +0000" channel="fsa502">
-    <title lang="en">NRL</title>
+    <title lang="en">NRL Thursday Night Footy</title>
     <sub-title lang="en">Rabbitohs v Broncos</sub-title>
     <desc lang="en">Wide World of Sports presents Thursday Night footy with Rabbitohs v Broncos, live from Accor Stadium. Join our expert commentary team for all the action, analysis and post match interviews. Kick off at 7:50PM AEST.</desc>
     <date>2026</date>
@@ -16312,7 +16314,7 @@
     </rating>
   </programme>
   <programme start="20260611161400 +0000" stop="20260611171200 +0000" channel="fsa502">
-    <title lang="en">NRL</title>
+    <title lang="en">NRL Thursday Night Footy</title>
     <sub-title lang="en">Rabbitohs v Broncos</sub-title>
     <desc lang="en">Wide World of Sports presents Thursday Night footy with Rabbitohs v Broncos, live from Accor Stadium. Join our expert commentary team for all the action, analysis and post match interviews. Kick off at 7:50PM AEST.</desc>
     <date>2026</date>
@@ -16454,7 +16456,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9y4dc7am08cf2hu3k6y5t58kn_image-header_pRow_1781053900000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025.14.</episode-num>
     <video>
@@ -16542,7 +16544,7 @@
     </rating>
   </programme>
   <programme start="20260612022000 +0000" stop="20260612032000 +0000" channel="fsa502">
-    <title lang="en">NRL</title>
+    <title lang="en">NRL Thursday Night Footy</title>
     <sub-title lang="en">Rabbitohs v Broncos</sub-title>
     <desc lang="en">Wide World of Sports presents Thursday Night footy with Rabbitohs v Broncos, live from Accor Stadium. Join our expert commentary team for all the action, analysis and post match interviews. Kick off at 7:50PM AEST.</desc>
     <date>2026</date>
@@ -16653,7 +16655,7 @@
     </rating>
   </programme>
   <programme start="20260612063100 +0000" stop="20260612073200 +0000" channel="fsa502">
-    <title lang="en">NRL</title>
+    <title lang="en">NRL Thursday Night Footy</title>
     <sub-title lang="en">Rabbitohs v Broncos</sub-title>
     <desc lang="en">Wide World of Sports presents Thursday Night footy with Rabbitohs v Broncos, live from Accor Stadium. Join our expert commentary team for all the action, analysis and post match interviews. Kick off at 7:50PM AEST.</desc>
     <date>2026</date>
@@ -16691,7 +16693,7 @@
   </programme>
   <programme start="20260612083200 +0000" stop="20260612090000 +0000" channel="fsa502">
     <title lang="en">NRL Tonight</title>
-    <desc lang="en">A one stop show for all your NRL news, views, team selections and more.</desc>
+    <desc lang="en">Jemma Barge has news from both SOO camps, recap of Rabbitohs-Broncos &amp; previews the remainder of Round 15. Plus cross to Titans rookie Cooper Bai.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -16737,7 +16739,7 @@
     <category lang="en">Live</category>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9y4dc7am08cf2hu3k6y5t58kn_image-header_pRow_1781053900000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
@@ -16872,7 +16874,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9y4dc7am08cf2hu3k6y5t58kn_image-header_pRow_1781053900000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
@@ -17170,7 +17172,7 @@
     </rating>
   </programme>
   <programme start="20260613043000 +0000" stop="20260613053000 +0000" channel="fsa502">
-    <title lang="en">NRL</title>
+    <title lang="en">NRL Thursday Night Footy</title>
     <sub-title lang="en">Rabbitohs v Broncos</sub-title>
     <desc lang="en">Wide World of Sports presents Thursday Night footy with Rabbitohs v Broncos, live from Accor Stadium. Join our expert commentary team for all the action, analysis and post match interviews. Kick off at 7:50PM AEST.</desc>
     <date>2026</date>
@@ -17195,7 +17197,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9y4dc7am08cf2hu3k6y5t58kn_image-header_pRow_1781053900000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
@@ -17253,7 +17255,7 @@
     <category lang="en">Live</category>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9y4dc7am08cf2hu3k6y5t58kn_image-header_pRow_1781053900000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025.74.</episode-num>
     <video>
@@ -17295,7 +17297,7 @@
     <category lang="en">Live</category>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9y4dc7am08cf2hu3k6y5t58kn_image-header_pRow_1781053900000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
@@ -17410,7 +17412,7 @@
   <programme start="20260613170000 +0000" stop="20260613190000 +0000" channel="fsa502">
     <title lang="en">English Super League</title>
     <sub-title lang="en">Catalans vs Castleford</sub-title>
-    <desc lang="en">Catalans Dragons meets Castleford Tigers in Super League. The match is played at Stade Gilbert Brutus. Round 14 in the group stages.</desc>
+    <desc lang="en">Round 14 of the Super League from Stade Gilbert Brutus.</desc>
     <date>2026</date>
     <category lang="en">Live</category>
     <category lang="en">Series</category>
@@ -17547,7 +17549,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9y4dc7am08cf2hu3k6y5t58kn_image-header_pRow_1781053900000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
@@ -17585,7 +17587,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9y4dc7am08cf2hu3k6y5t58kn_image-header_pRow_1781053900000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025.74.</episode-num>
     <video>
@@ -17604,7 +17606,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9y4dc7am08cf2hu3k6y5t58kn_image-header_pRow_1781053900000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
@@ -17771,7 +17773,7 @@
     <category lang="en">Live</category>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9y4dc7am08cf2hu3k6y5t58kn_image-header_pRow_1781053900000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025.14.</episode-num>
     <video>
@@ -17964,7 +17966,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9y4dc7am08cf2hu3k6y5t58kn_image-header_pRow_1781053900000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025.14.</episode-num>
     <video>
@@ -17977,7 +17979,7 @@
     </rating>
   </programme>
   <programme start="20260614171000 +0000" stop="20260614181000 +0000" channel="fsa502">
-    <title lang="en">NRL</title>
+    <title lang="en">NRL Thursday Night Footy</title>
     <sub-title lang="en">Rabbitohs v Broncos</sub-title>
     <desc lang="en">Wide World of Sports presents Thursday Night footy with Rabbitohs v Broncos, live from Accor Stadium. Join our expert commentary team for all the action, analysis and post match interviews. Kick off at 7:50PM AEST.</desc>
     <date>2026</date>
@@ -18002,7 +18004,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9y4dc7am08cf2hu3k6y5t58kn_image-header_pRow_1781053900000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
@@ -18021,7 +18023,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9y4dc7am08cf2hu3k6y5t58kn_image-header_pRow_1781053900000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025.74.</episode-num>
     <video>
@@ -18040,7 +18042,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9y4dc7am08cf2hu3k6y5t58kn_image-header_pRow_1781053900000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025.14.</episode-num>
     <video>
@@ -18459,7 +18461,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_SH029161050000_107127517720_2026-03-24T04:45:17Z_p11964078_b_h10_ac/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
-    <country>AU</country>
+    <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025.48.</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -18519,7 +18521,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
     <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
-    <country>AU</country>
+    <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025.13.</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -18541,7 +18543,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_SH029161050000_107127517720_2026-03-24T04:45:17Z_p11964078_b_h10_ac/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
-    <country>AU</country>
+    <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025.48.</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -18657,7 +18659,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9y4dc7am08cf2hu3k6y5t58kn_image-header_pRow_1781053900000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
@@ -18676,7 +18678,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9y4dc7am08cf2hu3k6y5t58kn_image-header_pRow_1781053900000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025.14.</episode-num>
     <video>
@@ -18689,7 +18691,7 @@
     </rating>
   </programme>
   <programme start="20260615180000 +0000" stop="20260615190000 +0000" channel="fsa502">
-    <title lang="en">NRL</title>
+    <title lang="en">NRL Thursday Night Footy</title>
     <sub-title lang="en">Rabbitohs v Broncos</sub-title>
     <desc lang="en">Wide World of Sports presents Thursday Night footy with Rabbitohs v Broncos, live from Accor Stadium. Join our expert commentary team for all the action, analysis and post match interviews. Kick off at 7:50PM AEST.</desc>
     <date>2026</date>
@@ -18714,7 +18716,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9y4dc7am08cf2hu3k6y5t58kn_image-header_pRow_1781053900000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
@@ -18733,7 +18735,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9y4dc7am08cf2hu3k6y5t58kn_image-header_pRow_1781053900000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-11_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025.74.</episode-num>
     <video>
@@ -23683,7 +23685,7 @@
     <category lang="en">Series</category>
     <category lang="en">News</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103083_2026-06-11_SH042121470000_101942753651_2025-01-23T03:43:21Z_p21695748_b_h8_ab/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
-    <country>AU</country>
+    <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <quality>HD</quality>
@@ -23845,7 +23847,7 @@
     <category lang="en">Series</category>
     <category lang="en">News</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103083_2026-06-11_SH042121470000_101942753651_2025-01-23T03:43:21Z_p21695748_b_h8_ab/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
-    <country>AU</country>
+    <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <quality>HD</quality>
@@ -23971,7 +23973,7 @@
     <category lang="en">Series</category>
     <category lang="en">News</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103083_2026-06-11_SH042121470000_101942753651_2025-01-23T03:43:21Z_p21695748_b_h8_ab/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
-    <country>AU</country>
+    <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <quality>HD</quality>
@@ -24025,7 +24027,7 @@
     <category lang="en">Series</category>
     <category lang="en">News</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103083_2026-06-11_SH042121470000_101942753651_2025-01-23T03:43:21Z_p21695748_b_h8_ab/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
-    <country>AU</country>
+    <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <quality>HD</quality>
@@ -24115,7 +24117,7 @@
     <category lang="en">Series</category>
     <category lang="en">News</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103083_2026-06-11_SH042121470000_101942753651_2025-01-23T03:43:21Z_p21695748_b_h8_ab/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
-    <country>AU</country>
+    <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <quality>HD</quality>
@@ -24151,7 +24153,7 @@
     <category lang="en">Series</category>
     <category lang="en">News</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103083_2026-06-11_SH042121470000_101942753651_2025-01-23T03:43:21Z_p21695748_b_h8_ab/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
-    <country>AU</country>
+    <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <quality>HD</quality>
@@ -24223,7 +24225,7 @@
     <category lang="en">Series</category>
     <category lang="en">News</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103083_2026-06-11_SH042121470000_101942753651_2025-01-23T03:43:21Z_p21695748_b_h8_ab/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
-    <country>AU</country>
+    <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <quality>HD</quality>
@@ -24277,7 +24279,7 @@
     <category lang="en">Series</category>
     <category lang="en">News</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103083_2026-06-11_SH042121470000_101942753651_2025-01-23T03:43:21Z_p21695748_b_h8_ab/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
-    <country>AU</country>
+    <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <quality>HD</quality>
@@ -25105,7 +25107,7 @@
   <programme start="20260613013000 +0000" stop="20260613020000 +0000" channel="fsa505">
     <title lang="en">UFC Fight Week</title>
     <sub-title lang="en">UFC Freedom 250</sub-title>
-    <desc lang="en">Coverage of the UFC Fight Week.</desc>
+    <desc lang="en">The best preview of UFC Freedom 250 in Washington D.C - headlined by lightweight champ Ilia Topuria defending his belt against Justin Gaethje.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -25718,7 +25720,7 @@
   <programme start="20260614081500 +0000" stop="20260614091500 +0000" channel="fsa505">
     <title lang="en">NASCAR Auto Parts Highlights</title>
     <sub-title lang="en">Pocono</sub-title>
-    <desc lang="en">Coverage of NASCAR Auto Parts Highlights.</desc>
+    <desc lang="en">Defending Pocono winner Connor Zilisch and Cup Series star William Byron join the field for a chaotic 250-mile battle.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -26139,7 +26141,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
     <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
-    <country>AU</country>
+    <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -26153,12 +26155,12 @@
   <programme start="20260615210000 +0000" stop="20260615230000 +0000" channel="fsa505">
     <title lang="en">USPGA Tour</title>
     <sub-title lang="en">RBC Canadian Open Final Round</sub-title>
-    <desc lang="en">Coverage of USPGA Tour on Fox.</desc>
+    <desc lang="en">Coverage of the Final Round from the RBC Canadian Open. Full round coverage from 3am AEST on Fox Sports 503.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
     <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
-    <country>US</country>
+    <country lang="en">United States of America</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -30158,7 +30160,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103083_2026-06-11_SH029292320000_106745979721_2026-03-12T05:04:56Z_p15311210_b_h10_af/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
-    <country>AU</country>
+    <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025.45.</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -39279,7 +39281,7 @@
     <date>2015</date>
     <category lang="en">Movie</category>
     <category lang="en">Family</category>
-    <icon src="https://assets.fanart.tv/fanart/home-55608d2b91c15.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w500/usFenYnk6mr8C62dB1MoAfSWMGR.jpg" />
     <country lang="en">United States of America</country>
     <video>
       <aspect>16:9</aspect>
@@ -40751,7 +40753,7 @@
     <date>2011</date>
     <category lang="en">Movie</category>
     <category lang="en">Animation</category>
-    <icon src="https://image.tmdb.org/t/p/w500/2FrDmwXWjRE1zpNP288YncRt5RF.jpg" />
+    <icon src="https://assets.fanart.tv/fanart/hop-514f73968c1d9.jpg" />
     <country lang="en">United States of America</country>
     <video>
       <aspect>16:9</aspect>
@@ -48117,7 +48119,7 @@
     <date>2002</date>
     <category lang="en">Movie</category>
     <category lang="en">Romantic Comedy</category>
-    <icon src="https://image.tmdb.org/t/p/w500/2dzSBmFWWqt8NbnubJKIWU21Y86.jpg" />
+    <icon src="https://assets.fanart.tv/fanart/bend-it-like-beckham-675392655b6e5.jpg" />
     <country lang="en">United Kingdom of Great Britain and Northern Ireland</country>
     <video>
       <aspect>16:9</aspect>
@@ -48300,7 +48302,7 @@
     <date>2002</date>
     <category lang="en">Movie</category>
     <category lang="en">Romantic Comedy</category>
-    <icon src="https://image.tmdb.org/t/p/w500/2dzSBmFWWqt8NbnubJKIWU21Y86.jpg" />
+    <icon src="https://assets.fanart.tv/fanart/bend-it-like-beckham-675392655b6e5.jpg" />
     <country lang="en">United Kingdom of Great Britain and Northern Ireland</country>
     <video>
       <aspect>16:9</aspect>
@@ -50503,7 +50505,7 @@
     <date>2000</date>
     <category lang="en">Movie</category>
     <category lang="en">Action</category>
-    <icon src="https://assets.fanart.tv/fanart/mission-impossible-ii-51b39a37bb862.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w500/hfnrual76gPeNFduhD4xzHWpfTw.jpg" />
     <country lang="en">United States of America</country>
     <video>
       <aspect>16:9</aspect>
