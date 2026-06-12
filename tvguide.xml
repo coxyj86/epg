@@ -329,6 +329,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_EP027326820826_108652950218_2026-05-05T13:56:21Z_p32386881_b_h8_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Spain</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -1478,7 +1479,7 @@
   <programme start="20260616000000 +0000" stop="20260616010000 +0000" channel="FSP">
     <title lang="en">World Superbikes</title>
     <sub-title lang="en">Emilia Romanga Race 2</sub-title>
-    <desc lang="en">Coverage of the program - Superbike World Championship.</desc>
+    <desc lang="en">WorldSBK action continues with Race 2, as the chasing pack works to cut into Nicolo Bulega’s Championship lead.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -2049,7 +2050,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
-    <icon src="https://image.tmdb.org/t/p/w780/raTLTdAluxHod8Zj5h5OtIuVoVC.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w780/4ukEniH29brbhbrpVGG88VvxfmU.jpg" />
     <country lang="en">United States of America</country>
     <episode-num system="xmltv_ns">.340.</episode-num>
     <previously-shown />
@@ -2133,7 +2134,6 @@
     <category lang="en">Sport</category>
     <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
     <country lang="en">United States of America</country>
-    <episode-num system="xmltv_ns">.155.</episode-num>
     <previously-shown />
     <new />
   </programme>
@@ -2393,7 +2393,7 @@
     <date>2009</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
-    <icon src="https://image.tmdb.org/t/p/w780/raTLTdAluxHod8Zj5h5OtIuVoVC.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w780/4ukEniH29brbhbrpVGG88VvxfmU.jpg" />
     <country lang="en">United States of America</country>
     <episode-num system="xmltv_ns">3.0.</episode-num>
     <previously-shown />
@@ -2472,6 +2472,7 @@
     <category lang="en">Sport</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103358_2026-06-12_EP062580851482_108569956101_2026-04-07T21:13:18Z_GNLZZGG00327D3Z/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">.122.</episode-num>
     <previously-shown />
     <new />
     <rating system="ACMA">
@@ -2560,7 +2561,7 @@
     <date>2020</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
-    <icon src="https://image.tmdb.org/t/p/w780/raTLTdAluxHod8Zj5h5OtIuVoVC.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w780/4ukEniH29brbhbrpVGG88VvxfmU.jpg" />
     <country lang="en">United States of America</country>
     <episode-num system="xmltv_ns">3.3.</episode-num>
     <previously-shown />
@@ -2583,7 +2584,7 @@
     <date>2020</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
-    <icon src="https://image.tmdb.org/t/p/w780/raTLTdAluxHod8Zj5h5OtIuVoVC.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w780/4ukEniH29brbhbrpVGG88VvxfmU.jpg" />
     <country lang="en">United States of America</country>
     <episode-num system="xmltv_ns">3.4.</episode-num>
     <previously-shown />
@@ -2894,7 +2895,7 @@
     <date>2010</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
-    <icon src="https://image.tmdb.org/t/p/w780/raTLTdAluxHod8Zj5h5OtIuVoVC.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w780/4ukEniH29brbhbrpVGG88VvxfmU.jpg" />
     <country lang="en">United States of America</country>
     <episode-num system="xmltv_ns">0.15.</episode-num>
     <previously-shown />
@@ -3068,7 +3069,7 @@
     <title lang="en">E60</title>
     <sub-title lang="en">The Oklahoma Standard</sub-title>
     <desc lang="en">On April 19, 1995, Oklahoma City endured a terrorist attack that claimed 168 lives and left a devastating impact on the community. The city’s response to the tragedy became a monument to resilience, and the “Oklahoma Standard” endures in the success of the state’s first professional sports team: the Oklahoma City Thunder.</desc>
-    <date>2007</date>
+    <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">News</category>
     <icon src="https://image.tmdb.org/t/p/w780/d6NS2ge7ixcAJzthPEPbsvr8Kq8.jpg" />
@@ -4427,7 +4428,7 @@
     <date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
-    <icon src="https://image.tmdb.org/t/p/w780/raTLTdAluxHod8Zj5h5OtIuVoVC.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w780/4ukEniH29brbhbrpVGG88VvxfmU.jpg" />
     <country lang="en">United States of America</country>
     <episode-num system="xmltv_ns">3.36.</episode-num>
     <previously-shown />
@@ -6347,7 +6348,7 @@
     <date>2023</date>
     <category lang="en">Series</category>
     <category lang="en">Entertainment</category>
-    <icon src="https://image.tmdb.org/t/p/w780/a9LtnPlLVPMQDHRmx0fPiNtFBCf.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w780/nubw6VmWm1a0cP1YGqfKBFyK8J4.jpg" />
     <country lang="en">United Kingdom of Great Britain and Northern Ireland</country>
     <episode-num system="xmltv_ns">3.5.</episode-num>
     <video>
@@ -8074,7 +8075,7 @@
     <date>2025</date>
     <category lang="en">Movie</category>
     <category lang="en">Horror</category>
-    <icon src="https://image.tmdb.org/t/p/w500/l2grFOMAaBNDJNR1cmJiyojHmaP.jpg" />
+    <icon src="https://assets.fanart.tv/fanart/dangerous-animals-687594a3ccacb.jpg" />
     <country lang="en">Australia</country>
     <video>
       <aspect>16:9</aspect>
@@ -9233,7 +9234,7 @@
     <date>2025</date>
     <category lang="en">Movie</category>
     <category lang="en">Horror</category>
-    <icon src="https://image.tmdb.org/t/p/w500/l2grFOMAaBNDJNR1cmJiyojHmaP.jpg" />
+    <icon src="https://assets.fanart.tv/fanart/dangerous-animals-687594a3ccacb.jpg" />
     <country lang="en">Australia</country>
     <video>
       <aspect>16:9</aspect>
@@ -10681,7 +10682,7 @@
     <date>2008</date>
     <category lang="en">Movie</category>
     <category lang="en">Animation</category>
-    <icon src="https://assets.fanart.tv/fanart/open-season-2-542034f225d2d.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w500/lM4bahouPblYcfngZtnNSkaWxCU.jpg" />
     <country lang="en">United States of America</country>
     <video>
       <aspect>16:9</aspect>
@@ -12968,7 +12969,7 @@
     <date>2013</date>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/bUiaTH6HUac25MNWSXVf0XlAeq2.jpg" />
+    <icon src="https://assets.fanart.tv/fanart/anna-nicole-530588929f957.jpg" />
     <country lang="en">United States of America</country>
     <video>
       <aspect>16:9</aspect>
@@ -16459,15 +16460,15 @@
     </rating>
   </programme>
   <programme start="20260612063100 +0000" stop="20260612073200 +0000" channel="fsa502">
-    <title lang="en">NRL Thursday Night Footy</title>
-    <sub-title lang="en">Rabbitohs v Broncos</sub-title>
-    <desc lang="en">Wide World of Sports presents Thursday Night footy with Rabbitohs v Broncos, live from Accor Stadium. Join our expert commentary team for all the action, analysis and post match interviews. Kick off at 7:50PM AEST.</desc>
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Rabbitohs vs Broncos</sub-title>
+    <desc lang="en">Round 15 begins with a tribute to recently retired Jai Arrow. The hosts are clinging to eighth, the visitors desperate to win &amp; spark their title defence.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-12_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025.14.</episode-num>
+    <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HD</quality>
@@ -16773,7 +16774,7 @@
   <programme start="20260612213000 +0000" stop="20260612215000 +0000" channel="fsa502">
     <title lang="en">NRL Mini</title>
     <sub-title lang="en">SOU vs BRI</sub-title>
-    <desc lang="en">Round 15 begins with the hosts clinging to eighth &amp; the visitors desperate for victory to spark their title defence.</desc>
+    <desc lang="en">Round 15 begins with a tribute to recently retired Jai Arrow. The hosts are clinging to eighth, the visitors desperate to win &amp; spark their title defence.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -16976,15 +16977,15 @@
     </rating>
   </programme>
   <programme start="20260613043000 +0000" stop="20260613053000 +0000" channel="fsa502">
-    <title lang="en">NRL Thursday Night Footy</title>
-    <sub-title lang="en">Rabbitohs v Broncos</sub-title>
-    <desc lang="en">Wide World of Sports presents Thursday Night footy with Rabbitohs v Broncos, live from Accor Stadium. Join our expert commentary team for all the action, analysis and post match interviews. Kick off at 7:50PM AEST.</desc>
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Rabbitohs vs Broncos</sub-title>
+    <desc lang="en">Round 15 begins with a tribute to recently retired Jai Arrow. The hosts are clinging to eighth, the visitors desperate to win &amp; spark their title defence.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103065_2026-06-12_EP031720961142_108463449991_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Australia</country>
-    <episode-num system="xmltv_ns">2025.14.</episode-num>
+    <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HD</quality>
@@ -19902,7 +19903,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260615060000 +0000" stop="20260615070000 +0000" channel="fsa503">
+  <programme start="20260615060000 +0000" stop="20260615065000 +0000" channel="fsa503">
     <title lang="en">US Open Official Film</title>
     <sub-title lang="en">2021 Rahm</sub-title>
     <desc lang="en">John Rahm and Louis Oosthuizen held a share of the lead going into the final round at Torrey Pines. But it was Rahm who made a birdie on each of the final two holes, winning his first major championship by finishing one shot ahead.</desc>
@@ -19919,6 +19920,454 @@
     <rating system="ACMA">
       <value>NC</value>
     </rating>
+  </programme>
+  <programme start="20260615065000 +0000" stop="20260615071000 +0000" channel="fsa503">
+    <title lang="en">US Open Mini</title>
+    <sub-title lang="en">Final Round</sub-title>
+    <desc lang="en">America's Sam Burns maintained his one shot lead over the field on Moving Day. Sitting one shot back from Burns is Adam Scott, looking to secure his second major title from Oakmont Country Club, Pennsylvania.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615071000 +0000" stop="20260615094000 +0000" channel="fsa503">
+    <title lang="en">US Open</title>
+    <sub-title lang="en">Playoff 2008 Tiger</sub-title>
+    <desc lang="en">From The Torry Pines Golf Club in San Diego, California.</desc>
+    <date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260615094000 +0000" stop="20260615104000 +0000" channel="fsa503">
+    <title lang="en">US Open Official Film</title>
+    <desc lang="en">Golf's best head to Oakmont Country Club for the US Open as the third major of the season gets underway.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615104000 +0000" stop="20260615114000 +0000" channel="fsa503">
+    <title lang="en">US Open</title>
+    <sub-title lang="en">Final Round 2006 Ogilvy</sub-title>
+    <desc lang="en">Taking advantage of the 72nd hole struggles of Phil Mickelson, Jim Furyk and Colin Montgomerie, Australian Geoff Ogilvy managed a pair of pars over his last two holes, to post a one-stroke victory.</desc>
+    <date>2006</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260615114000 +0000" stop="20260615123000 +0000" channel="fsa503">
+    <title lang="en">US Open Film</title>
+    <sub-title lang="en">2023</sub-title>
+    <desc lang="en">Golf's best head to Los Angeles Country Club which hosts its first US Open as the third major of the season gets underway.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260615123000 +0000" stop="20260615133000 +0000" channel="fsa503">
+    <title lang="en">US Open Official Film</title>
+    <desc lang="en">Golf's best head to Oakmont Country Club for the US Open as the third major of the season gets underway.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615133000 +0000" stop="20260615153000 +0000" channel="fsa503">
+    <title lang="en">US Open</title>
+    <sub-title lang="en">Final Round 2024</sub-title>
+    <desc lang="en">The final 18 holes of the 124th US Open play out from Pinehurst Resort as Bryson DeChambeau chasing a second major title, and Rory McIlroy chasing his fifth, deliver one of the most thrilling duels in golf.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260615153000 +0000" stop="20260615173000 +0000" channel="fsa503">
+    <title lang="en">US Open</title>
+    <sub-title lang="en">Final Round 2022 Fitzpatrick</sub-title>
+    <desc lang="en">Englishman Matt Fitzpatrick and American Will Zalatoris hold a share of the lead going into the Final Round. Defending champion Jon Rahm is one shot back.</desc>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260615173000 +0000" stop="20260615193000 +0000" channel="fsa503">
+    <title lang="en">US Open</title>
+    <sub-title lang="en">Final Round 2023</sub-title>
+    <desc lang="en">Several of the game's brightest stars battled down to the wire for U.S. Open glory, but an unlikely competitor rose above them all. See Wyndham Clark, Rory Mcllory, and Scottie Scheffler compete the thrilling final round of the U.S. Open.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260615193000 +0000" stop="20260615202000 +0000" channel="fsa503">
+    <title lang="en">US Open Official Film</title>
+    <sub-title lang="en">2024</sub-title>
+    <desc lang="en">The final 18 holes of the 124th US Open play out from Pinehurst Resort to determine who claims the third major of the year.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2024..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615202000 +0000" stop="20260615225000 +0000" channel="fsa503">
+    <title lang="en">US Open</title>
+    <sub-title lang="en">Playoff 2008 Tiger</sub-title>
+    <desc lang="en">From The Torry Pines Golf Club in San Diego, California.</desc>
+    <date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260615225000 +0000" stop="20260615230000 +0000" channel="fsa503">
+    <title lang="en">Sport Special</title>
+    <desc lang="en">Coverage of the program - Sport Special.</desc>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615230000 +0000" stop="20260616010000 +0000" channel="fsa503">
+    <title lang="en">Live From US Open</title>
+    <sub-title lang="en">Program 1</sub-title>
+    <desc lang="en">Live coverage from the US Open.</desc>
+    <date>2026</date>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <new />
+  </programme>
+  <programme start="20260616010000 +0000" stop="20260616020000 +0000" channel="fsa503">
+    <title lang="en">US Open</title>
+    <sub-title lang="en">Final Round 2006 Ogilvy</sub-title>
+    <desc lang="en">Taking advantage of the 72nd hole struggles of Phil Mickelson, Jim Furyk and Colin Montgomerie, Australian Geoff Ogilvy managed a pair of pars over his last two holes, to post a one-stroke victory.</desc>
+    <date>2006</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260616020000 +0000" stop="20260616030000 +0000" channel="fsa503">
+    <title lang="en">Sport Special</title>
+    <desc lang="en">Coverage of the program - Sport Special.</desc>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616030000 +0000" stop="20260616043000 +0000" channel="fsa503">
+    <title lang="en">Live From US Open</title>
+    <sub-title lang="en">Program 1</sub-title>
+    <desc lang="en">Live coverage from the US Open.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260616043000 +0000" stop="20260616063000 +0000" channel="fsa503">
+    <title lang="en">US Open</title>
+    <sub-title lang="en">Final Round 2018 Koepka</sub-title>
+    <desc lang="en">For only the 7th time overall, the U.S. Open has a repeat champion. Brooks Koepka, who won in 2017, delivers a final round 68 for a one-stroke victory over Tommy Fleetwood to successfully defend his crown.</desc>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260616063000 +0000" stop="20260616080000 +0000" channel="fsa503">
+    <title lang="en">Live From US Open</title>
+    <sub-title lang="en">Program 1</sub-title>
+    <desc lang="en">Live coverage from the US Open.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260616080000 +0000" stop="20260616100000 +0000" channel="fsa503">
+    <title lang="en">US Open</title>
+    <sub-title lang="en">Final Round 2011 Mcllroy</sub-title>
+    <desc lang="en">The Rory runaway at Congressional was in evidence at the halfway mark, when McIlroy shot 65-66 to take a 6-stroke lead at the halfway point. He followed it up with 2 more rounds in the 60s to post a 72-hole record total of 268.</desc>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260616100000 +0000" stop="20260616113000 +0000" channel="fsa503">
+    <title lang="en">Live From US Open</title>
+    <sub-title lang="en">Program 1</sub-title>
+    <desc lang="en">Live coverage from the US Open.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260616113000 +0000" stop="20260616123000 +0000" channel="fsa503">
+    <title lang="en">US Open Official Film</title>
+    <sub-title lang="en">2008</sub-title>
+    <desc lang="en">From The Torry Pines Golf Club in San Diego, California.</desc>
+    <date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616123000 +0000" stop="20260616140000 +0000" channel="fsa503">
+    <title lang="en">Live From US Open</title>
+    <sub-title lang="en">Program 1</sub-title>
+    <desc lang="en">Live coverage from the US Open.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260616140000 +0000" stop="20260616160000 +0000" channel="fsa503">
+    <title lang="en">US Open</title>
+    <sub-title lang="en">Final Round 2011 Mcllroy</sub-title>
+    <desc lang="en">The Rory runaway at Congressional was in evidence at the halfway mark, when McIlroy shot 65-66 to take a 6-stroke lead at the halfway point. He followed it up with 2 more rounds in the 60s to post a 72-hole record total of 268.</desc>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260616160000 +0000" stop="20260616180000 +0000" channel="fsa503">
+    <title lang="en">US Open</title>
+    <sub-title lang="en">Final Round</sub-title>
+    <desc lang="en">The 2015 US Open Championship from the Chambers Bay GC in University Place, Washington. The new and unique course is set to challenge the field of the world’s best golfers and ensure four days of enthralling golf.</desc>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2014..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616180000 +0000" stop="20260616193000 +0000" channel="fsa503">
+    <title lang="en">Live From US Open</title>
+    <sub-title lang="en">Program 1</sub-title>
+    <desc lang="en">Live coverage from the US Open.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260616193000 +0000" stop="20260616213000 +0000" channel="fsa503">
+    <title lang="en">US Open</title>
+    <sub-title lang="en">Final Round 2022 Fitzpatrick</sub-title>
+    <desc lang="en">Englishman Matt Fitzpatrick and American Will Zalatoris hold a share of the lead going into the Final Round. Defending champion Jon Rahm is one shot back.</desc>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260616213000 +0000" stop="20260616230000 +0000" channel="fsa503">
+    <title lang="en">Live From US Open</title>
+    <sub-title lang="en">Program 1</sub-title>
+    <desc lang="en">Live coverage from the US Open.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260616230000 +0000" stop="20260617010000 +0000" channel="fsa503">
+    <title lang="en">Live From US Open</title>
+    <sub-title lang="en">Program 2</sub-title>
+    <desc lang="en">Live coverage from the US Open.</desc>
+    <date>2026</date>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <new />
   </programme>
   <channel id="fsan">
     <display-name lang="en">[Foxtel] FOX SPORTS News HD / FSN</display-name>
@@ -24672,6 +25121,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_EP027326820826_108652950218_2026-05-05T13:56:21Z_p32386881_b_h8_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Spain</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -25821,7 +26271,7 @@
   <programme start="20260616000000 +0000" stop="20260616010000 +0000" channel="fsa505">
     <title lang="en">World Superbikes</title>
     <sub-title lang="en">Emilia Romanga Race 2</sub-title>
-    <desc lang="en">Coverage of the program - Superbike World Championship.</desc>
+    <desc lang="en">WorldSBK action continues with Race 2, as the chasing pack works to cut into Nicolo Bulega’s Championship lead.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -26513,6 +26963,7 @@
     <category lang="en">Sport</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_EP027326820826_108652950218_2026-05-05T13:56:21Z_p32386881_b_h8_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Monaco</country>
+    <country lang="en">Spain</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -27139,7 +27590,7 @@
     <premiere />
     <new />
   </programme>
-  <programme start="20260614080500 +0000" stop="20260614085500 +0000" channel="fsa506">
+  <programme start="20260614080500 +0000" stop="20260614090000 +0000" channel="fsa506">
     <title lang="en">Porsche Supercup Series</title>
     <sub-title lang="en">Barcelona</sub-title>
     <desc lang="en">Porsche Junior Theo Oeverhaus impressed in the season opener and eyes off a second pole position when qualifying begins in Barcelona.</desc>
@@ -27485,6 +27936,866 @@
     <category lang="en">Sport</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-13_SH038161890000_106370532176_2017-07-11T13:23:00Z_p9739735_b_h10_ac/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615063400 +0000" stop="20260615073000 +0000" channel="fsa506">
+    <title lang="en">ISLE OF MAN TT</title>
+    <sub-title lang="en">Senior TT</sub-title>
+    <desc lang="en">The Milwaukee Senior TT is the last Superbike event of the week, and the most coveted of all the races. Winning here places riders amongst TT royalty like Duke, Reid, Agostini, McCallan, Dunlop and McGuiness, so stakes are high.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">Isle of Man</country>
+    <episode-num system="xmltv_ns">2025.10.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <new />
+  </programme>
+  <programme start="20260615073000 +0000" stop="20260615083000 +0000" channel="fsa506">
+    <title lang="en">Shannons SpeedSeries</title>
+    <sub-title lang="en">Rnd 3 Queensland Day 1</sub-title>
+    <desc lang="en">Australia's best GT3, GT4, and Porsche stars take on Queensland Raceway. Featuring GT4 Australia, Mustang Cup and GT World Challenge Australia.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/bya5zldvmvu97ogihk4mfeqzc_image-header_pRow_1778118344000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260615083000 +0000" stop="20260615093000 +0000" channel="fsa506">
+    <title lang="en">NASCAR Xfinity Series</title>
+    <sub-title lang="en">Pocono</sub-title>
+    <desc lang="en">The Cup Series heads to Pocono's Tricky Triangle with Denny Hamlin chasing a third straight win. Hamlin is closing on points leader Tyler Reddick as their title fight heats up.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <new />
+    <rating system="ACMA">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260615093000 +0000" stop="20260615113000 +0000" channel="fsa506">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Barcelona Race</sub-title>
+    <desc lang="en">Rookie sensation Kimi Antonelli hunts his sixth straight win to extend his lead, while Mercedes rival George Russell fights to salvage his title charge.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_EP027326820826_108652950218_2026-05-05T13:56:21Z_p32386881_b_h8_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Spain</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260615113000 +0000" stop="20260615123000 +0000" channel="fsa506">
+    <title lang="en">Chequered Flag</title>
+    <sub-title lang="en">Barcelona</sub-title>
+    <desc lang="en">All the reactions live from the Formula 1 paddock after the Chequered Flag of the Grand Prix.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">Canada</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615123000 +0000" stop="20260615130000 +0000" channel="fsa506">
+    <title lang="en">Ted's Notebook</title>
+    <sub-title lang="en">Barcelona</sub-title>
+    <desc lang="en">Ted Kravitz tours the paddock following the Grand Prix, as he shares his thoughts on the race and catches up with big figures from around the world of F1.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-13_SH038161890000_106370532176_2017-07-11T13:23:00Z_p9739735_b_h10_ac/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615130000 +0000" stop="20260615140000 +0000" channel="fsa506">
+    <title lang="en">NASCAR Xfinity Series</title>
+    <sub-title lang="en">Pocono</sub-title>
+    <desc lang="en">The Cup Series heads to Pocono's Tricky Triangle with Denny Hamlin chasing a third straight win. Hamlin is closing on points leader Tyler Reddick as their title fight heats up.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260615140000 +0000" stop="20260615150000 +0000" channel="fsa506">
+    <title lang="en">Moto2</title>
+    <sub-title lang="en">Grand Prix of Hungary</sub-title>
+    <desc lang="en">Coverage of Grand Prix of Hungary.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103078_2026-06-12_SH046925380000_108386458596_2025-04-10T15:13:46Z_p13059050_b_h8_af/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Hungary</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260615150000 +0000" stop="20260615160000 +0000" channel="fsa506">
+    <title lang="en">MotoGP</title>
+    <sub-title lang="en">Hungary Race</sub-title>
+    <desc lang="en">Coverage of Hungary Race.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103078_2026-06-12_EP028104881522_108425841462_2026-04-22T14:25:28Z_p32391705_b_h8_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Hungary</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260615160000 +0000" stop="20260615170000 +0000" channel="fsa506">
+    <title lang="en">NASCAR Xfinity Series</title>
+    <sub-title lang="en">Pocono</sub-title>
+    <desc lang="en">The Cup Series heads to Pocono's Tricky Triangle with Denny Hamlin chasing a third straight win. Hamlin is closing on points leader Tyler Reddick as their title fight heats up.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260615170000 +0000" stop="20260615180000 +0000" channel="fsa506">
+    <title lang="en">NASCAR Xfinity Series</title>
+    <sub-title lang="en">Pocono</sub-title>
+    <desc lang="en">The Cup Series heads to Pocono's Tricky Triangle with Denny Hamlin chasing a third straight win. Hamlin is closing on points leader Tyler Reddick as their title fight heats up.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260615180000 +0000" stop="20260615190000 +0000" channel="fsa506">
+    <title lang="en">World Superbikes</title>
+    <sub-title lang="en">Emilia Romanga Race 1</sub-title>
+    <desc lang="en">Dominant championship leader Nicolo Bulega looks to continue his relentless win streak on home soil while teammate Iker Lecuona gives chase.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260615190000 +0000" stop="20260615200000 +0000" channel="fsa506">
+    <title lang="en">World Superbikes</title>
+    <sub-title lang="en">Emilia Romanga Race 2</sub-title>
+    <desc lang="en">WorldSBK action continues with Race 2, as the chasing pack works to cut into Nicolo Bulega’s Championship lead.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260615200000 +0000" stop="20260615202000 +0000" channel="fsa506">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 LIG vs THU</sub-title>
+    <desc lang="en">After claiming the Minor Premiership, the Thunderbirds will look to continue their dominant form before heading into Finals. The Lightning however, will want to spoil the party.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615202000 +0000" stop="20260615204000 +0000" channel="fsa506">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 MAV vs FIR</sub-title>
+    <desc lang="en">The Mavs have solidified their maiden Finals appearance but before that they need to get through a Firebirds side with nothing to lose.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615204000 +0000" stop="20260615210000 +0000" channel="fsa506">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 VIX vs FEV</sub-title>
+    <desc lang="en">A win will give the Fever a home Semi Final but the Vixens will want to build momentum ahead of the Finals series.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615210000 +0000" stop="20260615212000 +0000" channel="fsa506">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 GIA vs SWI</sub-title>
+    <desc lang="en">The Giants have one more chance to get a win on the board when they host the Swifts in the NSW Derby at Ken Rosewall Arena.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615212000 +0000" stop="20260615220000 +0000" channel="fsa506">
+    <title lang="en">Pivot</title>
+    <sub-title lang="en">Round 13</sub-title>
+    <desc lang="en">The panel dissect all the action from Round 13 and discuss the latest news in netball.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042468590000_103737881982_2026-01-09T06:05:31Z_p21884451_b_h10_ab/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615220000 +0000" stop="20260615230000 +0000" channel="fsa506">
+    <title lang="en">NASCAR Xfinity Series</title>
+    <sub-title lang="en">Pocono</sub-title>
+    <desc lang="en">The Cup Series heads to Pocono's Tricky Triangle with Denny Hamlin chasing a third straight win. Hamlin is closing on points leader Tyler Reddick as their title fight heats up.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260615230000 +0000" stop="20260616000000 +0000" channel="fsa506">
+    <title lang="en">Formula 2</title>
+    <sub-title lang="en">Barcelona Feature Race</sub-title>
+    <desc lang="en">Championship leader Gabriele Mini aims to defend his 1-point lead over Nikola Tsolov, who is carrying momentum from his Monaco victory.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103078_2026-06-12_SH033280150000_108463772467_2026-06-05T06:56:51Z_p13929005_b_h10_bd/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260616000000 +0000" stop="20260616020000 +0000" channel="fsa506">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Barcelona Race</sub-title>
+    <desc lang="en">Rookie sensation Kimi Antonelli hunts his sixth straight win to extend his lead, while Mercedes rival George Russell fights to salvage his title charge.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_EP027326820826_108652950218_2026-05-05T13:56:21Z_p32386881_b_h8_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Spain</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260616020000 +0000" stop="20260616030000 +0000" channel="fsa506">
+    <title lang="en">Chequered Flag</title>
+    <sub-title lang="en">Barcelona</sub-title>
+    <desc lang="en">All the reactions live from the Formula 1 paddock after the Chequered Flag of the Grand Prix.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">Canada</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616030000 +0000" stop="20260616033000 +0000" channel="fsa506">
+    <title lang="en">Ted's Notebook</title>
+    <sub-title lang="en">Barcelona</sub-title>
+    <desc lang="en">Ted Kravitz tours the paddock following the Grand Prix, as he shares his thoughts on the race and catches up with big figures from around the world of F1.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-13_SH038161890000_106370532176_2017-07-11T13:23:00Z_p9739735_b_h10_ac/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616033000 +0000" stop="20260616035000 +0000" channel="fsa506">
+    <title lang="en">MotoGP Mini</title>
+    <sub-title lang="en">Hungary</sub-title>
+    <desc lang="en">Hungary</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">Hungary</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616035000 +0000" stop="20260616044500 +0000" channel="fsa506">
+    <title lang="en">FIM Endurance World Championship</title>
+    <sub-title lang="en">Rnd 2 Spa 8Hr</sub-title>
+    <desc lang="en">Experience world-class motorcycle racing at the iconic Spa-Francorchamps in Belgium. Top teams battle grueling conditions in an intense 8-hour FIM Endurance World Championship showdown.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616044500 +0000" stop="20260616054000 +0000" channel="fsa506">
+    <title lang="en">FIM Speedway SGP Highlights</title>
+    <sub-title lang="en">Rnd 3 Great Britain</sub-title>
+    <desc lang="en">The world's elite riders head to Manchester's National Speedway Stadium for an intense double-header weekend of high-speed, brakeless dirt racing. 2025 champion Bartosz Zmarzlik has taken the lead in the standings.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616054000 +0000" stop="20260616063500 +0000" channel="fsa506">
+    <title lang="en">FIM Speedway SGP Highlights</title>
+    <sub-title lang="en">Rnd 4 Great Britain</sub-title>
+    <desc lang="en">The world's elite riders head to Manchester's National Speedway Stadium for an intense double-header weekend of high-speed, brakeless dirt racing. Aussie rider Brady Kurtz sits third in the standings.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616063500 +0000" stop="20260616073000 +0000" channel="fsa506">
+    <title lang="en">ISLE OF MAN TT</title>
+    <sub-title lang="en">Review Show 1</sub-title>
+    <desc lang="en">We look back at the best moments from the 2026 Isle of Man TT. We recap the races, review the results and remember the best moments from the event.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">Isle of Man</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <new />
+  </programme>
+  <programme start="20260616073000 +0000" stop="20260616083000 +0000" channel="fsa506">
+    <title lang="en">Shannons SpeedSeries</title>
+    <sub-title lang="en">Rnd 3 Queensland Day 2</sub-title>
+    <desc lang="en">Australia's best GT3, and GT4 stars take on Queensland Raceway. Featuring GT4 Australia, Mustang Cup and GT World Challenge Australia.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/bya5zldvmvu97ogihk4mfeqzc_image-header_pRow_1778118344000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260616083000 +0000" stop="20260616090000 +0000" channel="fsa506">
+    <title lang="en">F1 Mini</title>
+    <sub-title lang="en">Barcelona</sub-title>
+    <desc lang="en">Rookie sensation Kimi Antonelli hunts his sixth straight win to extend his lead, while Mercedes rival George Russell fights to salvage his title charge.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103083_2026-06-12_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20260616090000 +0000" stop="20260616093000 +0000" channel="fsa506">
+    <title lang="en">Ted's Notebook</title>
+    <sub-title lang="en">Barcelona</sub-title>
+    <desc lang="en">Ted Kravitz tours the paddock following the Grand Prix, as he shares his thoughts on the race and catches up with big figures from around the world of F1.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-13_SH038161890000_106370532176_2017-07-11T13:23:00Z_p9739735_b_h10_ac/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616093000 +0000" stop="20260616103000 +0000" channel="fsa506">
+    <title lang="en">World Superbikes</title>
+    <sub-title lang="en">Emilia Romanga Race 1</sub-title>
+    <desc lang="en">Dominant championship leader Nicolo Bulega looks to continue his relentless win streak on home soil while teammate Iker Lecuona gives chase.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260616103000 +0000" stop="20260616113000 +0000" channel="fsa506">
+    <title lang="en">World Superbikes</title>
+    <sub-title lang="en">Emilia Romanga Race 2</sub-title>
+    <desc lang="en">WorldSBK action continues with Race 2, as the chasing pack works to cut into Nicolo Bulega’s Championship lead.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260616113000 +0000" stop="20260616120000 +0000" channel="fsa506">
+    <title lang="en">How Good Is Golf</title>
+    <sub-title lang="en">Pennant Hills Golf Club</sub-title>
+    <desc lang="en">How Good Is Golf shows you how to play, where to play and what equipment to use. Join Paul Gow as he takes you through the greatest game of all.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616120000 +0000" stop="20260616140000 +0000" channel="fsa506">
+    <title lang="en">World Cup of Darts</title>
+    <sub-title lang="en">Final Day Night Session</sub-title>
+    <desc lang="en">Four nations remain in the final session in Frankfurt. Watch the drama unfold as duos fight for global glory.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH032967320000_108316850083_2025-11-17T13:26:36Z_p644283_b_h10_am/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616140000 +0000" stop="20260616150000 +0000" channel="fsa506">
+    <title lang="en">USPGA Tour Highlights</title>
+    <sub-title lang="en">RBC Canadian Open</sub-title>
+    <desc lang="en">Highlights from the USPGA Tour.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616150000 +0000" stop="20260616152000 +0000" channel="fsa506">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 LIG vs THU</sub-title>
+    <desc lang="en">After claiming the Minor Premiership, the Thunderbirds will look to continue their dominant form before heading into Finals. The Lightning however, will want to spoil the party.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616152000 +0000" stop="20260616154000 +0000" channel="fsa506">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 MAV vs FIR</sub-title>
+    <desc lang="en">The Mavs have solidified their maiden Finals appearance but before that they need to get through a Firebirds side with nothing to lose.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616154000 +0000" stop="20260616160000 +0000" channel="fsa506">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 VIX vs FEV</sub-title>
+    <desc lang="en">A win will give the Fever a home Semi Final but the Vixens will want to build momentum ahead of the Finals series.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616160000 +0000" stop="20260616162000 +0000" channel="fsa506">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 GIA vs SWI</sub-title>
+    <desc lang="en">The Giants have one more chance to get a win on the board when they host the Swifts in the NSW Derby at Ken Rosewall Arena.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616162000 +0000" stop="20260616170000 +0000" channel="fsa506">
+    <title lang="en">Pivot</title>
+    <sub-title lang="en">Round 13</sub-title>
+    <desc lang="en">The panel dissect all the action from Round 13 and discuss the latest news in netball.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042468590000_103737881982_2026-01-09T06:05:31Z_p21884451_b_h10_ab/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616170000 +0000" stop="20260616190000 +0000" channel="fsa506">
+    <title lang="en">World Cup of Darts</title>
+    <sub-title lang="en">Final Day Night Session</sub-title>
+    <desc lang="en">Four nations remain in the final session in Frankfurt. Watch the drama unfold as duos fight for global glory.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH032967320000_108316850083_2025-11-17T13:26:36Z_p644283_b_h10_am/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616190000 +0000" stop="20260616200000 +0000" channel="fsa506">
+    <title lang="en">PRO BULL RIDERS CUP AUSTRALIA 2026 PBR</title>
+    <desc lang="en">Join some of the toughest sportsmen on the planet for the ride of your life as they take on the meanest bulls in the world in a bid to be crowned Australia's best bull rider.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025.4.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616200000 +0000" stop="20260616210000 +0000" channel="fsa506">
+    <title lang="en">NASCAR Xfinity Series</title>
+    <sub-title lang="en">Pocono</sub-title>
+    <desc lang="en">The Cup Series heads to Pocono's Tricky Triangle with Denny Hamlin chasing a third straight win. Hamlin is closing on points leader Tyler Reddick as their title fight heats up.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260616210000 +0000" stop="20260616220000 +0000" channel="fsa506">
+    <title lang="en">Shannons SpeedSeries</title>
+    <sub-title lang="en">Rnd 3 Queensland Day 1</sub-title>
+    <desc lang="en">Australia's best GT3, GT4, and Porsche stars take on Queensland Raceway. Featuring GT4 Australia, Mustang Cup and GT World Challenge Australia.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/bya5zldvmvu97ogihk4mfeqzc_image-header_pRow_1778118344000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260616220000 +0000" stop="20260616230000 +0000" channel="fsa506">
+    <title lang="en">Shannons SpeedSeries</title>
+    <sub-title lang="en">Rnd 3 Queensland Day 2</sub-title>
+    <desc lang="en">Australia's best GT3, and GT4 stars take on Queensland Raceway. Featuring GT4 Australia, Mustang Cup and GT World Challenge Australia.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/bya5zldvmvu97ogihk4mfeqzc_image-header_pRow_1778118344000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260616230000 +0000" stop="20260616233000 +0000" channel="fsa506">
+    <title lang="en">F1 Mini</title>
+    <sub-title lang="en">Barcelona</sub-title>
+    <desc lang="en">Rookie sensation Kimi Antonelli hunts his sixth straight win to extend his lead, while Mercedes rival George Russell fights to salvage his title charge.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103083_2026-06-12_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20260616233000 +0000" stop="20260617000000 +0000" channel="fsa506">
+    <title lang="en">Ted's Notebook</title>
+    <sub-title lang="en">Barcelona</sub-title>
+    <desc lang="en">Ted Kravitz tours the paddock following the Grand Prix, as he shares his thoughts on the race and catches up with big figures from around the world of F1.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-13_SH038161890000_106370532176_2017-07-11T13:23:00Z_p9739735_b_h10_ac/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <episode-num system="xmltv_ns">2025.18.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HD</quality>
@@ -29821,7 +31132,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103081_2026-06-12_SH034903020000_108467168008_2022-06-01T21:25:54Z_p9170851_b_h10_bd/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
     <country lang="en">United States of America</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
@@ -29842,6 +31153,7 @@
     <category lang="en">Sport</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_EP027326820826_108652950218_2026-05-05T13:56:21Z_p32386881_b_h8_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Monaco</country>
+    <country lang="en">Spain</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -29913,7 +31225,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103081_2026-06-12_SH035352430000_107838421440_2019-05-29T12:20:18Z_p3568619_b_h8_ae/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
     <country lang="en">Isle of Man</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
@@ -29983,7 +31295,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103081_2026-06-12_SH035352430000_107838421440_2019-05-29T12:20:18Z_p3568619_b_h8_ae/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
     <country lang="en">Isle of Man</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
@@ -30215,7 +31527,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103081_2026-06-12_SH035352430000_107838421440_2019-05-29T12:20:18Z_p3568619_b_h8_ae/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
     <country lang="en">Isle of Man</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
@@ -30767,20 +32079,22 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260614220000 +0000" stop="20260614230000 +0000" channel="fsa507">
-    <title lang="en">World Superbikes</title>
-    <sub-title lang="en">Emilia Romanga Race 1</sub-title>
-    <desc lang="en">Coverage of the program - Superbike World Championship.</desc>
+  <programme start="20260614220000 +0000" stop="20260614223000 +0000" channel="fsa507">
+    <title lang="en">Matty &amp; Volk at the White House</title>
+    <desc lang="en">Matty Johns and Featherweight Champ Alex Volkanovski preview the most historic event in combat sports history from the nation's capital, with UFC Freedom 250 set to take place on the lawn of the White House.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
-    <episode-num system="xmltv_ns">2025..</episode-num>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/Fallback_LTV_Fox_Sports_505/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <episode-num system="xmltv_ns">2025.1.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
   </programme>
   <programme start="20260614223000 +0000" stop="20260614233000 +0000" channel="fsa507">
     <title lang="en">World Superbikes</title>
@@ -30815,14 +32129,881 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260615000000 +0000" stop="20260615010000 +0000" channel="fsa507">
-    <title lang="en">PSA Squash Tour</title>
-    <sub-title lang="en">British Open</sub-title>
-    <desc lang="en">All the highlights from the PSA Squash British Open held at Birmingham Repertory Theatre.</desc>
+  <programme start="20260615003000 +0000" stop="20260615023000 +0000" channel="fsa507">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Barcelona Race</sub-title>
+    <desc lang="en">Rookie sensation Kimi Antonelli hunts his sixth straight win to extend his lead, while Mercedes rival George Russell fights to salvage his title charge.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103081_2026-06-13_SH036590010000_108466643906_2023-10-17T13:24:02Z_p8470080_i_h8_ac/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_EP027326820826_108652950218_2026-05-05T13:56:21Z_p32386881_b_h8_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Spain</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260615023000 +0000" stop="20260615030000 +0000" channel="fsa507">
+    <title lang="en">Ted's Notebook</title>
+    <sub-title lang="en">Barcelona</sub-title>
+    <desc lang="en">Ted Kravitz tours the paddock following the Grand Prix, as he shares his thoughts on the race and catches up with big figures from around the world of F1.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-13_SH038161890000_106370532176_2017-07-11T13:23:00Z_p9739735_b_h10_ac/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <episode-num system="xmltv_ns">2025.18.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615030000 +0000" stop="20260615040000 +0000" channel="fsa507">
+    <title lang="en">NASCAR Auto Parts Highlights</title>
+    <sub-title lang="en">Pocono</sub-title>
+    <desc lang="en">Defending Pocono winner Connor Zilisch and Cup Series star William Byron join the field for a chaotic 250-mile battle.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615040000 +0000" stop="20260615050000 +0000" channel="fsa507">
+    <title lang="en">World Superbikes</title>
+    <sub-title lang="en">Emilia Romanga Race 1</sub-title>
+    <desc lang="en">Dominant championship leader Nicolo Bulega looks to continue his relentless win streak on home soil while teammate Iker Lecuona gives chase.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260615050000 +0000" stop="20260615060000 +0000" channel="fsa507">
+    <title lang="en">World Superbikes</title>
+    <sub-title lang="en">Emilia Romanga Race 2</sub-title>
+    <desc lang="en">WorldSBK action continues with Race 2, as the chasing pack works to cut into Nicolo Bulega’s Championship lead.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260615060000 +0000" stop="20260615063000 +0000" channel="fsa507">
+    <title lang="en">Spirit of Sport</title>
+    <desc lang="en">Delve into the world of sport in this month’s Spirit of Sport!</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-13_SH045128200000_108416883515_2022-10-27T01:56:31Z_p23268383_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <episode-num system="xmltv_ns">2025.7.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615063000 +0000" stop="20260615083000 +0000" channel="fsa507">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Barcelona Race</sub-title>
+    <desc lang="en">Rookie sensation Kimi Antonelli hunts his sixth straight win to extend his lead, while Mercedes rival George Russell fights to salvage his title charge.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_EP027326820826_108652950218_2026-05-05T13:56:21Z_p32386881_b_h8_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Spain</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260615083000 +0000" stop="20260615090000 +0000" channel="fsa507">
+    <title lang="en">Ted's Notebook</title>
+    <sub-title lang="en">Barcelona</sub-title>
+    <desc lang="en">Ted Kravitz tours the paddock following the Grand Prix, as he shares his thoughts on the race and catches up with big figures from around the world of F1.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-13_SH038161890000_106370532176_2017-07-11T13:23:00Z_p9739735_b_h10_ac/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615090000 +0000" stop="20260615110000 +0000" channel="fsa507">
+    <title lang="en">World Cup of Darts</title>
+    <sub-title lang="en">Final Day Night Session</sub-title>
+    <desc lang="en">Four nations remain in the final session in Frankfurt. Watch the drama unfold as duos fight for global glory.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH032967320000_108316850083_2025-11-17T13:26:36Z_p644283_b_h10_am/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615110000 +0000" stop="20260615112000 +0000" channel="fsa507">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 LIG vs THU</sub-title>
+    <desc lang="en">After claiming the Minor Premiership, the Thunderbirds will look to continue their dominant form before heading into Finals. The Lightning however, will want to spoil the party.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615112000 +0000" stop="20260615114000 +0000" channel="fsa507">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 MAV vs FIR</sub-title>
+    <desc lang="en">The Mavs have solidified their maiden Finals appearance but before that they need to get through a Firebirds side with nothing to lose.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615114000 +0000" stop="20260615120000 +0000" channel="fsa507">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 VIX vs FEV</sub-title>
+    <desc lang="en">A win will give the Fever a home Semi Final but the Vixens will want to build momentum ahead of the Finals series.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615120000 +0000" stop="20260615122000 +0000" channel="fsa507">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 GIA vs SWI</sub-title>
+    <desc lang="en">The Giants have one more chance to get a win on the board when they host the Swifts in the NSW Derby at Ken Rosewall Arena.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615122000 +0000" stop="20260615130000 +0000" channel="fsa507">
+    <title lang="en">Pivot</title>
+    <sub-title lang="en">Round 14</sub-title>
+    <desc lang="en">The panel dissect all the action from Round 14 and discuss the latest news in netball.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042468590000_103737881982_2026-01-09T06:05:31Z_p21884451_b_h10_ab/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615130000 +0000" stop="20260615170000 +0000" channel="fsa507">
+    <title lang="en">WSL Championship Tour</title>
+    <sub-title lang="en">El Salvador Final Day</sub-title>
+    <desc lang="en">The competition is set to heat up in Central America with the fifth stop on the Championship Tour.</desc>
+    <date>2026</date>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615170000 +0000" stop="20260615220000 +0000" channel="fsa507">
+    <title lang="en">WSL Championship Tour</title>
+    <sub-title lang="en">El Salvador Final Day</sub-title>
+    <desc lang="en">The competition is set to heat up in Central America with the fifth stop on the Championship Tour.</desc>
+    <date>2026</date>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260615220000 +0000" stop="20260616000000 +0000" channel="fsa507">
+    <title lang="en">World Cup of Darts</title>
+    <sub-title lang="en">Final Day Night Session</sub-title>
+    <desc lang="en">Four nations remain in the final session in Frankfurt. Watch the drama unfold as duos fight for global glory.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH032967320000_108316850083_2025-11-17T13:26:36Z_p644283_b_h10_am/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616000000 +0000" stop="20260616010000 +0000" channel="fsa507">
+    <title lang="en">USPGA Tour Highlights</title>
+    <sub-title lang="en">RBC Canadian Open</sub-title>
+    <desc lang="en">Highlights from the USPGA Tour.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616010000 +0000" stop="20260616012000 +0000" channel="fsa507">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 LIG vs THU</sub-title>
+    <desc lang="en">After claiming the Minor Premiership, the Thunderbirds will look to continue their dominant form before heading into Finals. The Lightning however, will want to spoil the party.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616012000 +0000" stop="20260616014000 +0000" channel="fsa507">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 MAV vs FIR</sub-title>
+    <desc lang="en">The Mavs have solidified their maiden Finals appearance but before that they need to get through a Firebirds side with nothing to lose.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616014000 +0000" stop="20260616020000 +0000" channel="fsa507">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 VIX vs FEV</sub-title>
+    <desc lang="en">A win will give the Fever a home Semi Final but the Vixens will want to build momentum ahead of the Finals series.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616020000 +0000" stop="20260616022000 +0000" channel="fsa507">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 GIA vs SWI</sub-title>
+    <desc lang="en">The Giants have one more chance to get a win on the board when they host the Swifts in the NSW Derby at Ken Rosewall Arena.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616022000 +0000" stop="20260616030000 +0000" channel="fsa507">
+    <title lang="en">Pivot</title>
+    <sub-title lang="en">Round 14</sub-title>
+    <desc lang="en">The panel dissect all the action from Round 14 and discuss the latest news in netball.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042468590000_103737881982_2026-01-09T06:05:31Z_p21884451_b_h10_ab/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616030000 +0000" stop="20260616040000 +0000" channel="fsa507">
+    <title lang="en">USPGA Tour Highlights</title>
+    <sub-title lang="en">RBC Canadian Open</sub-title>
+    <desc lang="en">Highlights from the USPGA Tour.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616040000 +0000" stop="20260616060000 +0000" channel="fsa507">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Barcelona Race</sub-title>
+    <desc lang="en">Rookie sensation Kimi Antonelli hunts his sixth straight win to extend his lead, while Mercedes rival George Russell fights to salvage his title charge.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_EP027326820826_108652950218_2026-05-05T13:56:21Z_p32386881_b_h8_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Spain</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260616060000 +0000" stop="20260616070000 +0000" channel="fsa507">
+    <title lang="en">Shannons SpeedSeries</title>
+    <sub-title lang="en">Rnd 3 Queensland Day 1</sub-title>
+    <desc lang="en">Australia's best GT3, GT4, and Porsche stars take on Queensland Raceway. Featuring GT4 Australia, Mustang Cup and GT World Challenge Australia.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/bya5zldvmvu97ogihk4mfeqzc_image-header_pRow_1778118344000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+  </programme>
+  <programme start="20260616070000 +0000" stop="20260616090000 +0000" channel="fsa507">
+    <title lang="en">World Cup of Darts</title>
+    <sub-title lang="en">Final Day Night Session</sub-title>
+    <desc lang="en">Four nations remain in the final session in Frankfurt. Watch the drama unfold as duos fight for global glory.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH032967320000_108316850083_2025-11-17T13:26:36Z_p644283_b_h10_am/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616090000 +0000" stop="20260616092000 +0000" channel="fsa507">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 LIG vs THU</sub-title>
+    <desc lang="en">After claiming the Minor Premiership, the Thunderbirds will look to continue their dominant form before heading into Finals. The Lightning however, will want to spoil the party.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616092000 +0000" stop="20260616094000 +0000" channel="fsa507">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 MAV vs FIR</sub-title>
+    <desc lang="en">The Mavs have solidified their maiden Finals appearance but before that they need to get through a Firebirds side with nothing to lose.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616094000 +0000" stop="20260616100000 +0000" channel="fsa507">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 VIX vs FEV</sub-title>
+    <desc lang="en">A win will give the Fever a home Semi Final but the Vixens will want to build momentum ahead of the Finals series.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616100000 +0000" stop="20260616102000 +0000" channel="fsa507">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 GIA vs SWI</sub-title>
+    <desc lang="en">The Giants have one more chance to get a win on the board when they host the Swifts in the NSW Derby at Ken Rosewall Arena.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616102000 +0000" stop="20260616110000 +0000" channel="fsa507">
+    <title lang="en">Pivot</title>
+    <sub-title lang="en">Round 14</sub-title>
+    <desc lang="en">The panel dissect all the action from Round 14 and discuss the latest news in netball.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042468590000_103737881982_2026-01-09T06:05:31Z_p21884451_b_h10_ab/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616110000 +0000" stop="20260616120000 +0000" channel="fsa507">
+    <title lang="en">The Bowls Show</title>
+    <desc lang="en">The Bowls Show features highlights from BPL, interviews with stars of the game, and showcases some of the best moments from the game we all love.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616120000 +0000" stop="20260616140000 +0000" channel="fsa507">
+    <title lang="en">Formula 1</title>
+    <sub-title lang="en">Barcelona Race</sub-title>
+    <desc lang="en">Rookie sensation Kimi Antonelli hunts his sixth straight win to extend his lead, while Mercedes rival George Russell fights to salvage his title charge.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_EP027326820826_108652950218_2026-05-05T13:56:21Z_p32386881_b_h8_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Spain</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20260616140000 +0000" stop="20260616160000 +0000" channel="fsa507">
+    <title lang="en">World Cup of Darts</title>
+    <sub-title lang="en">Final Day Night Session</sub-title>
+    <desc lang="en">Four nations remain in the final session in Frankfurt. Watch the drama unfold as duos fight for global glory.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH032967320000_108316850083_2025-11-17T13:26:36Z_p644283_b_h10_am/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616160000 +0000" stop="20260616170000 +0000" channel="fsa507">
+    <title lang="en">NASCAR Auto Parts Highlights</title>
+    <sub-title lang="en">Pocono</sub-title>
+    <desc lang="en">Defending Pocono winner Connor Zilisch and Cup Series star William Byron join the field for a chaotic 250-mile battle.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616170000 +0000" stop="20260616180000 +0000" channel="fsa507">
+    <title lang="en">NASCAR Cup Highlights</title>
+    <sub-title lang="en">Pocono</sub-title>
+    <desc lang="en">The Cup Series heads to Pocono's Tricky Triangle with Denny Hamlin chasing a third straight win. Hamlin is closing on points leader Tyler Reddick as their title fight heats up.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616180000 +0000" stop="20260616182000 +0000" channel="fsa507">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 LIG vs THU</sub-title>
+    <desc lang="en">After claiming the Minor Premiership, the Thunderbirds will look to continue their dominant form before heading into Finals. The Lightning however, will want to spoil the party.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616182000 +0000" stop="20260616184000 +0000" channel="fsa507">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 MAV vs FIR</sub-title>
+    <desc lang="en">The Mavs have solidified their maiden Finals appearance but before that they need to get through a Firebirds side with nothing to lose.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616184000 +0000" stop="20260616190000 +0000" channel="fsa507">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 VIX vs FEV</sub-title>
+    <desc lang="en">A win will give the Fever a home Semi Final but the Vixens will want to build momentum ahead of the Finals series.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616190000 +0000" stop="20260616192000 +0000" channel="fsa507">
+    <title lang="en">Super Netball Mini</title>
+    <sub-title lang="en">R14 GIA vs SWI</sub-title>
+    <desc lang="en">The Giants have one more chance to get a win on the board when they host the Swifts in the NSW Derby at Ken Rosewall Arena.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042238620000_104204204319_2022-03-07T01:46:24Z_p21759843_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616192000 +0000" stop="20260616200000 +0000" channel="fsa507">
+    <title lang="en">Pivot</title>
+    <sub-title lang="en">Round 14</sub-title>
+    <desc lang="en">The panel dissect all the action from Round 14 and discuss the latest news in netball.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH042468590000_103737881982_2026-01-09T06:05:31Z_p21884451_b_h10_ab/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616200000 +0000" stop="20260616210000 +0000" channel="fsa507">
+    <title lang="en">USPGA Tour Highlights</title>
+    <sub-title lang="en">RBC Canadian Open</sub-title>
+    <desc lang="en">Highlights from the USPGA Tour.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">United States of America</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616210000 +0000" stop="20260616215500 +0000" channel="fsa507">
+    <title lang="en">The Bowls Show</title>
+    <desc lang="en">The Bowls Show features highlights from BPL, interviews with stars of the game, and showcases some of the best moments from the game we all love.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <episode-num system="xmltv_ns">2025.4.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616215500 +0000" stop="20260616225500 +0000" channel="fsa507">
+    <title lang="en">Asian PGA Tour Highlights</title>
+    <sub-title lang="en">IS Morocco</sub-title>
+    <desc lang="en">Highlights from the Asian PGA Tour.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616225500 +0000" stop="20260616232500 +0000" channel="fsa507">
+    <title lang="en">How Good Is Golf</title>
+    <sub-title lang="en">Pennant Hills Golf Club</sub-title>
+    <desc lang="en">How Good Is Golf shows you how to play, where to play and what equipment to use. Join Paul Gow as he takes you through the greatest game of all.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2025..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616232500 +0000" stop="20260616235500 +0000" channel="fsa507">
+    <title lang="en">Spirit of Sport</title>
+    <desc lang="en">Delve into the world of sport in this month’s Spirit of Sport!</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-13_SH045128200000_108416883515_2022-10-27T01:56:31Z_p23268383_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <episode-num system="xmltv_ns">2025.7.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <new />
+    <rating system="ACMA">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260616235500 +0000" stop="20260617015500 +0000" channel="fsa507">
+    <title lang="en">World Cup of Darts</title>
+    <sub-title lang="en">Final Day Night Session</sub-title>
+    <desc lang="en">Four nations remain in the final session in Frankfurt. Watch the drama unfold as duos fight for global glory.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103075_2026-06-12_SH032967320000_108316850083_2025-11-17T13:26:36Z_p644283_b_h10_am/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -37955,7 +40136,7 @@
     <date>2008</date>
     <category lang="en">Movie</category>
     <category lang="en">Animation</category>
-    <icon src="https://assets.fanart.tv/fanart/open-season-2-542034f225d2d.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w500/lM4bahouPblYcfngZtnNSkaWxCU.jpg" />
     <country lang="en">United States of America</country>
     <video>
       <aspect>16:9</aspect>
@@ -38473,7 +40654,7 @@
     <date>2020</date>
     <category lang="en">Movie</category>
     <category lang="en">Family</category>
-    <icon src="https://assets.fanart.tv/fanart/the-croods-2-5f8147b6ec0a9.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w500/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg" />
     <country lang="en">United States of America</country>
     <video>
       <aspect>16:9</aspect>
@@ -40212,7 +42393,7 @@
     <date>2003</date>
     <category lang="en">Movie</category>
     <category lang="en">Comedy</category>
-    <icon src="https://image.tmdb.org/t/p/w500/nYtuwNHpEoIbTgS3aFPSEwZNN6l.jpg" />
+    <icon src="https://assets.fanart.tv/fanart/old-school-6637d7007aaff.jpg" />
     <country lang="en">United States of America</country>
     <video>
       <aspect>16:9</aspect>
@@ -42006,7 +44187,7 @@
     <date>2015</date>
     <category lang="en">Movie</category>
     <category lang="en">Thriller</category>
-    <icon src="https://assets.fanart.tv/fanart/mission-impossible-5-56b8f9a34602a.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w500/fRJLXQBHK2wyznK5yZbO7vmsuVK.jpg" />
     <country lang="en">United States of America</country>
     <video>
       <aspect>16:9</aspect>
@@ -47931,7 +50112,7 @@
     <date>2009</date>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/1rFcosLtBnGL2ru0IPtwx3QSeKK.jpg" />
+    <icon src="https://assets.fanart.tv/fanart/nowhere-boy-664d6aea6252e.jpg" />
     <country lang="en">United Kingdom of Great Britain and Northern Ireland</country>
     <video>
       <aspect>16:9</aspect>
@@ -48117,7 +50298,7 @@
     <date>2009</date>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/1rFcosLtBnGL2ru0IPtwx3QSeKK.jpg" />
+    <icon src="https://assets.fanart.tv/fanart/nowhere-boy-664d6aea6252e.jpg" />
     <country lang="en">United Kingdom of Great Britain and Northern Ireland</country>
     <video>
       <aspect>16:9</aspect>
