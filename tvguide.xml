@@ -8139,7 +8139,6 @@
     </credits>
     <date>2026</date>
     <category lang="en">Live</category>
-    <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/93/35/77/82/91/18/72/52/5/1293357782911872525?resolution=360x245" />
     <country lang="en">United States of America</country>
@@ -16232,13 +16231,13 @@
     </rating>
   </programme>
   <programme start="20260713014000 +0000" stop="20260713020000 +0000" channel="fsa502">
-    <title lang="en">NRLW</title>
+    <title lang="en">NRLW MINI</title>
     <sub-title lang="en">CBY vs GLD</sub-title>
     <desc lang="en">The hosts return from New Zealand for Round 2. The only time these sides met resulted in a draw last season.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
-    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/31jwng4jjxastilwhfxla760n_image-header_pRow_1783477812000/fill/center/top/none/100/1920/1080/jpeg/image?brand=kayo" />
+    <icon src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&amp;auto=format&amp;fit=crop&amp;q=60" />
     <country lang="en">Australia</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
@@ -26162,6 +26161,7 @@
     <category lang="en">Sport</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103078_2026-07-12_SH035786450000_105695703154_2020-08-14T07:40:24Z_p18624430_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Germany</country>
+    <country lang="en">Netherlands</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -27220,6 +27220,7 @@
     <category lang="en">Sport</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103078_2026-07-12_SH035786450000_105695703154_2020-08-14T07:40:24Z_p18624430_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Germany</country>
+    <country lang="en">Netherlands</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -27758,7 +27759,7 @@
   <programme start="20260711093500 +0000" stop="20260711121000 +0000" channel="fsa504">
     <title lang="en">AFL</title>
     <sub-title lang="en">Carlton vs Hawthorn</sub-title>
-    <desc lang="en">Fox Footy and KAYO are the only places to watch the red-hot Blues on a seven-game win streak, as they host Hawthorn, needing to win to maintain a spot in the top four.</desc>
+    <desc lang="en">Fox Footy is the only places to watch the red-hot Blues on a seven-game win streak, as they host Hawthorn, needing to win to maintain a spot in the top four.</desc>
     <date>2026</date>
     <category lang="en">Live</category>
     <category lang="en">Series</category>
@@ -28503,7 +28504,7 @@
   <programme start="20260713034000 +0000" stop="20260713040000 +0000" channel="fsa504">
     <title lang="en">AFL Mini</title>
     <sub-title lang="en">Round 18 CAR vs HAW</sub-title>
-    <desc lang="en">Fox Footy and KAYO are the only places to watch the red-hot Blues on a seven-game win streak, as they host Hawthorn, needing to win to maintain a spot in the top four.</desc>
+    <desc lang="en">Fox Footy is the only places to watch the red-hot Blues on a seven-game win streak, as they host Hawthorn, needing to win to maintain a spot in the top four.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sport</category>
@@ -30982,6 +30983,7 @@
     <category lang="en">Sport</category>
     <icon src="https://image.discovery.indazn.com/jp/v3/linear-channel/none/103078_2026-07-12_SH035786450000_105695703154_2020-08-14T07:40:24Z_p18624430_i_h10_aa/fill/center/center/none/100/1920/1080/jpeg/image?brand=kayo" />
     <country lang="en">Germany</country>
+    <country lang="en">Netherlands</country>
     <episode-num system="xmltv_ns">2025..</episode-num>
     <video>
       <aspect>16:9</aspect>
@@ -35251,7 +35253,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w780/iXp8NomUApw6JVyXssPHLvqkHWC.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w780/lq2aJdPlyOo11aBwojmLvGjlJS1.jpg" />
     <country lang="en">United States of America</country>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <video>
@@ -35361,7 +35363,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w780/iXp8NomUApw6JVyXssPHLvqkHWC.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w780/lq2aJdPlyOo11aBwojmLvGjlJS1.jpg" />
     <country lang="en">United States of America</country>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <video>
@@ -35387,7 +35389,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w780/iXp8NomUApw6JVyXssPHLvqkHWC.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w780/lq2aJdPlyOo11aBwojmLvGjlJS1.jpg" />
     <country lang="en">United States of America</country>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <video>
@@ -35517,7 +35519,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w780/iXp8NomUApw6JVyXssPHLvqkHWC.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w780/lq2aJdPlyOo11aBwojmLvGjlJS1.jpg" />
     <country lang="en">United States of America</country>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <video>
@@ -35543,7 +35545,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w780/iXp8NomUApw6JVyXssPHLvqkHWC.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w780/lq2aJdPlyOo11aBwojmLvGjlJS1.jpg" />
     <country lang="en">United States of America</country>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <video>
@@ -35621,7 +35623,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w780/iXp8NomUApw6JVyXssPHLvqkHWC.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w780/lq2aJdPlyOo11aBwojmLvGjlJS1.jpg" />
     <country lang="en">United States of America</country>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <video>
@@ -35862,7 +35864,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w780/iXp8NomUApw6JVyXssPHLvqkHWC.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w780/lq2aJdPlyOo11aBwojmLvGjlJS1.jpg" />
     <country lang="en">United States of America</country>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <video>
@@ -35888,7 +35890,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w780/iXp8NomUApw6JVyXssPHLvqkHWC.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w780/lq2aJdPlyOo11aBwojmLvGjlJS1.jpg" />
     <country lang="en">United States of America</country>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <video>
@@ -37026,7 +37028,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w780/iXp8NomUApw6JVyXssPHLvqkHWC.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w780/lq2aJdPlyOo11aBwojmLvGjlJS1.jpg" />
     <country lang="en">United States of America</country>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <video>
@@ -37052,7 +37054,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w780/iXp8NomUApw6JVyXssPHLvqkHWC.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w780/lq2aJdPlyOo11aBwojmLvGjlJS1.jpg" />
     <country lang="en">United States of America</country>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <video>
@@ -37494,7 +37496,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w780/iXp8NomUApw6JVyXssPHLvqkHWC.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w780/lq2aJdPlyOo11aBwojmLvGjlJS1.jpg" />
     <country lang="en">United States of America</country>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <video>
@@ -37520,7 +37522,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w780/iXp8NomUApw6JVyXssPHLvqkHWC.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w780/lq2aJdPlyOo11aBwojmLvGjlJS1.jpg" />
     <country lang="en">United States of America</country>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <video>
@@ -41127,7 +41129,7 @@
     <date>1988</date>
     <category lang="en">Movie</category>
     <category lang="en">Comedy</category>
-    <icon src="https://assets.fanart.tv/fanart/coming-to-america-5488ac905d577.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w500/8YZiA1o264dk0cr1USyMdph6SZl.jpg" />
     <country lang="en">United States of America</country>
     <video>
       <aspect>16:9</aspect>
@@ -41327,7 +41329,7 @@
     <date>1988</date>
     <category lang="en">Movie</category>
     <category lang="en">Comedy</category>
-    <icon src="https://assets.fanart.tv/fanart/coming-to-america-5488ac905d577.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w500/8YZiA1o264dk0cr1USyMdph6SZl.jpg" />
     <country lang="en">United States of America</country>
     <video>
       <aspect>16:9</aspect>
@@ -50375,7 +50377,7 @@
     <date>1988</date>
     <category lang="en">Movie</category>
     <category lang="en">Comedy</category>
-    <icon src="https://assets.fanart.tv/fanart/coming-to-america-5488ac905d577.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w500/8YZiA1o264dk0cr1USyMdph6SZl.jpg" />
     <country lang="en">United States of America</country>
     <video>
       <aspect>16:9</aspect>
@@ -50530,7 +50532,7 @@
     <date>1988</date>
     <category lang="en">Movie</category>
     <category lang="en">Comedy</category>
-    <icon src="https://assets.fanart.tv/fanart/coming-to-america-5488ac905d577.jpg" />
+    <icon src="https://image.tmdb.org/t/p/w500/8YZiA1o264dk0cr1USyMdph6SZl.jpg" />
     <country lang="en">United States of America</country>
     <video>
       <aspect>16:9</aspect>
